@@ -16,7 +16,7 @@ php bin/magento cache:clean
 ## Manually
 To install this language package manually you need access to your server file system.
 * Download the zip file [here](https://github.com/Magento2Translations/language_nl_nl/archive/master.zip).
-* Upload the contents to `<your magento path>/app/i18n/magento2translations/nl_NL`.
+* Upload the contents to `<your magento path>/app/i18n/magento2translations/language_nl_nl`.
 * The composer files should then be located like this `<your magento path>/app/i18n/magento2translations/nl_NL/nl_NL.csv`.
 * Go to your Magento admin panel and clear the caches.
 
