@@ -6471,7 +6471,6 @@ Enable,Activeer,module,Magento_Sales
 "We'll use the default description above if you leave this empty.","De hierboven weergegeven standaard beschrijving wordt gebruikt, als u dit leeg laat.",module,Magento_Sales
 "Multi-address Error to Show in Shopping Cart","Probleem om meer adressen te tonen in winkelwagen",module,Magento_Sales
 "We'll use the default error above if you leave this empty.","De hierboven weergegeven standaard foutmelding zal gebruikt worden, als u dit leeg laat.",module,Magento_Sales
-"Use Aggregated Data (beta)","Toon recente data (beta)",module,Magento_Sales
 "Orders Cron Settings","Bestellingen Cron instellingen",module,Magento_Sales
 "Pending Payment Order Lifetime (minutes)","Levensduur bestelling bij betaling in behandeling (in minuten)",module,Magento_Sales
 "Sales Emails","E-mails voor verkoop",module,Magento_Sales
