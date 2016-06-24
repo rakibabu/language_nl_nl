@@ -1091,7 +1091,6 @@ State/Province,Staat/provincie,module,Magento_Checkout
 "My Cart (1 item)","Winkelwagen (1 product)",module,Magento_Checkout
 "My Cart (%1 items)","Winkelwagen (%1 producten)",module,Magento_Checkout
 "My Cart",Winkelwagen,module,Magento_Checkout
-"Minimum order amount is %1","Minimale bestelhoeveelheid is %1",module,Magento_Checkout
 "Customer is already registered","Klant is al geregistreerd",module,Magento_Checkout
 "Your session has expired","Uw sessie is verlopen",module,Magento_Checkout
 "You added %1 to your shopping cart.","U heeft %1 aan de winkelwagen toegevoegd.",module,Magento_Checkout
@@ -2674,9 +2673,6 @@ Yes,ja,module,Magento_Payment
 No,Nee,module,Magento_Payment
 "Expiration Date",Vervaldatum,module,Magento_Payment
 "Card Verification Number",Verificatienummer,module,Magento_Payment
-"Switch/Solo/Maestro Only","Uitsluitend Switch/Solo/Maestro",module,Magento_Payment
-"Issue Number",Uitgiftenummer,module,Magento_Payment
-"Start Date",begindatum,module,Magento_Payment
 "Please Select","Selecteer a.u.b.",module,Magento_Payment
 "--Please Select--","--Maak een keuze--",module,Magento_Payment
 "Card Verification Number Visual Reference","Visuele referentie Kaartverificatienummer",module,Magento_Payment
