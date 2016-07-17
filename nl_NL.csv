@@ -6370,6 +6370,7 @@ Debug,"Fouten opsporen in programma",module,Magento_Usps
 "Sort Order","Sorteer Bestelling",module,Magento_Usps
 "Variable ID","Variabele ID",module,Magento_Variable
 Name,Naam,module,Magento_Variable
+"Web API Security","Web API beveiliging",module,Magento_WebapiSecurity
 "SOAP Settings","SOAP instellingen",module,Magento_Webapi
 "Default Response Charset","Standaard karakterset",module,Magento_Webapi
 "If empty, UTF-8 will be used.","Indien leeg zal UTF-8 worden gebruikt.",module,Magento_Webapi
