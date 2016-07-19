@@ -1649,7 +1649,7 @@ Submit,Bevestig,module,Magento_Contact
 "Invalid cookie lifetime: %1","Ongeldige cookie-levensduur: %1",module,Magento_Cookie
 "Invalid cookie path","Ongeldig cookiepad",module,Magento_Cookie
 "We use cookies to make your experience better.","Wij gebruiken cookies om uw ervaring beter te maken.",module,Magento_Cookie
-"To comply with the new e-Privacy directive, we need to ask for your consent to set the cookies.","Om te voldoen aan de nieuwe e-Privacy-richtlijnen, moeten we om uw toestemming vragen om de cookies te plaatsen.",module,Magento_Cookie
+"To comply with the new e-Privacy directive, we need to ask for your consent to set the cookies.","Om te voldoen aan de cookie wetgeving, vragen we uw om toestemming om de cookies te plaatsen.",module,Magento_Cookie
 "<a href=""%1"">Learn more</a>.","<a href=""%1"">Meer informatie</a>.",module,Magento_Cookie
 "Allow Cookies","Cookies toestaan",module,Magento_Cookie
 "We can't save the cron expression.","We kunnen de Cron opdracht niet opslaan.",module,Magento_Cron
