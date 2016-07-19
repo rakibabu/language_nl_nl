@@ -1479,10 +1479,10 @@ Yes/No,Ja/Nee,module,Magento_Eav
 "Wrong entity ID","Onjuiste entiteit-ID",module,Magento_Eav
 "Wrong attribute set ID","Onjuiste attributenset-ID",module,Magento_Eav
 "Wrong attribute group ID","Onjuiste attribuutgroep-ID",module,Magento_Eav
-"Add New Template","Nieuwe sjabloon toevoegen",module,Magento_Email
+"Add New Template","Nieuw sjabloon toevoegen",module,Magento_Email
 "Transactional Emails","Transactionele e-mails",module,Magento_Email
-Back,terug,module,Magento_Email
-"Delete Template","Template verwijderen",module,Magento_Email
+Back,Terug,module,Magento_Email
+"Delete Template","Sjabloon verwijderen",module,Magento_Email
 "Convert to Plain Text","Omzetten naar platte tekst",module,Magento_Email
 "Return Html Version","Geef HTML-versie terug",module,Magento_Email
 "Preview Template","Template vooraf bekijken",module,Magento_Email
