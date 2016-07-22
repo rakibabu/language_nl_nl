@@ -590,14 +590,14 @@ Visible,Zichtbaar,module,Magento_Catalog
 Searchable,Doorzoekbaar,module,Magento_Catalog
 Comparable,Vergelijkbaar,module,Magento_Catalog
 "Delete Selected Group","Geselecteerde groep verwijderen",module,Magento_Catalog
-"Add New","Voeg nieuwe toe",module,Magento_Catalog
+"Add New","Nieuwe toevoegen",module,Magento_Catalog
 Back,terug,module,Magento_Catalog
 Delete,Verwijder,module,Magento_Catalog
 Save,Bewaar,module,Magento_Catalog
 "New Set Name","Nieuwe set-naam",module,Magento_Catalog
 "Edit Attribute Set '%1'","Attributenset '%s' bewerken",module,Magento_Catalog
 Empty,Leeg,module,Magento_Catalog
-"Add Attribute","Voeg attribuut toe",module,Magento_Catalog
+"Add Attribute","Attribuut toevoegen",module,Magento_Catalog
 "Add New Group","Nieuwe groep toevoegen",module,Magento_Catalog
 "Add Group","Groep toevoegen",module,Magento_Catalog
 "For internal use","Voor intern gebruik",module,Magento_Catalog
@@ -627,7 +627,7 @@ Change,Verander,module,Magento_Catalog
 "New Attribute","Nieuw attribuut",module,Magento_Catalog
 "Attribute Set",Attributenset,module,Magento_Catalog
 Visibility,Zichtbaarheid,module,Magento_Catalog
-"Add New Option","Voeg nieuwe optie toe",module,Magento_Catalog
+"Add New Option","Optie toevoegen",module,Magento_Catalog
 "Import Options","Import opties",module,Magento_Catalog
 "Use Default","Gebruik standaard",module,Magento_Catalog
 "Add New Row","Nieuwe rij toevoegen",module,Magento_Catalog
@@ -639,8 +639,6 @@ Visibility,Zichtbaarheid,module,Magento_Catalog
 "Add Price","Prijs toevoegen",module,Magento_Catalog
 "Default Values",standaardwaarden,module,Magento_Catalog
 "Related Products","Gerelateerde producten",module,Magento_Catalog
-Up-sells,"verkoop van duurdere producten",module,Magento_Catalog
-Cross-sells,Kruis-verkopen,module,Magento_Catalog
 "Size for %1","Afmeting voor %1",module,Magento_Catalog
 "Watermark File for %1","Watermerk-bestand voor %1",module,Magento_Catalog
 "Position of Watermark for %1","Positie van watermerk voor %1",module,Magento_Catalog
@@ -795,7 +793,7 @@ Search,Zoek,module,Magento_Catalog
 "Manage Titles (Size, Color, etc.)","Beheer titels (grootte, kleur, etc)",module,Magento_Catalog
 "Manage Options (values of your attribute)","Beheer opties (waarden van uw attribuut)",module,Magento_Catalog
 "Is Default","Is standaard",module,Magento_Catalog
-"Add Option","Voeg optie toe",module,Magento_Catalog
+"Add Option","Optie toevoegen",module,Magento_Catalog
 "Sort Option",Sorteeroptie,module,Magento_Catalog
 Groups,Groepen,module,Magento_Catalog
 "Unassigned Attributes","Niet-toegewezen attributen",module,Magento_Catalog
@@ -3755,7 +3753,7 @@ Total:,Totaal:,module,Magento_Checkout
 Cancel,Annuleer,module,Magento_Catalog
 "Configure Product","Configureer product",module,Magento_Catalog
 "Select type of option.","Type optie selecteren.",module,Magento_Catalog
-"Please add rows to option.","Voeg a.u.b. rijen toe aan de optie.",module,Magento_Catalog
+"Please add rows to option.","Voeg rijen toe aan optie.",module,Magento_Catalog
 "New Option","Nieuwe optie",module,Magento_Catalog
 "Select Product","Selecteer Product",module,Magento_Catalog
 "Please select items.","Selecteer artikelen.",module,Magento_Catalog
