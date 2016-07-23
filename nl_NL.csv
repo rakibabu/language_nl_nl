@@ -1500,8 +1500,8 @@ Unknown,Onbekend,module,Magento_Email
 "New Template","Nieuw sjabloon",module,Magento_Email
 "New System Template","Nieuw systeem-sjabloon",module,Magento_Email
 "Email Templates","E-mail templates",module,Magento_Email
-"Email Preview","E-mail Preview",module,Magento_Email
-"An error occurred. The email template can not be opened for preview.","Er is een fout opgetreden. De e-mailtemplate kan niet worden geopend voor preview.",module,Magento_Email
+"Email Preview","Voorvertoning E-mail",module,Magento_Email
+"An error occurred. The email template can not be opened for preview.","Er is een fout opgetreden. De e-mailtemplate kan niet worden geopend als voorvertoning.",module,Magento_Email
 "This email template no longer exists.","Dit e-mail-sjabloon bestaat niet meer.",module,Magento_Email
 "Base Unsecure URL","Onveilige basis-URL",module,Magento_Email
 "Base Secure URL","Veilige basis-URL",module,Magento_Email
@@ -2294,10 +2294,9 @@ Reports,Rapportages,module,Magento_Reports
 "Ordered Products Report","Bestelde producten rapportage",module,Magento_Reports
 "Products Most Viewed Report","Rapportage meest bekeken producten",module,Magento_Reports
 "Product Views Report","Bekeken producten rapportage",module,Magento_Reports
-Reviews,Beoordelen,module,Magento_Reports
 "Customers Report",Klantenrapport,module,Magento_Reports
-"Customer Reviews Report","Klant beoordelingen rapportage",module,Magento_Reports
-"Product Reviews Report","Product beoordelingen rapportage",module,Magento_Reports
+"Customer Reviews Report","Rapportage Klant Reviews",module,Magento_Reports
+"Product Reviews Report","Rapportage Product Reviews",module,Magento_Reports
 "Product Reviews",Productreviews,module,Magento_Reports
 Details,Gegevens,module,Magento_Reports
 Sales,Verkopen,module,Magento_Reports
@@ -2333,7 +2332,7 @@ Bestsellers,"Meest verkochte producten",module,Magento_Reports
 "Add to Compare","Toevoegen om te vergelijken",module,Magento_Reports
 "Recently Compared","Recentelijk vergelijken",module,Magento_Reports
 "Save Review","Review opslaan",module,Magento_Review
-"New Review","Nieuwe reviews",module,Magento_Review
+"New Review","Nieuwe review",module,Magento_Review
 "Review Details","Review details",module,Magento_Review
 "Product Rating",Productwaardering,module,Magento_Review
 Visibility,Zichtbaarheid,module,Magento_Review
@@ -2358,10 +2357,10 @@ Delete,Verwijder,module,Magento_Review
 "Are you sure?","Weet je het zeker?",module,Magento_Review
 "Update Status","Status bijwerken",module,Magento_Review
 Customer,Klant,module,Magento_Review
-"Pending Reviews of Customer `%1`","In behandeling beoordelingen van klant '%1'",module,Magento_Review
+"Pending Reviews of Customer `%1`","Pending reviews van klanten '%1'",module,Magento_Review
 "Pending Reviews","Te modereren reviews",module,Magento_Review
-"All Reviews of Customer `%1`","Alle beoordelingen van klant '%1'",module,Magento_Review
-"All Reviews of Product `%1`","Alle beoordelingen van Product '%1'",module,Magento_Review
+"All Reviews of Customer `%1`","Alle reviews van klant '%1'",module,Magento_Review
+"All Reviews of Product `%1`","Alle reviews van Product '%1'",module,Magento_Review
 "All Reviews","Alle reviews",module,Magento_Review
 Name,Naam,module,Magento_Review
 "Product Store Name","Product winkelnaam",module,Magento_Review
@@ -2381,16 +2380,15 @@ Quantity,Aantal,module,Magento_Review
 "Rating Information","Informatie waardering",module,Magento_Review
 "Product Reviews",Productreviews,module,Magento_Review
 "Pending Reviews RSS","RSS van wachtende reviews",module,Magento_Review
-Reviews,Beoordelen,module,Magento_Review
 "The review has been deleted.","De review is verwijderd.",module,Magento_Review
-"Something went wrong  deleting this review.","Er ging iets mis bij het verwijderen van deze beoordeling.",module,Magento_Review
+"Something went wrong  deleting this review.","Er ging iets mis bij het verwijderen van deze review.",module,Magento_Review
 "Customer Reviews",Klantenreviews,module,Magento_Review
 "Edit Review","Bewerk review",module,Magento_Review
-"Please select review(s).","Selecteer beoordeling(en)",module,Magento_Review
+"Please select review(s).","Selecteer review(en).",module,Magento_Review
 "A total of %1 record(s) have been deleted.","%1 record(s) verwijderd.",module,Magento_Review
 "A total of %1 record(s) have been updated.","%1 record(s) bijgewerkt.",module,Magento_Review
-"You saved the review.","U hebt de beoordeling opgeslagen.",module,Magento_Review
-"Something went wrong while saving this review.","Er ging iets mis bij het opslaan van deze beoordeling.",module,Magento_Review
+"You saved the review.","U hebt de review opgeslagen.",module,Magento_Review
+"Something went wrong while saving this review.","Er ging iets mis bij het opslaan van deze review.",module,Magento_Review
 "The review was removed by another user or does not exist.","De review is verwijderd door een andere gebruiker, of bestaat niet",module,Magento_Review
 "You deleted the rating.","U heeft de waardering verwijderd.",module,Magento_Review
 Ratings,Waarderingen,module,Magento_Review
@@ -2418,7 +2416,7 @@ Summary,Samenvatting,module,Magento_Review
 "Submit Review","Review versturen",module,Magento_Review
 "Add Your Review","Schrijf een review",module,Magento_Review
 "%1 Review(s)","%d review(s)",module,Magento_Review
-"Review by","Beoordeelt door",module,Magento_Review
+"Review by","Gereviewd door",module,Magento_Review
 "Posted on","Gepost op",module,Magento_Review
 "Back to Main Product Info","Terug naar productpagina",module,Magento_Review
 "Average Customer Rating","Gemiddelde klantwaardering",module,Magento_Review
@@ -3347,7 +3345,7 @@ Manage,Beheer,module,Magento_Theme
 "Parent Theme","Bovenliggend Thema",module,Magento_Theme
 "Theme Path","Thema pad",module,Magento_Theme
 "Theme Title","Thema titel",module,Magento_Theme
-"Theme Preview Image","Thema Preview afbeelding",module,Magento_Theme
+"Theme Preview Image","Voorvertoning thema-afbeelding",module,Magento_Theme
 General,Algemeen,module,Magento_Theme
 "Copy of %1","Kopie van %1",module,Magento_Theme
 "Max image size %1M","Maximale afbeeldingsgrootte %1M",module,Magento_Theme
@@ -4557,7 +4555,7 @@ Average,Gemiddeld,module,Magento_Reports
 Guest,Bezoeker,module,Magento_Reports
 Action,Aktie,module,Magento_Reports
 "Average (Approved)","Gemiddelde (goedgekeurd)",module,Magento_Reports
-"Last Review","Laatste beoordeling",module,Magento_Reports
+"Last Review","Laatste Review",module,Magento_Reports
 "Last Invoice Created Date","Laatste factuur aangemaakt op",module,Magento_Reports
 "Last Credit Memo Created Date","Laatste creditfactuur aangemaakt op",module,Magento_Reports
 "First Invoice Created Date","Eerste factuur aangemaakt op",module,Magento_Reports
