@@ -2326,8 +2326,8 @@ Unknown,Onbekend,module,Magento_Email
 "New Template","Nieuw sjabloon",module,Magento_Email
 "New System Template","Nieuw systeem-sjabloon",module,Magento_Email
 "Email Templates","E-mail templates",module,Magento_Email
-"Email Preview","E-mail Preview",module,Magento_Email
-"An error occurred. The email template can not be opened for preview.","Er is een fout opgetreden. De e-mailtemplate kan niet worden geopend voor preview.",module,Magento_Email
+"Email Preview","Voorvertoning E-mail",module,Magento_Email
+"An error occurred. The email template can not be opened for preview.","Er is een fout opgetreden. De e-mailtemplate kan niet worden geopend als voorvertoning.",module,Magento_Email
 "This email template no longer exists.","Dit e-mail-sjabloon bestaat niet meer.",module,Magento_Email
 "You saved the email template.","U hebt de e-mailtemplate opgeslagen.",module,Magento_Email
 "Area is already set","Gebied is al ingesteld",module,Magento_Email
@@ -3261,7 +3261,7 @@ Description,Beschrijving,module,Magento_ProductVideo
 Role,Rol,module,Magento_ProductVideo
 "YouTube and Vimeo supported.","Youtube en Vimeo ondersteund.",module,Magento_ProductVideo
 "Vimeo supported.<br />To add YouTube video, please <a href=""%1"">enter YouTube API Key</a> first.","Vimeo ondersteund.<br />Om een YouTube video toe te voegen, gelieve eerst<a href=""%1"">uw YouTube API Key in te vullen</a>.",module,Magento_ProductVideo
-"Could not get preview image information. Please check your connection and try again.","Preview beeldinformatie kon niet verkregen worden. Controleer uw verbinding en probeer het opnieuw.",module,Magento_ProductVideo
+"Could not get preview image information. Please check your connection and try again.","Kan afbeelding voorvertoning niet ophalen. Controleer uw verbinding en probeer het opnieuw.",module,Magento_ProductVideo
 "Click here to add videos.","Klik hier om video's toe te voegen.",module,Magento_ProductVideo
 "New Video","Nieuwe Video",module,Magento_ProductVideo
 "Add Video","Video toevoegen",module,Magento_ProductVideo
@@ -3436,10 +3436,9 @@ Reports,Rapportages,module,Magento_Reports
 "Products Most Viewed Report","Rapportage meest bekeken producten",module,Magento_Reports
 "Product Views Report","Bekeken producten rapportage",module,Magento_Reports
 "An error occurred while showing the product views report. Please review the log and try again.","Er is een fout opgetreden tijdens het weergeven van de productrapportage. Controleer het logboek en probeer opnieuw.",module,Magento_Reports
-Reviews,Beoordelen,module,Magento_Reports
 "Customers Report",Klantenrapport,module,Magento_Reports
-"Customer Reviews Report","Klant beoordelingen rapportage",module,Magento_Reports
-"Product Reviews Report","Product beoordelingen rapportage",module,Magento_Reports
+"Customer Reviews Report","Rapportage Klant Reviews",module,Magento_Reports
+"Product Reviews Report","Rapportage Product Reviews",module,Magento_Reports
 "Product Reviews",Productreviews,module,Magento_Reports
 Details,Gegevens,module,Magento_Reports
 Sales,Verkopen,module,Magento_Reports
@@ -3488,7 +3487,7 @@ Error,Foutmelding,module,Magento_Reports
 "Recently Compared","Recentelijk vergelijken",module,Magento_Reports
 "Learn More","Lees verder",module,Magento_Reports
 "Save Review","Review opslaan",module,Magento_Review
-"New Review","Nieuwe reviews",module,Magento_Review
+"New Review","Nieuwe review",module,Magento_Review
 "Review Details","Review details",module,Magento_Review
 "Product Rating",Productwaardering,module,Magento_Review
 Visibility,Zichtbaarheid,module,Magento_Review
@@ -3515,10 +3514,10 @@ Delete,Verwijder,module,Magento_Review
 "Are you sure?","Weet je het zeker?",module,Magento_Review
 "Update Status","Status bijwerken",module,Magento_Review
 Customer,Klant,module,Magento_Review
-"Pending Reviews of Customer `%1`","In behandeling beoordelingen van klant '%1'",module,Magento_Review
+"Pending Reviews of Customer `%1`","Pending reviews van klanten '%1'",module,Magento_Review
 "Pending Reviews","Te modereren reviews",module,Magento_Review
-"All Reviews of Customer `%1`","Alle beoordelingen van klant '%1'",module,Magento_Review
-"All Reviews of Product `%1`","Alle beoordelingen van Product '%1'",module,Magento_Review
+"All Reviews of Customer `%1`","Alle reviews van klant '%1'",module,Magento_Review
+"All Reviews of Product `%1`","Alle reviews van Product '%1'",module,Magento_Review
 "All Reviews","Alle reviews",module,Magento_Review
 Name,Naam,module,Magento_Review
 "Product Store Name","Product winkelnaam",module,Magento_Review
@@ -3537,41 +3536,37 @@ Quantity,Aantal,module,Magento_Review
 "Sort Order","Sorteer Bestelling",module,Magento_Review
 "Rating Information","Informatie waardering",module,Magento_Review
 "Product Reviews",Productreviews,module,Magento_Review
-"Pending product review(s)","Onafgehandelde productbeoordelingen",module,Magento_Review
-"Summary of review: %1 <br/>","Samenvatting van beoordeling: %s<br>",module,Magento_Review
-"Review: %1 <br/>","Beoordeel: %s",module,Magento_Review
+"Summary of review: %1 <br/>","Samenvatting van review: %1<br/>",module,Magento_Review
 "Store: %1 <br/>","Winkel: %s<br />",module,Magento_Review
-"Click <a href=""%1"">here</a> to see the review.","Klik <a href=""%1""> hier</a> om de beoordeling te zien.",module,Magento_Review
-"Product: ""%1"" reviewed by: %2","Product: ""%1"" beoordeeld door: %2",module,Magento_Review
+"Click <a href=""%1"">here</a> to see the review.","<a href=""%1"">Bekijk review</a>.",module,Magento_Review
+"Product: ""%1"" reviewed by: %2","Product: ""%1"" gereviewd door: %2",module,Magento_Review
 "Pending Reviews RSS","RSS van wachtende reviews",module,Magento_Review
-"Reviews %1","Beoordelingen %1",module,Magento_Review
-Reviews,Beoordelen,module,Magento_Review
 "The review has been deleted.","De review is verwijderd.",module,Magento_Review
-"Something went wrong  deleting this review.","Er ging iets mis bij het verwijderen van deze beoordeling.",module,Magento_Review
+"Something went wrong  deleting this review.","Er ging iets mis bij het verwijderen van deze review.",module,Magento_Review
 "Customer Reviews",Klantenreviews,module,Magento_Review
 "Edit Review","Bewerk review",module,Magento_Review
 "We can't retrieve the product ID.","We kunnen het product-ID niet ophalen.",module,Magento_Review
-"Please select review(s).","Selecteer beoordeling(en)",module,Magento_Review
+"Please select review(s).","Selecteer review(en).",module,Magento_Review
 "A total of %1 record(s) have been deleted.","%1 record(s) verwijderd.",module,Magento_Review
 "Something went wrong while deleting these records.","Er ging iets mis tijdens het verwijderen van deze records.",module,Magento_Review
 "A total of %1 record(s) have been updated.","%1 record(s) bijgewerkt.",module,Magento_Review
-"Something went wrong while updating these review(s).","Er ging iets mis tijdens het bijwerken van deze beoordeling(en).",module,Magento_Review
-"You saved the review.","U hebt de beoordeling opgeslagen.",module,Magento_Review
-"Something went wrong while saving this review.","Er ging iets mis bij het opslaan van deze beoordeling.",module,Magento_Review
+"Something went wrong while updating these review(s).","Er ging iets mis tijdens het bijwerken van deze review(en).",module,Magento_Review
+"You saved the review.","U hebt de review opgeslagen.",module,Magento_Review
+"Something went wrong while saving this review.","Er ging iets mis bij het opslaan van deze review.",module,Magento_Review
 "The review was removed by another user or does not exist.","De review is verwijderd door een andere gebruiker, of bestaat niet",module,Magento_Review
 "You deleted the rating.","U heeft de waardering verwijderd.",module,Magento_Review
 Ratings,Waarderingen,module,Magento_Review
 "You saved the rating.","U heeft de waardering opgeslagen.",module,Magento_Review
 "My Product Reviews",Productreviews,module,Magento_Review
-"You submitted your review for moderation.","U heeft uw beoordeling aangeboden ter goedkeuring.",module,Magento_Review
+"You submitted your review for moderation.","U heeft uw review aangeboden ter goedkeuring.",module,Magento_Review
 "We can't post your review right now.","Wij kunnen uw beoordeling nu niet plaatsen.",module,Magento_Review
 "Storage key was not set","Opslag sleutel is niet ingesteld",module,Magento_Review
 Approved,Akkoord,module,Magento_Review
 Pending,"In behandeling",module,Magento_Review
 "Not Approved","Niet Akkoord",module,Magento_Review
-"Please enter a review summary.","Voer een beoordeling samenvatting in.",module,Magento_Review
+"Please enter a review summary.","Voer een review samenvatting in.",module,Magento_Review
 "Please enter a nickname.","Voer een bijnaam in.",module,Magento_Review
-"Please enter a review.","Voor een beoordeling in.",module,Magento_Review
+"Please enter a review.","Voer een review in.",module,Magento_Review
 "Please specify a rating title for a store, or we'll just use the default value.","Geef een waardering titel voor een winkel, Anders gebruiken we de standaardwaarde.",module,Magento_Review
 "Assigned Options","Toegewezen opties",module,Magento_Review
 "Option Title:","Titel optie:",module,Magento_Review
@@ -3584,7 +3579,7 @@ Back,terug,module,Magento_Review
 "My Recent Reviews","Recente reviews",module,Magento_Review
 "View All","Bekijk alles",module,Magento_Review
 "Average Customer Rating:","Gemiddelde klantwaardering:",module,Magento_Review
-"Your Review","Uw beoordeling",module,Magento_Review
+"Your Review","Uw Review",module,Magento_Review
 "Submitted on %1","Ingediend op %1",module,Magento_Review
 "Back to My Reviews","Terug naar reviews-overzicht",module,Magento_Review
 "Ratings Review Summary","Waarderingen Review Samenvatting",module,Magento_Review
@@ -3597,7 +3592,7 @@ Summary,Samenvatting,module,Magento_Review
 "Only registered users can write reviews. Please, <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>","Alleen geregistreerde gebruikers kunnen beoordelingen schrijven. Log in of maak alstublieft een account aan. <a href=""%1""> inloggen</a> of <a href=""%2""> </a>",module,Magento_Review
 "Add Your Review","Schrijf een review",module,Magento_Review
 "%1 Review(s)","%d review(s)",module,Magento_Review
-"Review by","Beoordeelt door",module,Magento_Review
+"Review by","Gereviewd door",module,Magento_Review
 "Posted on","Gepost op",module,Magento_Review
 "Back to Main Product Info","Terug naar productpagina",module,Magento_Review
 "Average Customer Rating","Gemiddelde klantwaardering",module,Magento_Review
@@ -4852,7 +4847,7 @@ Manage,Beheer,module,Magento_Theme
 "Parent Theme","Bovenliggend Thema",module,Magento_Theme
 "Theme Path","Thema pad",module,Magento_Theme
 "Theme Title","Thema titel",module,Magento_Theme
-"Theme Preview Image","Thema Preview afbeelding",module,Magento_Theme
+"Theme Preview Image","Voorvertoning thema-afbeelding",module,Magento_Theme
 General,Algemeen,module,Magento_Theme
 "Copy of %1","Kopie van %1",module,Magento_Theme
 "Max image size %1M","Maximale afbeeldingsgrootte %1M",module,Magento_Theme
@@ -6574,7 +6569,7 @@ Average,Gemiddeld,module,Magento_Reports
 Guest,Bezoeker,module,Magento_Reports
 Action,Aktie,module,Magento_Reports
 "Average (Approved)","Gemiddelde (goedgekeurd)",module,Magento_Reports
-"Last Review","Laatste beoordeling",module,Magento_Reports
+"Last Review","Laatste Review",module,Magento_Reports
 "Order Created","Order gemaakt",module,Magento_Reports
 "Order Updated",Bestellingsupdate,module,Magento_Reports
 "The Order Updated report is created in real time and does not require a refresh.","Het Bijgewerkte Order overzicht wordt in real-time is gemaakt en hoeft niet vernieuwd te worden.",module,Magento_Reports
