@@ -616,7 +616,7 @@ Year,Jaar,module,Magento_Catalog
 "WYSIWYG Editor","WYSIWYG editor",module,Magento_Catalog
 "Add Product","Product toevoegen",module,Magento_Catalog
 "Product Attributes",Productattributen,module,Magento_Catalog
-"Add New Attribute","Voeg nieuw attribuut toe",module,Magento_Catalog
+"Add New Attribute","Nieuw attribuut toevoegen",module,Magento_Catalog
 "Save in New Attribute Set","Opslaan in nieuwe attribuutset",module,Magento_Catalog
 "Enter Name for New Attribute Set","Voer naam in voor nieuwe attribuutset",module,Magento_Catalog
 "Save and Continue Edit","Opslaan en doorgaan met bewerken",module,Magento_Catalog
@@ -1079,7 +1079,7 @@ Manually,Handmatig,module,Magento_CheckoutAgreements
 "Unable to remove checkout agreement %1","Betalingsovereenkomst %1 verwijderen is niet mogelijk",module,Magento_CheckoutAgreements
 "Checkout agreement with specified ID ""%1"" not found.","Betalingsovereenkomst met het opgegeven kenmerk %1 niet gevonden.",module,Magento_CheckoutAgreements
 "Shopping Cart",Winkelwagen,module,Magento_Checkout
-"Invalid method: %1","Ongeldige wijze: %1",module,Magento_Checkout
+"Invalid method: %1","Ongeldige methode: %1",module,Magento_Checkout
 City,Stad,module,Magento_Checkout
 Country,Land,module,Magento_Checkout
 State/Province,Staat/provincie,module,Magento_Checkout
@@ -1395,7 +1395,7 @@ Actions,acties,module,Magento_ConfigurableProduct
 Confirm,Bevestigen,module,Magento_ConfigurableProduct
 Cancel,Annuleer,module,Magento_ConfigurableProduct
 "Page not found.","Pagina niet gevonden.",module,Magento_Contact
-"* Required Fields","* Vereiste velden",module,Magento_Contact
+"* Required Fields","* Verplichte velden",module,Magento_Contact
 "Write Us","Neem contact met ons op",module,Magento_Contact
 "Jot us a note and we’ll get back to you as quickly as possible.","Laat een vraag of opmerking achter en wij zullen hier zo spoedig mogelijk op terugkomen.",module,Magento_Contact
 Name,Naam,module,Magento_Contact
@@ -2413,6 +2413,7 @@ Synchronizing...,Synchroniseren...,module,Magento_MediaStorage
 "File with an extension ""%value%"" is protected and cannot be uploaded","Bestand met een extensie ""%value%"" is beveiligd en kan niet worden geüpload.",module,Magento_MediaStorage
 "Unable to create directory: %1","Niet in staat om de map te maken: %1",module,Magento_MediaStorage
 "Unable to save file: %1","Niet in staat om het bestand op te slaan: %1",module,Magento_MediaStorage
+"To see product price, add this item to your cart. You can always remove it later.","Om de prijs van het product te zien, voeg dit product toe aan uw winkelwagen. U kunt het later altijd verwijderen.",module,Magento_Msrp
 "See price before order confirmation.","Bekijk prijs voor bestelbevestiging.",module,Magento_Msrp
 "On Gesture","Op verzoek",module,Magento_Msrp
 "In Cart","In winkelwagen",module,Magento_Msrp
@@ -2879,7 +2880,7 @@ Edit,Bewerken,module,Magento_Paypal
 Price,prijs,module,Magento_Paypal
 Qty,Aantal,module,Magento_Paypal
 Subtotal,subtotaal,module,Magento_Paypal
-"Please update order data to get shipping methods and rates","Update gegeven bestelling voor verzendmethodes en kosten",module,Magento_Paypal
+"Please update order data to get shipping methods and rates","Update gegeven bestelling voor verzendmethodes en -kosten",module,Magento_Paypal
 or,of,module,Magento_Paypal
 Continue,"Verder gaan",module,Magento_Paypal
 "Additional Options","Extra opties",module,Magento_Paypal
@@ -2889,7 +2890,7 @@ Continue,"Verder gaan",module,Magento_Paypal
 "Sign a billing agreement to streamline further purchases  with PayPal.","Teken een incasso-overeenkomst om verdere aankopen met PayPal te stroomlijnen.",module,Magento_Paypal
 "Not you?","Bent u het niet?",module,Magento_Persistent
 "Your shopping cart has been updated with new prices.","Uw winkelwagen is bijgewerkt met de nieuwe prijzen.",module,Magento_Persistent
-"Welcome, %1!","Welkom, %s!",module,Magento_Persistent
+"Welcome, %1!","Welkom, %1!",module,Magento_Persistent
 "We cannot load the configuration from file %1.","Het is niet mogelijk om de configuratie van bestand %1 te laden.",module,Magento_Persistent
 "Method ""%1"" is not defined in ""%2""","Methode ""%1"" is niet gedefinieerd in ""%2""",module,Magento_Persistent
 "To check out, please sign in using your email address.","Om af te rekenen, log in met uw e-mailadres.",module,Magento_Persistent
@@ -2980,17 +2981,16 @@ Tax,BTW,module,Magento_Quote
 "New Accounts","Nieuwe accounts:",module,Magento_Reports
 "Customers by number of orders","Klanten per totaal aantal bestellingen",module,Magento_Reports
 "Customers by Orders Total","Klanten o.b.v. orderwaarde",module,Magento_Reports
-Filter,Filteren,module,Magento_Reports
 "Date Used","Datum gebruikt",module,Magento_Reports
 Day,Dag,module,Magento_Reports
-Month,maand,module,Magento_Reports
+Month,Maand,module,Magento_Reports
 Year,Jaar,module,Magento_Reports
 Period,Periode,module,Magento_Reports
 From,Van,module,Magento_Reports
 To,Aan,module,Magento_Reports
 Yes,Ja,module,Magento_Reports
 No,Nee,module,Magento_Reports
-"Empty Rows","Toon lege regels",module,Magento_Reports
+"Empty Rows","Lege regels",module,Magento_Reports
 "Invalid date specified","Ongeldige datum opgegeven",module,Magento_Reports
 Refresh,Vernieuwen,module,Magento_Reports
 "Show Reviews","Beoordelingen tonen",module,Magento_Reports
@@ -5601,7 +5601,7 @@ Contacts,Contacten,module,Magento_Contact
 "Forgot Email Template","Sjabloon e-mail vergeten",module,Magento_Customer
 "Remind Email Template","Email Template herinnering-e-mail",module,Magento_Customer
 "Reset Password Template","Reset wachtwoord sjabloon",module,Magento_Customer
-"Password Template Email Sender","Wachtwoord Sjabloon E-Mail Afzender",module,Magento_Customer
+"Password Template Email Sender","Afzender Wachtwoord Sjabloon E-mail",module,Magento_Customer
 "Please enter a number 1 or greater in this field.","Vul een nummer van 1 of groter in in dit veld.",module,Magento_Customer
 "Name and Address Options","Naam- en adresopties",module,Magento_Customer
 "Number of Lines in a Street Address","Aantal regels in adres",module,Magento_Customer
@@ -5933,6 +5933,7 @@ Title,Titel,module,Magento_Paypal
 "Also affects mini-shopping cart.","Ook van invloed op de mini-winkelwagen.",module,Magento_Paypal
 "Debug Mode","Debug modues",module,Magento_Paypal
 "Enable SSL verification","SSL-verificatie inschakelen",module,Magento_Paypal
+"If this option is enabled, customer can change shipping address and shipping method on PayPal website. In live mode works via HTTPS protocol only.","Indien deze optie aan staat kan de klant zijn verzendadres en verzendmethode aanpassen op de PayPal website. Dit werkt enkel via het HTTPS protocol.",module,Magento_Paypal
 "Ability for buyer to purchase without PayPal account.","Koper kan zonder een PayPal account ook afrekenen (PayPal account is niet verplicht)",module,Magento_Paypal
 "Billing Agreement Signup","Aanmelden Incasso-overeenkomsten",module,Magento_Paypal
 "Skip Order Review Step","Order-controle stap overslaan",module,Magento_Paypal
@@ -5983,14 +5984,14 @@ User,Gebruiker,module,Magento_Paypal
 "Card Security Code Does Not Match","Card Security Code komt niet overeen",module,Magento_Paypal
 "Payflow Pro (Includes Express Checkout)","Payflow Pro (inclusief Express Checkout)",module,Magento_Paypal
 "Payflow Pro and Express Checkout","Payflow Pro en Express Checkout",module,Magento_Paypal
-"Persistent Shopping Cart","Winkelmand volgen",module,Magento_Persistent
+"Persistent Shopping Cart","Winkelwagen volgen",module,Magento_Persistent
 "General Options","Algemene opties",module,Magento_Persistent
-"Enable Persistence","Activeer het volgen van het winkelwagen",module,Magento_Persistent
+"Enable Persistence","Activeer het volgen van de winkelwagen",module,Magento_Persistent
 "Persistence Lifetime (seconds)","Levensduur in seconden",module,Magento_Persistent
 "Enable ""Remember Me""","Activeer ""Onthoud mij""",module,Magento_Persistent
 """Remember Me"" Default Value","""Onthoud mij"" Standaardwaarde",module,Magento_Persistent
 "Clear Persistence on Sign Out","Bij afmelden ""aangemeld blijven"" verwijderen",module,Magento_Persistent
-"Persist Shopping Cart","Winkelmand volgen",module,Magento_Persistent
+"Persist Shopping Cart","Winkelwagen volgen",module,Magento_Persistent
 "Product Alerts",Product-notificaties,module,Magento_ProductAlert
 "Allow Alert When Product Price Changes","Melding toestaan bij prijswijziging",module,Magento_ProductAlert
 "Allow Alert When Product Comes Back in Stock","Melding toestaan als product weer op voorraad is",module,Magento_ProductAlert
