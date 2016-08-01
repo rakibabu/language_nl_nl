@@ -559,7 +559,7 @@ From:,Van:,module,Magento_Bundle
 To:,Tot:,module,Magento_Bundle
 Message:,Bericht:,module,Magento_Bundle
 "Product Name","Product Naam",module,Magento_Bundle
-Subtotal,subtotaal,module,Magento_Bundle
+Subtotal,Subtotaal,module,Magento_Bundle
 "Discount Amount",Korting,module,Magento_Bundle
 "Row Total",Rijtotaal,module,Magento_Bundle
 "Qty Invoiced","Gefactureerd aantal",module,Magento_Bundle
@@ -612,7 +612,7 @@ Always,Altijd,module,Magento_Captcha
 "Stock with id ""%1"" does not exist.","Voorraad met id ""%1"" bestaat niet.",module,Magento_CatalogInventory
 "Not all of your products are available in the requested quantity.","Niet al uw producten zijn beschikbaar in het gevraagde aantal.",module,Magento_CatalogInventory
 "Product with SKU ""%1"" does not exist","Product met SKU ""%1"" bestaat niet",module,Magento_CatalogInventory
-"The fewest you may purchase is %1.","Het minste dat u kunt kopen is %1.",module,Magento_CatalogInventory
+"The fewest you may purchase is %1.","Het minimale aantal dat u kunt bestellen is %1.",module,Magento_CatalogInventory
 "Please correct the quantity for some products.","Corrigeer het aantal voor sommige producten.",module,Magento_CatalogInventory
 "The most you may purchase is %1.","Het meeste dat u kunt kopen is %1.",module,Magento_CatalogInventory
 "We don't have as many ""%1"" as you requested, but we'll back order the remaining %2.","We hebben niet zo veel van ""%1"" zoals u gevraagd heeft, maar we zullen de resterende %2 naleveren.",module,Magento_CatalogInventory
@@ -1333,7 +1333,7 @@ Message,Bericht,module,Magento_Checkout
 Item,Product,module,Magento_Checkout
 Price,prijs,module,Magento_Checkout
 Qty,Aantal,module,Magento_Checkout
-Subtotal,subtotaal,module,Magento_Checkout
+Subtotal,Subtotaal,module,Magento_Checkout
 "Continue Shopping","Ga verder met winkelen",module,Magento_Checkout
 "Clear Shopping Cart","Leeg winkelwagen",module,Magento_Checkout
 "Update Shopping Cart","Update Winkelwagen",module,Magento_Checkout
@@ -2157,7 +2157,7 @@ To:,Tot:,module,Magento_Downloadable
 Message:,Bericht:,module,Magento_Downloadable
 "Product Name","Product Naam",module,Magento_Downloadable
 Qty,Aantal,module,Magento_Downloadable
-Subtotal,subtotaal,module,Magento_Downloadable
+Subtotal,Subtotaal,module,Magento_Downloadable
 "Discount Amount",Korting,module,Magento_Downloadable
 "Row Total",Rijtotaal,module,Magento_Downloadable
 "Qty Invoiced","Gefactureerd aantal",module,Magento_Downloadable
@@ -2796,7 +2796,7 @@ Change,Verander,module,Magento_Multishipping
 "Order Review","Controleer uw bestelling",module,Magento_Multishipping
 Edit,Bewerken,module,Magento_Multishipping
 Price,prijs,module,Magento_Multishipping
-Subtotal,subtotaal,module,Magento_Multishipping
+Subtotal,Subtotaal,module,Magento_Multishipping
 "Grand Total:","Algemeen totaal:",module,Magento_Multishipping
 "Submitting order information...","Informatie van de bestelling wordt opgeslagen...",module,Magento_Multishipping
 "Sorry, no quotes are available for this order right now.","Geen quotes gevonden voor deze bestelling.",module,Magento_Multishipping
@@ -3217,7 +3217,7 @@ Edit,Bewerken,module,Magento_Paypal
 "Submitting order information...","Informatie van de bestelling wordt opgeslagen...",module,Magento_Paypal
 Price,prijs,module,Magento_Paypal
 Qty,Aantal,module,Magento_Paypal
-Subtotal,subtotaal,module,Magento_Paypal
+Subtotal,Subtotaal,module,Magento_Paypal
 "Please update order data to get shipping methods and rates","Update gegeven bestelling voor verzendmethodes en -kosten",module,Magento_Paypal
 or,of,module,Magento_Paypal
 Continue,"Verder gaan",module,Magento_Paypal
@@ -3293,7 +3293,7 @@ Duration:,Duur:,module,Magento_ProductVideo
 "Shipping & Handling (%1)","Aflevering & verwerking (%1)",module,Magento_Quote
 "Shipping & Handling","Aflevering en verwerking",module,Magento_Quote
 Shipping,Aflevering,module,Magento_Quote
-Subtotal,subtotaal,module,Magento_Quote
+Subtotal,Subtotaal,module,Magento_Quote
 "We found an invalid item option format.","We vonden een ongeldig optie formaat.",module,Magento_Quote
 "An item option with code %1 already exists.","Een product optie met code %1 bestaad reeds.",module,Magento_Quote
 "Item qty declaration error","Artikel-aantal declaratiefout",module,Magento_Quote
@@ -3367,7 +3367,7 @@ Created,Aangemaakt,module,Magento_Reports
 "Products Bestsellers Report","Rapportage Bestsellers",module,Magento_Reports
 "Order Quantity",Bestelaantal,module,Magento_Reports
 "Coupons Usage Report","Coupons gebruik-rapport",module,Magento_Reports
-Subtotal,subtotaal,module,Magento_Reports
+Subtotal,Subtotaal,module,Magento_Reports
 "Coupon Code","Tegoedbon code",module,Magento_Reports
 "Price Rule","Prijs regel",module,Magento_Reports
 Uses,Gebruik,module,Magento_Reports
@@ -3735,7 +3735,7 @@ Auto,Automatisch,module,Magento_SalesRule
 "To Percentage","Naar percentage",module,Magento_SalesRule
 "By Fixed value","Met vast bedrag",module,Magento_SalesRule
 "By Percentage","Met percentage",module,Magento_SalesRule
-Subtotal,subtotaal,module,Magento_SalesRule
+Subtotal,Subtotaal,module,Magento_SalesRule
 "Total Items Quantity","Totale aantal artikelen",module,Magento_SalesRule
 "Total Weight",Totaalgewicht,module,Magento_SalesRule
 "Payment Method",Betaalmethode,module,Magento_SalesRule
@@ -3936,7 +3936,7 @@ Yes,Ja,module,Magento_Sales
 No,Nee,module,Magento_Sales
 "Show Actual Values","Toon actuele waardes",module,Magento_Sales
 "New Order RSS","Nieuwe bestellingen RSS",module,Magento_Sales
-Subtotal,subtotaal,module,Magento_Sales
+Subtotal,Subtotaal,module,Magento_Sales
 "Shipping & Handling","Aflevering en verwerking",module,Magento_Sales
 "Discount (%1)","Korting (%s)",module,Magento_Sales
 Discount,Korting,module,Magento_Sales
@@ -4245,7 +4245,7 @@ Action,Aktie,module,Magento_Sales
 "No ordered items","Geen bestelde artikelen",module,Magento_Sales
 "Update Items and Quantities","Producten en aantallen bijwerken",module,Magento_Sales
 "Total %1 product(s)","Totaal %1 product(en)",module,Magento_Sales
-Subtotal:,Subtotaal,module,Magento_Sales
+Subtotal:,Subtotaal:,module,Magento_Sales
 "Tier Pricing",Staffelprijzen,module,Magento_Sales
 "Custom Price","Speciale prijs",module,Magento_Sales
 "Please select",Selecteer,module,Magento_Sales
@@ -4789,7 +4789,7 @@ Code,"Interne naam",module,Magento_Tax
 "Shipping (Incl. Tax)","Verzendkosten (incl. BTW)",module,Magento_Tax
 "Subtotal (Excl. Tax)","Subtotaal (excl. BTW)",module,Magento_Tax
 "Subtotal (Incl. Tax)","Subtotaal (incl. BTW)",module,Magento_Tax
-Subtotal,subtotaal,module,Magento_Tax
+Subtotal,Subtotaal,module,Magento_Tax
 "Unit Price",Eenheidsprijs,module,Magento_Tax
 "Row Total",Rijtotaal,module,Magento_Tax
 Total,totaal,module,Magento_Tax
