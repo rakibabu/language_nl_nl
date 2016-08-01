@@ -446,7 +446,7 @@ Always,Altijd,module,Magento_Captcha
 "In Stock","Op voorraad",module,Magento_CatalogInventory
 "Out of Stock","Niet op voorraad",module,Magento_CatalogInventory
 "Not all of your products are available in the requested quantity.","Niet al uw producten zijn beschikbaar in het gevraagde aantal.",module,Magento_CatalogInventory
-"The fewest you may purchase is %1.","Het minste dat u kunt kopen is %1.",module,Magento_CatalogInventory
+"The fewest you may purchase is %1.","Het minimale aantal dat u kunt bestellen is %1.",module,Magento_CatalogInventory
 "Please correct the quantity for some products.","Corrigeer het aantal voor sommige producten.",module,Magento_CatalogInventory
 "The most you may purchase is %1.","Het meeste dat u kunt kopen is %1.",module,Magento_CatalogInventory
 "Only %1 left","Nog %1 beschikbaar",module,Magento_CatalogInventory
@@ -940,7 +940,7 @@ Checkout,Afrekenen,module,Magento_Checkout
 Item,Product,module,Magento_Checkout
 Price,prijs,module,Magento_Checkout
 Qty,Aantal,module,Magento_Checkout
-Subtotal,subtotaal,module,Magento_Checkout
+Subtotal,Subtotaal,module,Magento_Checkout
 "Continue Shopping","Ga verder met winkelen",module,Magento_Checkout
 "Clear Shopping Cart","Leeg winkelwagen",module,Magento_Checkout
 "Update Shopping Cart","Update Winkelwagen",module,Magento_Checkout
@@ -1790,7 +1790,7 @@ Change,Verander,module,Magento_Multishipping
 "Shipping Method",Verzendmethode,module,Magento_Multishipping
 "Incl. Tax","Incl. BTW",module,Magento_Multishipping
 Price,prijs,module,Magento_Multishipping
-Subtotal,subtotaal,module,Magento_Multishipping
+Subtotal,Subtotaal,module,Magento_Multishipping
 "Grand Total:","Algemeen totaal:",module,Magento_Multishipping
 "Submitting order information...","Informatie van de bestelling wordt opgeslagen...",module,Magento_Multishipping
 "Continue to Billing Information","Ga verder naar factuurinformatie",module,Magento_Multishipping
@@ -2133,7 +2133,7 @@ Edit,Bewerken,module,Magento_Paypal
 "Submitting order information...","Informatie van de bestelling wordt opgeslagen...",module,Magento_Paypal
 Price,prijs,module,Magento_Paypal
 Qty,Aantal,module,Magento_Paypal
-Subtotal,subtotaal,module,Magento_Paypal
+Subtotal,Subtotaal,module,Magento_Paypal
 "Please update order data to get shipping methods and rates","Update gegeven bestelling voor verzendmethodes en -kosten",module,Magento_Paypal
 Continue,"Verder gaan",module,Magento_Paypal
 "Additional Options","Extra opties",module,Magento_Paypal
@@ -2171,7 +2171,7 @@ Url,URL,module,Magento_ProductVideo
 "Shipping & Handling (%1)","Verzending & verwerking (%1)",module,Magento_Quote
 "Shipping & Handling","Verzending en verwerking",module,Magento_Quote
 Shipping,Verzending,module,Magento_Quote
-Subtotal,subtotaal,module,Magento_Quote
+Subtotal,Subtotaal,module,Magento_Quote
 "We found an invalid item option format.","We vonden een ongeldig optie formaat.",module,Magento_Quote
 "An item option with code %1 already exists.","Een product optie met code %1 bestaad reeds.",module,Magento_Quote
 "Item qty declaration error","Artikel-aantal declaratiefout",module,Magento_Quote
@@ -2226,7 +2226,7 @@ Created,Aangemaakt,module,Magento_Reports
 "Products Bestsellers Report","Rapportage Bestsellers",module,Magento_Reports
 "Order Quantity",Bestelaantal,module,Magento_Reports
 "Coupons Usage Report","Coupons gebruik-rapport",module,Magento_Reports
-Subtotal,subtotaal,module,Magento_Reports
+Subtotal,Subtotaal,module,Magento_Reports
 "Coupon Code","Tegoedbon code",module,Magento_Reports
 "Price Rule","Prijs regel",module,Magento_Reports
 Uses,Gebruik,module,Magento_Reports
@@ -2539,7 +2539,7 @@ Auto,Automatisch,module,Magento_SalesRule
 "By Fixed value","Met vast bedrag",module,Magento_SalesRule
 "By Percentage","Met percentage",module,Magento_SalesRule
 "Update product's %1 %2: %3","Bijwerken product %1 %2: %3",module,Magento_SalesRule
-Subtotal,subtotaal,module,Magento_SalesRule
+Subtotal,Subtotaal,module,Magento_SalesRule
 "Total Items Quantity","Totale aantal artikelen",module,Magento_SalesRule
 "Total Weight",Totaalgewicht,module,Magento_SalesRule
 "Payment Method",Betaalmethode,module,Magento_SalesRule
@@ -2930,7 +2930,7 @@ Remove,Verwijder,module,Magento_Sales
 Action,Aktie,module,Magento_Sales
 "No ordered items","Geen bestelde artikelen",module,Magento_Sales
 "Total %1 product(s)","Totaal %1 product(en)",module,Magento_Sales
-Subtotal:,Subtotaal,module,Magento_Sales
+Subtotal:,Subtotaal:,module,Magento_Sales
 "Tier Pricing",Staffelprijzen,module,Magento_Sales
 "Custom Price","Speciale prijs",module,Magento_Sales
 "Move to Shopping Cart","Verplaatsen naar winkelwagen",module,Magento_Sales
@@ -3298,7 +3298,7 @@ Code,"Interne naam",module,Magento_Tax
 "Shipping (Incl. Tax)","Verzendkosten (incl. BTW)",module,Magento_Tax
 "Subtotal (Excl. Tax)","Subtotaal (excl. BTW)",module,Magento_Tax
 "Subtotal (Incl. Tax)","Subtotaal (incl. BTW)",module,Magento_Tax
-Subtotal,subtotaal,module,Magento_Tax
+Subtotal,Subtotaal,module,Magento_Tax
 "Unit Price",Eenheidsprijs,module,Magento_Tax
 "Row Total",Rijtotaal,module,Magento_Tax
 Total,totaal,module,Magento_Tax
