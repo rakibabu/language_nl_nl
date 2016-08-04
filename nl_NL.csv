@@ -962,6 +962,7 @@ Qty,Aantal,module,Magento_Catalog
 "Minimum Qty Allowed in Shopping Cart","Minimaal aantal  in winkelwagen",module,Magento_Catalog
 "Maximum Qty Allowed in Shopping Cart","Maximaal aantal toegestaan in winkelwagen",module,Magento_Catalog
 "Qty Uses Decimals","Decimalen in aantalen",module,Magento_Catalog
+Backorders,Nabestellingen,module,Magento_Catalog
 "Notify for Quantity Below","Melden bij aantal lager dan",module,Magento_Catalog
 "Enable Qty Increments","Activeer opklimmende aantallen",module,Magento_Catalog
 "Qty Increments","Opklimmend aantal",module,Magento_Catalog
@@ -5192,7 +5193,7 @@ Debug,"Fouten opsporen in programma",module,Magento_Backend
 "Translate, blocks and other output caches should be disabled for both Storefront and Admin inline translations.","Vertalings-, blok- en andere uitvoer caches moeten uitgeschakeld worden voor zowel winkeletalage als admin inline vertalingen.",module,Magento_Backend
 "JavaScript Settings","JavaScript instellingen",module,Magento_Backend
 "Merge JavaScript Files","JavaScript-bestanden samenvoegen",module,Magento_Backend
-"Minify JavaScript Files","Verkleinen JavaScript bestanden",module,Magento_Backend
+"Minify JavaScript Files","Minify JavaScript bestanden",module,Magento_Backend
 "CSS Settings","CSS instellingen",module,Magento_Backend
 "Merge CSS Files","CSS bestanden samengevoegen",module,Magento_Backend
 "Minify CSS Files","Verkleinen CSS-bestanden",module,Magento_Backend
