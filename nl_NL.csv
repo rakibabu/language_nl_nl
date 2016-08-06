@@ -65,7 +65,7 @@ Guest,Gast,module,Magento_Backend
 Items,Producten,module,Magento_Backend
 Total,Totaal,module,Magento_Backend
 "Lifetime Sales","Verkopen tot nu toe",module,Magento_Backend
-"Average Order","Gemiddelde order",module,Magento_Backend
+"Average Order","Gemiddelde orderwaarde",module,Magento_Backend
 Average,Gemiddeld,module,Magento_Backend
 Price,Prijs,module,Magento_Backend
 Quantity,Aantal,module,Magento_Backend
@@ -591,7 +591,7 @@ Searchable,Doorzoekbaar,module,Magento_Catalog
 Comparable,Vergelijkbaar,module,Magento_Catalog
 "Delete Selected Group","Geselecteerde groep verwijderen",module,Magento_Catalog
 "Add New","Nieuwe toevoegen",module,Magento_Catalog
-Back,terug,module,Magento_Catalog
+Back,Terug,module,Magento_Catalog
 Delete,Verwijder,module,Magento_Catalog
 Save,Bewaar,module,Magento_Catalog
 "New Set Name","Nieuwe set-naam",module,Magento_Catalog
@@ -812,7 +812,6 @@ Qty,Aantal,module,Magento_Catalog
 "Minimum Qty Allowed in Shopping Cart","Minimaal aantal  in winkelwagen",module,Magento_Catalog
 "Maximum Qty Allowed in Shopping Cart","Maximaal aantal toegestaan in winkelwagen",module,Magento_Catalog
 "Qty Uses Decimals","Decimalen in aantalen",module,Magento_Catalog
-Backorders,Nabestellingen,module,Magento_Catalog
 "Notify for Quantity Below","Melden bij aantal lager dan",module,Magento_Catalog
 "Enable Qty Increments","Activeer opklimmende aantallen",module,Magento_Catalog
 "Qty Increments","Opklimmend aantal",module,Magento_Catalog
@@ -1179,7 +1178,7 @@ Download,Downloads,module,Magento_Customer
 "Please correct the email address.","Corrigeer het e-mailadres.",module,Magento_Customer
 "Please enter your email.","Vul uw e-mailadres in a.u.b.",module,Magento_Customer
 "If there is an account associated with %1 you will receive an email with a link to reset your password.","Als er een account is gekoppeld aan %1, ontvangt u een e-mail met een link om uw wachtwoord opnieuw instellen.",module,Magento_Customer
-"My Account","Mijn account",module,Magento_Customer
+"My Account",Account,module,Magento_Customer
 "Invalid login or password.","Ongeldige gebruikersnaam en/of wachtwoord.",module,Magento_Customer
 "New Password and Confirm New Password values didn't match.","Het nieuwe wachtwoord en de bevestiging van het nieuwe wachtwoord komen niet overeen.",module,Magento_Customer
 "No customer ID defined.","Geen klant ID gedefinieerd.",module,Magento_Customer
@@ -1280,8 +1279,8 @@ City,stad,module,Magento_Customer
 State/Province,staat/provincie,module,Magento_Customer
 "Zip/Postal Code","Zip Code",module,Magento_Customer
 Country,Land,module,Magento_Customer
-"Use as my default billing address","Gebruik als mijn standaard factuuradres",module,Magento_Customer
-"Use as my default shipping address","Gebruik als mijn standaard verzendadres",module,Magento_Customer
+"Use as my default billing address","Gebruik als standaard factuuradres",module,Magento_Customer
+"Use as my default shipping address","Gebruik als standaard verzendadres",module,Magento_Customer
 "Save Address","sla adres op",module,Magento_Customer
 "Go back",Terug,module,Magento_Customer
 "Send confirmation link","stuur bevestigingslink",module,Magento_Customer
@@ -1373,7 +1372,7 @@ SKU,"stock keeping unit",module,Magento_Downloadable
 Availability,Beschikbaarheid,module,Magento_Downloadable
 "In stock","Op voorraad",module,Magento_Downloadable
 "Out of stock","Niet op voorraad",module,Magento_Downloadable
-"Go to <a href=""%1"">My Downloadable Products</a>","Ga naar <a href=""%s"">Downloadbare producten</a>",module,Magento_Downloadable
+"Go to <a href=""%1"">My Downloadable Products</a>","Ga naar <a href=""%1"">Downloads</a>",module,Magento_Downloadable
 "Downloadable Products",Download-producten,module,Magento_Downloadable
 "Order #","Bestelling #",module,Magento_Downloadable
 Date,Datum,module,Magento_Downloadable
@@ -1381,7 +1380,7 @@ Date,Datum,module,Magento_Downloadable
 "View Order","Bestelling bekijken",module,Magento_Downloadable
 "Start Download","Start het downloaden",module,Magento_Downloadable
 "You have not purchased any downloadable products yet.","U hebt nog geen producten besteld die u kunt downloaden.",module,Magento_Downloadable
-Back,terug,module,Magento_Downloadable
+Back,Terug,module,Magento_Downloadable
 download,downloaden,module,Magento_Downloadable
 "Gift Message","Bericht bij kado",module,Magento_Downloadable
 From:,Van:,module,Magento_Downloadable
@@ -2404,7 +2403,7 @@ Pending,"In behandeling",module,Magento_Review
 "Product Name","Product Naam",module,Magento_Review
 Rating,Waardering,module,Magento_Review
 "You have submitted no reviews.","U hebt nog geen reviews geschreven.",module,Magento_Review
-Back,terug,module,Magento_Review
+Back,Terug,module,Magento_Review
 "My Recent Reviews","Recente reviews",module,Magento_Review
 "Average Customer Rating:","Gemiddelde klantwaardering:",module,Magento_Review
 "Back to My Reviews","Terug naar reviews-overzicht",module,Magento_Review
@@ -2723,7 +2722,7 @@ Yes,Ja,module,Magento_Sales
 No,Nee,module,Magento_Sales
 "Show Actual Values","Toon actuele waardes",module,Magento_Sales
 "New Order RSS","Nieuwe bestellingen RSS",module,Magento_Sales
-Back,terug,module,Magento_Sales
+Back,Terug,module,Magento_Sales
 Fetch,"Haal op",module,Magento_Sales
 "Transaction # %1 | %2","Transactie # %1 | %2",module,Magento_Sales
 N/A,n.v.t.,module,Magento_Sales
@@ -3734,7 +3733,7 @@ Edit,Bewerken,module,Magento_Wishlist
 "This Wish List has no Items","De verlanglijst heeft geen producten",module,Magento_Wishlist
 "Options Details","Optie Details",module,Magento_Wishlist
 "RSS link to %1's wishlist","RSS-link naar %1’s verlanglijst",module,Magento_Wishlist
-Back,terug,module,Magento_Wishlist
+Back,Terug,module,Magento_Wishlist
 "Wish List is empty now.","Verlanglijst is nu leeg.",module,Magento_Wishlist
 "* Required Fields","* Vereiste velden",module,Magento_Wishlist
 "Sharing Information","Delen Informatie",module,Magento_Wishlist
@@ -3939,7 +3938,7 @@ Time,Tijd,module,Magento_Backup
 Name,Naam,module,Magento_Backup
 Download,Downloads,module,Magento_Backup
 Action,Aktie,module,Magento_Backup
-Rollback,Terugrollen,module,Magento_Backup
+Rollback,Terugdraaien,module,Magento_Backup
 "Enable this Solution","Inschakelen van deze oplossing",module,Magento_Braintree
 "Enable PayPal through Braintree","PayPal ingeschakeld via Braintree",module,Magento_Braintree
 Title,Titel,module,Magento_Braintree
@@ -4217,7 +4216,7 @@ ZIP,Postcode,module,Magento_Customer
 Addresses,Adressen,module,Magento_Customer
 "Edit Account Information","Bewerk rekening informatie",module,Magento_Customer
 "Password forgotten","Wachtwoord vergeten",module,Magento_Customer
-"My Dashboard","Mijn overzicht",module,Magento_Customer
+"My Dashboard",Overzicht,module,Magento_Customer
 "Front-end development workflow","Front-end ontwikkeling workflow",module,Magento_Developer
 "Workflow type","Type werkstroom",module,Magento_Developer
 "Not available in production mode","Niet beschikbaar in productie mode",module,Magento_Developer
@@ -4874,7 +4873,7 @@ Debug,"Fouten opsporen in programma",module,Magento_Usps
 "Email Text Length Limit","E-mail tekst lengte limiet",module,Magento_Wishlist
 "General Options","Algemene opties",module,Magento_Wishlist
 Enabled,Ingeschakeld,module,Magento_Wishlist
-"My Wish List Link","Link naar mijn verlanglijst",module,Magento_Wishlist
+"My Wish List Link","Link naar verlanglijst",module,Magento_Wishlist
 "Display Wish List Summary","Toon samenvatting verlanglijst",module,Magento_Wishlist
 "No Items Found","Geen artikelen gevonden",module,Magento_Wishlist
 "Product Name","Product Naam",module,Magento_Wishlist
