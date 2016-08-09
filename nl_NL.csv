@@ -1277,11 +1277,11 @@ Address,Straat,module,Magento_Customer
 "VAT Number","BTW nummer",module,Magento_Customer
 City,stad,module,Magento_Customer
 State/Province,staat/provincie,module,Magento_Customer
-"Zip/Postal Code","Zip Code",module,Magento_Customer
+"Zip/Postal Code",Postcode,module,Magento_Customer
 Country,Land,module,Magento_Customer
 "Use as my default billing address","Gebruik als standaard factuuradres",module,Magento_Customer
 "Use as my default shipping address","Gebruik als standaard verzendadres",module,Magento_Customer
-"Save Address","sla adres op",module,Magento_Customer
+"Save Address","Adres opslaan",module,Magento_Customer
 "Go back",Terug,module,Magento_Customer
 "Send confirmation link","stuur bevestigingslink",module,Magento_Customer
 "Current Password","Huidig wachtwoord",module,Magento_Customer
@@ -1517,7 +1517,7 @@ Unknown,Onbekend,module,Magento_Email
 "Store Phone Number","Winkel telefoonnummer",module,Magento_Email
 Country,Land,module,Magento_Email
 Region/State,Provincie,module,Magento_Email
-"Zip/Postal Code","Zip Code",module,Magento_Email
+"Zip/Postal Code",Postcode,module,Magento_Email
 City,stad,module,Magento_Email
 "Street Address 1","Straat en huisnummer 1",module,Magento_Email
 "Street Address 2","Straat en huisnummer 2",module,Magento_Email
@@ -1893,7 +1893,7 @@ Subscribe,Inschrijven,module,Magento_Newsletter
 "Send Check to","Maak overboeking naar",module,Magento_OfflinePayments
 Country,Land,module,Magento_OfflineShipping
 Region/State,Provincie,module,Magento_OfflineShipping
-"Zip/Postal Code","Zip Code",module,Magento_OfflineShipping
+"Zip/Postal Code",Postcode,module,Magento_OfflineShipping
 "Shipping Price",Verzendkosten,module,Magento_OfflineShipping
 "Export CSV","CSV exporteren",module,Magento_OfflineShipping
 "Store Pickup",Afhalen,module,Magento_OfflineShipping
@@ -2047,7 +2047,7 @@ Never,Nooit,module,Magento_Paypal
 Complaint,Klacht,module,Magento_Paypal
 Dispute,Geschil,module,Magento_Paypal
 "Matched Address only (no ZIP) International","Alleen internationaal overeenkomstig adres (geen ZIP)",module,Magento_Paypal
-"Yes. Matched Address and five-didgit ZIP","Ja. Overeenkomend adres en vijf-cijferige ZIP code",module,Magento_Paypal
+"Yes. Matched Address and five-didgit ZIP","Ja. Overeenkomend adres en vijf-cijferige postcode",module,Magento_Paypal
 "All the address information matched","Alle adresinformatie komt overeen",module,Magento_Paypal
 "None of the address information matched","De adresinformatie komt niet overeen",module,Magento_Paypal
 "No match","Geen match",module,Magento_Paypal
@@ -2890,7 +2890,7 @@ Country,Land,module,Magento_Sales
 "Last Name",Achternaam,module,Magento_Sales
 State/Province,staat/provincie,module,Magento_Sales
 "Street Address","Straat Adres",module,Magento_Sales
-"Zip/Postal Code","Zip Code",module,Magento_Sales
+"Zip/Postal Code",Postcode,module,Magento_Sales
 "We cannot create an empty shipment.","We kunnen geen lege verzending aanmaken.",module,Magento_Sales
 "We cannot register an existing credit memo.","Kan een bestaande creditfactuur niet inboeken.",module,Magento_Sales
 "The most money available to refund is %1.","Het meeste geld beschikbaar voor terugbetaling is %1.",module,Magento_Sales
@@ -3858,7 +3858,7 @@ Locale,Taal,module,Magento_Backend
 "Store Hours of Operation","Openingstijden winkel",module,Magento_Backend
 Country,Land,module,Magento_Backend
 Region/State,Provincie,module,Magento_Backend
-"ZIP/Postal Code",postcode,module,Magento_Backend
+"ZIP/Postal Code",Postcode,module,Magento_Backend
 City,stad,module,Magento_Backend
 "Street Address","Straat Adres",module,Magento_Backend
 "Street Address Line 2",Adres,module,Magento_Backend
@@ -4258,7 +4258,7 @@ Enabled,Ingeschakeld,module,Magento_Directory
 Frequency,Frequentie,module,Magento_Directory
 "Start Time","Begin Tijd",module,Magento_Directory
 "Installed Currencies","Geinstalleerde valuta",module,Magento_Directory
-"Zip/Postal Code is Optional for","Zip/Postal Code is optioneel voor",module,Magento_Directory
+"Zip/Postal Code is Optional for","Postcode is optioneel voor",module,Magento_Directory
 "State Options",Staat-opties,module,Magento_Directory
 "State is Required for","Staat is verplicht voor",module,Magento_Directory
 "Allow to Choose State if It is Optional for Country","Mogelijkheid tot kiezen van staat indien het optioneel is voor een land",module,Magento_Directory
