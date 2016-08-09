@@ -1725,11 +1725,11 @@ Address,Straat,module,Magento_Customer
 City,stad,module,Magento_Customer
 State/Province,staat/provincie,module,Magento_Customer
 "Please select a region, state or province.","Selecteer regio, staat of provincie.",module,Magento_Customer
-"Zip/Postal Code","Zip Code",module,Magento_Customer
+"Zip/Postal Code",Postcode,module,Magento_Customer
 Country,Land,module,Magento_Customer
 "Use as my default billing address","Gebruik als standaard factuuradres",module,Magento_Customer
 "Use as my default shipping address","Gebruik als standaard verzendadres",module,Magento_Customer
-"Save Address","sla adres op",module,Magento_Customer
+"Save Address","Adres opslaan",module,Magento_Customer
 "Go back",Terug,module,Magento_Customer
 "Please enter your email below and we will send you the confirmation link.","Voer hieronder uw e-mailadres in en wij zullen u een bevestigingslink sturen.",module,Magento_Customer
 "Send confirmation link","stuur bevestigingslink",module,Magento_Customer
@@ -2065,7 +2065,7 @@ Unknown,Onbekend,module,Magento_Email
 "Store Hours",Winkeluren,module,Magento_Email
 Country,Land,module,Magento_Email
 Region/State,Provincie,module,Magento_Email
-"Zip/Postal Code","Zip Code",module,Magento_Email
+"Zip/Postal Code",Postcode,module,Magento_Email
 City,stad,module,Magento_Email
 "Street Address 1","Straat en huisnummer 1",module,Magento_Email
 "Street Address 2","Straat en huisnummer 2",module,Magento_Email
@@ -2380,7 +2380,7 @@ Position,Positie,module,Magento_LayeredNavigation
 "Position in Layered Navigation","Positie in gelaagde navigatie",module,Magento_LayeredNavigation
 item,product,module,Magento_LayeredNavigation
 items,producten,module,Magento_LayeredNavigation
-"Now Shopping by","Verder winkelen voor",module,Magento_LayeredNavigation
+"Now Shopping by","Huidige filters",module,Magento_LayeredNavigation
 Previous,Vorige,module,Magento_LayeredNavigation
 Remove,Verwijder,module,Magento_LayeredNavigation
 "Remove This Item","Verwijder dit artikel",module,Magento_LayeredNavigation
@@ -2608,7 +2608,7 @@ Subscribe,Inschrijven,module,Magento_Newsletter
 "Send Check to","Maak overboeking naar",module,Magento_OfflinePayments
 Country,Land,module,Magento_OfflineShipping
 Region/State,Provincie,module,Magento_OfflineShipping
-"Zip/Postal Code","Zip Code",module,Magento_OfflineShipping
+"Zip/Postal Code",Postcode,module,Magento_OfflineShipping
 "Shipping Price",Verzendkosten,module,Magento_OfflineShipping
 "Export CSV","CSV exporteren",module,Magento_OfflineShipping
 "Store Pickup",Afhalen,module,Magento_OfflineShipping
@@ -2782,7 +2782,7 @@ Complaint,Klacht,module,Magento_Paypal
 Dispute,Geschil,module,Magento_Paypal
 "Matched Address only (no ZIP) International","Alleen internationaal overeenkomstig adres (geen ZIP)",module,Magento_Paypal
 "Exact Match.","Exacte overeenkomst.",module,Magento_Paypal
-"Yes. Matched Address and five-didgit ZIP","Ja. Overeenkomend adres en vijf-cijferige ZIP code",module,Magento_Paypal
+"Yes. Matched Address and five-didgit ZIP","Ja. Overeenkomend adres en vijf-cijferige postcode",module,Magento_Paypal
 "All the address information matched","Alle adresinformatie komt overeen",module,Magento_Paypal
 "None of the address information matched","De adresinformatie komt niet overeen",module,Magento_Paypal
 "No match","Geen match",module,Magento_Paypal
@@ -3788,7 +3788,7 @@ Country,Land,module,Magento_Sales
 State/Province,staat/provincie,module,Magento_Sales
 "Street Address","Straat Adres",module,Magento_Sales
 "Phone Number",Telefoonnummer,module,Magento_Sales
-"Zip/Postal Code","Zip Code",module,Magento_Sales
+"Zip/Postal Code",Postcode,module,Magento_Sales
 "We can't save the address:\n%1","Het adres kan niet worden opgeslagen:\n%1",module,Magento_Sales
 "Cannot save comment:\n%1","Commentaar kan niet worden opgeslagen:\n%1",module,Magento_Sales
 "We cannot create an empty shipment.","We kunnen geen lege verzending aanmaken.",module,Magento_Sales
@@ -4907,7 +4907,7 @@ Back,Terug,module,Magento_Wishlist
 "Remove This Item","Verwijder dit artikel",module,Magento_Wishlist
 "Go to Wish List","Ga naar verlanglijst",module,Magento_Wishlist
 "You have no items in your wish list.","U hebt niets op uw verlanglijst staan.",module,Magento_Wishlist
-"Now Shopping by","Verder winkelen voor",theme,frontend/Magento/luma
+"Now Shopping by","Huidige filters",theme,frontend/Magento/luma
 Previous,Vorige,theme,frontend/Magento/luma
 Remove,Verwijder,theme,frontend/Magento/luma
 "Remove This Item","Verwijder dit artikel",theme,frontend/Magento/luma
@@ -5082,7 +5082,7 @@ Ok,Oke,module,Magento_Sales
 "Letters, numbers, spaces or underscores only please","Enkel letters, cijfers, spaties of liggende streepjes toegelaten",module,Magento_Ui
 "Letters only please","Enkel letters toegelaten",module,Magento_Ui
 "No white space please","Geen spaties toegelaten",module,Magento_Ui
-"Your ZIP-code must be in the range 902xx-xxxx to 905-xx-xxxx","Uw ZIP-code moet in de volgende reeks liggen: 902xx-xxxx tot 905-xx-xxxx",module,Magento_Ui
+"Your ZIP-code must be in the range 902xx-xxxx to 905-xx-xxxx","Uw postcode moet in de volgende reeks liggen: 902xx-xxxx tot 905-xx-xxxx",module,Magento_Ui
 "A positive or negative non-decimal number please","Enkel een positief of negatief niet-decimaal nummer toegelaten",module,Magento_Ui
 "The specified vehicle identification number (VIN) is invalid.","Het opgegeven voertuigidentificatienummer (VIN) is ongeldig.",module,Magento_Ui
 "Please enter a correct date","Voer een correcte datum in",module,Magento_Ui
@@ -5215,7 +5215,7 @@ Locale,Taal,module,Magento_Backend
 "Store Hours of Operation","Openingstijden winkel",module,Magento_Backend
 Country,Land,module,Magento_Backend
 Region/State,Provincie,module,Magento_Backend
-"ZIP/Postal Code",postcode,module,Magento_Backend
+"ZIP/Postal Code",Postcode,module,Magento_Backend
 City,stad,module,Magento_Backend
 "Street Address","Straat Adres",module,Magento_Backend
 "Street Address Line 2",Adres,module,Magento_Backend
@@ -5495,7 +5495,7 @@ Details,Gegevens,module,Magento_Catalog
 Shipping,Aflevering,module,Magento_Checkout
 "Order Total",Ordertotaal,module,Magento_Checkout
 "Shipping Address",Bezorgadres,module,Magento_Checkout
-"Save Address","sla adres op",module,Magento_Checkout
+"Save Address","Adres opslaan",module,Magento_Checkout
 Cancel,Annuleer,module,Magento_Checkout
 "We'll send your order confirmation here.","We sturen de bevestiging van de bestelling hiernaar toe.",module,Magento_Checkout
 "For delivery questions.","Voor vragen over de aflevering.",module,Magento_Checkout
@@ -5698,7 +5698,7 @@ Enabled,Ingeschakeld,module,Magento_Directory
 Frequency,Frequentie,module,Magento_Directory
 "Start Time","Begin Tijd",module,Magento_Directory
 "Installed Currencies","Geinstalleerde valuta",module,Magento_Directory
-"Zip/Postal Code is Optional for","Zip/Postal Code is optioneel voor",module,Magento_Directory
+"Zip/Postal Code is Optional for","Postcode is optioneel voor",module,Magento_Directory
 "State Options",Staat-opties,module,Magento_Directory
 "State is Required for","Staat is verplicht voor",module,Magento_Directory
 "Allow to Choose State if It is Optional for Country","Mogelijkheid tot kiezen van staat indien het optioneel is voor een land",module,Magento_Directory
