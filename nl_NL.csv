@@ -4486,7 +4486,7 @@ Close,sluiten,module,Magento_Theme
 Time,Tijd,module,Magento_Theme
 Hour,Uur,module,Magento_Theme
 Minute,Minuut,module,Magento_Theme
-"Dictionary (Translation on Storefront side)","Woordenboek (vertaling aan winkeletalage-zijde)",module,Magento_Translation
+"Dictionary (Translation on Storefront side)","Woordenboek (vertaling aan winkelaanzicht-zijde)",module,Magento_Translation
 "Embedded (Translation on Admin side)","Ingesloten (Vertaling op Admin kant)",module,Magento_Translation
 "Condition type ""%1"" is not allowed","Voorwaarde type ""%1"" is niet toegestaan",module,Magento_Ui
 "The configuration parameter ""formElement"" is a required for ""%1"" field.","De configuratieparameter ""formElement"" is een vereiste voor ""%1"" veld.",module,Magento_Ui
@@ -4807,7 +4807,7 @@ Close,sluiten,module,Magento_Widget
 "Custom Layouts","Custom lay-out",module,Magento_Widget
 "Page Layouts",Pagina-indelingen,module,Magento_Widget
 "Please Select Container First","Selecteer eerst een container",module,Magento_Widget
-"Storefront Properties","Winkeletalage eigenschappen",module,Magento_Widget
+"Storefront Properties","Eigenschappen winkelaanzicht",module,Magento_Widget
 "Design Package/Theme","Ontwerp Pakket/Thema",module,Magento_Widget
 "Widget Title","Widget titel",module,Magento_Widget
 "Assign to Store Views","Koppel aan Winkelaanzichten",module,Magento_Widget
@@ -5179,7 +5179,7 @@ Pagination,Paginering,module,Magento_Backend
 "Anchor Text for Next","Tekst voor 'Volgende'",module,Magento_Backend
 Developer,Ontwikkelaar,module,Magento_Backend
 Debug,"Fouten opsporen in programma",module,Magento_Backend
-"Enabled Template Path Hints for Storefront","Ingeschakelde hints voor sjabloon paden op winkeletalage",module,Magento_Backend
+"Enabled Template Path Hints for Storefront","Ingeschakelde hints voor sjabloon paden op winkelaanzicht",module,Magento_Backend
 "Enabled Template Path Hints for Admin","Template pad Hints ingeschakeld voor Admin",module,Magento_Backend
 "Add Block Names to Hints","Bloknamen aan Hints toevoegen",module,Magento_Backend
 "Template Settings","Template instellingen",module,Magento_Backend
@@ -5189,7 +5189,7 @@ Debug,"Fouten opsporen in programma",module,Magento_Backend
 "Translate Inline","Inline vertaling",module,Magento_Backend
 "Enabled for Storefront","Ingeschakeld voor Storefront",module,Magento_Backend
 "Enabled for Admin","Ingeschakeld voor backend",module,Magento_Backend
-"Translate, blocks and other output caches should be disabled for both Storefront and Admin inline translations.","Vertalings-, blok- en andere uitvoer caches moeten uitgeschakeld worden voor zowel winkeletalage als admin inline vertalingen.",module,Magento_Backend
+"Translate, blocks and other output caches should be disabled for both Storefront and Admin inline translations.","Vertalings-, blok- en andere uitvoer caches moeten uitgeschakeld worden voor zowel winkelaanzicht als admin inline vertalingen.",module,Magento_Backend
 "JavaScript Settings","JavaScript instellingen",module,Magento_Backend
 "Merge JavaScript Files","JavaScript-bestanden samenvoegen",module,Magento_Backend
 "Minify JavaScript Files","Minify JavaScript bestanden",module,Magento_Backend
@@ -5266,7 +5266,7 @@ Security,Beveiliging,module,Magento_Backend
 "Secure Base URL for Static View Files","Veilige basis-URL voor statische bestanden",module,Magento_Backend
 "May be empty or start with {{secure_base_url}}, or {{unsecure_base_url}} placeholder.","Mag leeg zijn of starten met {{secure_base_url}}, of {{unsecure_base_url}} aanduiding.",module,Magento_Backend
 "Secure Base URL for User Media Files","Velige basis url voor media bestanden van gebruiker",module,Magento_Backend
-"Use Secure URLs on Storefront","Gebruik beveiligde urls in winkeletalage",module,Magento_Backend
+"Use Secure URLs on Storefront","Gebruik beveiligde urls in winkelaanzicht",module,Magento_Backend
 "Use Secure URLs in Admin","Gebruik veilige URL’s in admin",module,Magento_Backend
 "Default Pages",Standaardpagina's,module,Magento_Backend
 "Default Web URL",Standaard-web-URL,module,Magento_Backend
@@ -5586,8 +5586,8 @@ Contacts,Contacten,module,Magento_Contact
 "Validation Error Group","Valideer fout-groep",module,Magento_Customer
 "Validate on Each Transaction","Valideer bij elke transactie",module,Magento_Customer
 "Default Value for Disable Automatic Group Changes Based on VAT ID","Standaard-waarde voor 'Uitschakelen automatische verandering van groep a.h.v. BTW-nummer.'",module,Magento_Customer
-"Show VAT Number on Storefront","BTW-nummer op Winkeletalage weergeven",module,Magento_Customer
-"To show VAT number on Storefront, set Show VAT Number on Storefront option to Yes.","Om het BTW-nummer in winkeletalage weer te geven, optie BTW-nummer op Winkeletalage weergeven op Ja zetten.",module,Magento_Customer
+"Show VAT Number on Storefront","BTW-nummer op winkelaanzicht weergeven",module,Magento_Customer
+"To show VAT number on Storefront, set Show VAT Number on Storefront option to Yes.","Om het BTW-nummer in winkelaanzicht weer te geven, optie BTW-nummer op Winkelaanzicht weergeven op Ja zetten.",module,Magento_Customer
 "Default Email Domain","Standaard e-maildomein",module,Magento_Customer
 "Default Welcome Email","Standaard welkomst-mail",module,Magento_Customer
 "Email template chosen based on theme fallback when ""Default"" option is selected.","E-mail sjabloon dat gekozen wordt op basis van thema fallback als de optie ""Standaard"" is geselecteerd.",module,Magento_Customer
