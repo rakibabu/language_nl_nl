@@ -850,7 +850,7 @@ Role,Rol,module,Magento_Catalog
 "Unselect All","Deselecteer alles",module,Magento_Catalog
 "Select Visible","Selecteer zichtbare",module,Magento_Catalog
 "Unselect Visible","Deselecteer zichtbare",module,Magento_Catalog
-"Shop By","Winkelen per",module,Magento_Catalog
+"Shop By",Filteren,module,Magento_Catalog
 "Shopping Options","Selectie verfijnen",module,Magento_Catalog
 "Compare Products","Producten vergelijken",module,Magento_Catalog
 "Print This Page","Print deze pagina",module,Magento_Catalog
@@ -1049,7 +1049,7 @@ Configuration,Configuratie,module,Magento_Config
 "This attribute is used in configurable products. You cannot remove it from the attribute set.","Dit attribuut wordt gebruikt in configureerbare producten. U kunt het niet van de attributenset verwijderen.",module,Magento_ConfigurableProduct
 "Associated Products","Gerelateerde producten",module,Magento_ConfigurableProduct
 "Sort Variations","Sorteer variaties",module,Magento_ConfigurableProduct
-Select,Kies,module,Magento_ConfigurableProduct
+Select,Selecteer,module,Magento_ConfigurableProduct
 Price,prijs,module,Magento_ConfigurableProduct
 Quantity,Aantal,module,Magento_ConfigurableProduct
 "Add Products Manually","Handmatig toevoegen van producten",module,Magento_ConfigurableProduct
@@ -1716,7 +1716,7 @@ Position,Positie,module,Magento_LayeredNavigation
 "Position of attribute in layered navigation block","Positie van attribuut in gelaagde-navigatieblok",module,Magento_LayeredNavigation
 Previous,Vorige,module,Magento_LayeredNavigation
 "Remove This Item","Verwijder dit artikel",module,Magento_LayeredNavigation
-"Shop By","Winkelen per",module,Magento_LayeredNavigation
+"Shop By",Filteren,module,Magento_LayeredNavigation
 "Clear All","Alles wissen",module,Magento_LayeredNavigation
 "Shopping Options","Selectie verfijnen",module,Magento_LayeredNavigation
 "Featured Platinum Partners","Aanbevolen Platinum Partners",module,Magento_Marketplace
@@ -2617,7 +2617,7 @@ Configure,Configureren,module,Magento_Sales
 "Add Selected Product(s) to Order","Geselecteerd(e) product(en) aan bestelling toevoegen",module,Magento_Sales
 SKU,"stock keeping unit",module,Magento_Sales
 Price,prijs,module,Magento_Sales
-Select,Kies,module,Magento_Sales
+Select,Selecteer,module,Magento_Sales
 Quantity,Aantal,module,Magento_Sales
 "Shipping Address",Afleveradres,module,Magento_Sales
 "Shipping Method",Verzendmethode,module,Magento_Sales
@@ -3217,7 +3217,7 @@ All,Alle,module,Magento_Sitemap
 "Website with the same code","Website met dezelfde code",module,Magento_Store
 "Name is required","Naam is vereist",module,Magento_Store
 "All Store Views","Alle Winkelaanzichten",module,Magento_Store
-"-- Please Select --","-- Selecteer Alstublieft --",module,Magento_Store
+"-- Please Select --","-- Selecteer --",module,Magento_Store
 Admin,Beheerder,module,Magento_Store
 "Your Language:","Uw taal:",module,Magento_Store
 "Your Language","Uw taal",module,Magento_Store
@@ -3657,7 +3657,7 @@ Choose...,Kies...,module,Magento_Widget
 Close,sluiten,module,Magento_Widget
 "Not Selected","Niet Geselecteerd",module,Magento_Widget
 "Widget Type","Widget type",module,Magento_Widget
-"-- Please Select --","-- Selecteer Alstublieft --",module,Magento_Widget
+"-- Please Select --","-- Selecteer --",module,Magento_Widget
 "Manage Widget Instances","Beheer eigenschappen widget",module,Magento_Widget
 "Save and Continue Edit","Opslaan en verder bewerken",module,Magento_Widget
 "New Widget Instance","Nieuw widget",module,Magento_Widget
@@ -3742,7 +3742,7 @@ Back,Terug,module,Magento_Wishlist
 "Remove This Item","Verwijder dit artikel",module,Magento_Wishlist
 "Go to Wish List","Ga naar verlanglijst",module,Magento_Wishlist
 "You have no items in your wish list.","U hebt niets op uw verlanglijst staan.",module,Magento_Wishlist
-"Shop By","Winkelen per",theme,frontend/Magento/luma
+"Shop By",Filteren,theme,frontend/Magento/luma
 Total:,Totaal:,module,Magento_Checkout
 "Add Products to New Option","Producten toevoegen aan nieuwe optie",module,Magento_Bundle
 "Add Products to Option ""%1""","Producten toevoegen aan optie ""%1""",module,Magento_Bundle
