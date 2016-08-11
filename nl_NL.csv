@@ -1009,7 +1009,7 @@ Actions,acties,module,Magento_Catalog
 "Regular Price","Normale prijs",module,Magento_Catalog
 "Buy %1 for %2 each and <strong class=""benefit"">save<span class=""percent tier-%3"">&nbsp;%4</span>%</strong>","Koop %1 voor %2 en <strong class=""benefit"">bespaar<span class=""percent tier-%3"">&nbsp;%4</span>%</strong>",module,Magento_Catalog
 "Buy %1 for %2 each","Koop %1 voor %2 per stuk",module,Magento_Catalog
-"Shop By","Winkelen per",module,Magento_Catalog
+"Shop By",Filteren,module,Magento_Catalog
 "Shopping Options","Selectie verfijnen",module,Magento_Catalog
 "Compare Products","Producten vergelijken",module,Magento_Catalog
 "Print This Page","Print deze pagina",module,Magento_Catalog
@@ -1361,7 +1361,7 @@ Hidden,Verborgen,module,Magento_ConfigurableProduct
 Role,Rol,module,Magento_ConfigurableProduct
 "Hide from Product Page","Verbergen van product pagina",module,Magento_ConfigurableProduct
 "Select attribute","Selecteer attribuut",module,Magento_ConfigurableProduct
-Select,Kies,module,Magento_ConfigurableProduct
+Select,Selecteer,module,Magento_ConfigurableProduct
 Price,prijs,module,Magento_ConfigurableProduct
 "Apply single price to all SKUs","Prijs toepassen op alle art.nrs.",module,Magento_ConfigurableProduct
 "Apply unique prices by attribute to each SKU","Pas unieke prijzen toe door attribuut op elk art.nr.",module,Magento_ConfigurableProduct
@@ -2384,7 +2384,7 @@ items,producten,module,Magento_LayeredNavigation
 Previous,Vorige,module,Magento_LayeredNavigation
 Remove,Verwijder,module,Magento_LayeredNavigation
 "Remove This Item","Verwijder dit artikel",module,Magento_LayeredNavigation
-"Shop By","Winkelen per",module,Magento_LayeredNavigation
+"Shop By",Filteren,module,Magento_LayeredNavigation
 "Clear All","Alles wissen",module,Magento_LayeredNavigation
 "Shopping Options","Selectie verfijnen",module,Magento_LayeredNavigation
 "Featured Platinum Partners","Aanbevolen Platinum Partners",module,Magento_Marketplace
@@ -3453,7 +3453,7 @@ Configure,Configureren,module,Magento_Sales
 "Add Selected Product(s) to Order","Geselecteerd(e) product(en) aan bestelling toevoegen",module,Magento_Sales
 SKU,"stock keeping unit",module,Magento_Sales
 Price,prijs,module,Magento_Sales
-Select,Kies,module,Magento_Sales
+Select,Selecteer,module,Magento_Sales
 Quantity,Aantal,module,Magento_Sales
 "Shipping Address",Afleveradres,module,Magento_Sales
 "Shipping Method",Verzendmethode,module,Magento_Sales
@@ -4232,7 +4232,7 @@ All,Alle,module,Magento_Sitemap
 "Store is inactive","Winkel is inactief",module,Magento_Store
 "Default store is inactive","Standaar winkel is inactief",module,Magento_Store
 "All Store Views","Alle Winkelaanzichten",module,Magento_Store
-"-- Please Select --","-- Selecteer Alstublieft --",module,Magento_Store
+"-- Please Select --","-- Selecteer --",module,Magento_Store
 Admin,Beheerder,module,Magento_Store
 "More than one default website is defined","Meer dan een standaardwebsite is gedefinieerd",module,Magento_Store
 "Default website is not defined","Standaardwebsite is niet gedefinieerd",module,Magento_Store
@@ -4799,7 +4799,7 @@ Choose...,Kies...,module,Magento_Widget
 Close,sluiten,module,Magento_Widget
 "Not Selected","Niet Geselecteerd",module,Magento_Widget
 "Widget Type","Widget type",module,Magento_Widget
-"-- Please Select --","-- Selecteer Alstublieft --",module,Magento_Widget
+"-- Please Select --","-- Selecteer --",module,Magento_Widget
 "Manage Widget Instances","Beheer eigenschappen widget",module,Magento_Widget
 "Add Widget","Widget toevoegen",module,Magento_Widget
 "Save and Continue Edit","Opslaan en verder bewerken",module,Magento_Widget
@@ -4911,7 +4911,7 @@ Back,Terug,module,Magento_Wishlist
 Previous,Vorige,theme,frontend/Magento/luma
 Remove,Verwijder,theme,frontend/Magento/luma
 "Remove This Item","Verwijder dit artikel",theme,frontend/Magento/luma
-"Shop By","Winkelen per",theme,frontend/Magento/luma
+"Shop By",Filteren,theme,frontend/Magento/luma
 "Clear All","Alles wissen",theme,frontend/Magento/luma
 "Shopping Options","Selectie verfijnen",theme,frontend/Magento/luma
 "Payment Transaction Failed","Betalingstransactie mislukt",module,Magento_Checkout
