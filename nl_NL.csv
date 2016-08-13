@@ -667,7 +667,7 @@ None,Geen,module,Magento_Catalog
 "Click for price","Klik voor de prijs",module,Magento_Catalog
 "You deleted the category.","U heeft de categorie verwijderd.",module,Magento_Catalog
 "Something went wrong while trying to delete the category.","Er ging iets fout tijdens het verwijderen van de categorie.",module,Magento_Catalog
-Categories,Categorieen,module,Magento_Catalog
+Categories,Categorieën,module,Magento_Catalog
 "Manage Catalog Categories","Beheer catalogus-categorieën",module,Magento_Catalog
 "Manage Categories","Beheer categorieën",module,Magento_Catalog
 "There was a category move error.","Er is een fout opgetreden bij het verplaatsen van de categorie.",module,Magento_Catalog
@@ -3669,9 +3669,9 @@ Close,sluiten,module,Magento_Widget
 "Sort Order","Sorteer Bestelling",module,Magento_Widget
 "Sort Order of widget instances in the same container","Sorteervolgorde van widgets in dezelfde container",module,Magento_Widget
 "Layout Updates","Lay-out update",module,Magento_Widget
-Categories,Categorieen,module,Magento_Widget
-"Anchor Categories","Verankerde Categorieen",module,Magento_Widget
-"Non-Anchor Categories","Niet verankerde categorieen",module,Magento_Widget
+Categories,Categorieën,module,Magento_Widget
+"Anchor Categories","Verankerde Categorieën",module,Magento_Widget
+"Non-Anchor Categories","Niet verankerde categorieën",module,Magento_Widget
 "All Product Types","Alle product types",module,Magento_Widget
 Products,Producten,module,Magento_Widget
 "Generic Pages","Generieke paginas",module,Magento_Widget
@@ -4018,7 +4018,7 @@ Comma-separated.,"gescheiden door een komma",module,Magento_Catalog
 "Product Listing Sort by","Productlijst sorteren op",module,Magento_Catalog
 "Allow All Products per Page","Alle producten per pagina toestaan",module,Magento_Catalog
 "Whether to show ""All"" option in the ""Show X Per Page"" dropdown","Toon 'Alle Producten' of 'X producten per pagina' in de dropdown",module,Magento_Catalog
-"Allow Dynamic Media URLs in Products and Categories","Dynamische URL's voor producten en categorieen toestaan",module,Magento_Catalog
+"Allow Dynamic Media URLs in Products and Categories","Dynamische URL's voor producten en categorieën toestaan",module,Magento_Catalog
 "E.g. {{media url=""path/to/image.jpg""}} {{skin url=""path/to/picture.gif""}}. Dynamic directives parsing impacts catalog performance.","Bv. {{media url=""pad/naar/afbeelding.jpg""}} {{skin url=""pad/naar/afbeelding.jpg""}}. Dynamisch parsen van heeft invloed op catalogus-performance.",module,Magento_Catalog
 "Product Image Placeholders","Placeholder voor productafbeelding",module,Magento_Catalog
 "Search Engine Optimization","Zoekmachine-optimalisatie (SEO)",module,Magento_Catalog
