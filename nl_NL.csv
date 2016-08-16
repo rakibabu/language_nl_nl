@@ -955,7 +955,7 @@ Groups,Groepen,module,Magento_Catalog
 "Maximum image width","Maximum breedte afbeelding",module,Magento_Catalog
 "Maximum image height","Maximum hoogte afbeelding",module,Magento_Catalog
 "Maximum number of characters:","Maximale aantal karakters:",module,Magento_Catalog
-"start typing to search template","doorzoek het sjabloon",module,Magento_Catalog
+"start typing to search template","begin met typen om sjabloon te vinden",module,Magento_Catalog
 "Manage Stock","Voorraad beheren",module,Magento_Catalog
 Qty,Aantal,module,Magento_Catalog
 "Out-of-Stock Threshold","Niet op voorraad drempel",module,Magento_Catalog
@@ -2203,8 +2203,8 @@ Download,Downloads,module,Magento_ImportExport
 "Please correct the data sent value.","Corrigeer de waarde van de gegevens die worden verzonden.",module,Magento_ImportExport
 Import/Export,Importeren/Exporteren,module,Magento_ImportExport
 History,Geschiedenis,module,Magento_ImportExport
-"Import History","Geschiedenis importeren",module,Magento_ImportExport
-"Import history","Geschiedenis importeren",module,Magento_ImportExport
+"Import History","Import historie",module,Magento_ImportExport
+"Import history","Import historie",module,Magento_ImportExport
 "There is no sample file for this entity.","Er is geen voorbeeldbestand voor deze entiteit.",module,Magento_ImportExport
 "Maximum error count has been reached or system error is occurred!","Maximum aantal fouten is bereikt of er is een systeemfout opgetreden!",module,Magento_ImportExport
 "Import successfully done","Importeren succesvol afgerond",module,Magento_ImportExport
