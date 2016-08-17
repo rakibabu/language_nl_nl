@@ -501,7 +501,7 @@ Promo,Promotie,module,Magento_CatalogRule
 "Go to Home Page","Ga naar homepagina",module,Magento_CatalogSearch
 "Catalog Advanced Search","Catalogus geavanceerd zoeken",module,Magento_CatalogSearch
 All,Allen,module,Magento_CatalogSearch
-Yes,ja,module,Magento_CatalogSearch
+Yes,Ja,module,Magento_CatalogSearch
 No,Nee,module,Magento_CatalogSearch
 Results,Resultaten,module,Magento_CatalogSearch
 Grid,Foto-tabel,module,Magento_CatalogSearch
@@ -1534,7 +1534,7 @@ City,stad,module,Magento_Email
 "The encryption key is used to protect passwords and other sensitive data.","De encryptiesleutel wordt gebruikt om wachtwoorden en andere gevoelige gegevens te beveiligen.",module,Magento_EncryptionKey
 "Auto-generate a Key","Automatisch een encryptiesleutel genereren",module,Magento_EncryptionKey
 No,Nee,module,Magento_EncryptionKey
-Yes,ja,module,Magento_EncryptionKey
+Yes,Ja,module,Magento_EncryptionKey
 "The generated key will be displayed after changing.","De gegenereerde encryptiesleutel wordt weergegeven na het veranderen.",module,Magento_EncryptionKey
 "New Key","Nieuwe encryptiesleutel",module,Magento_EncryptionKey
 "Please enter an encryption key.","Vul een encryptiesleutel in.",module,Magento_EncryptionKey
