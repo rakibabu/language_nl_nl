@@ -371,7 +371,7 @@ Fixed,Vast,module,Magento_Bundle
 Close,sluiten,module,Magento_Bundle
 "Delete Option","Verwijder optie",module,Magento_Bundle
 SKU,"stock keeping unit",module,Magento_Bundle
-Price,prijs,module,Magento_Bundle
+Price,Prijs,module,Magento_Bundle
 Delete,Verwijder,module,Magento_Bundle
 "Use Default Value","Standaardwaarde gebruiken",module,Magento_Bundle
 "There is no defined renderer for ""%1"" option type.","Er is geen weergave gedefinieerd voor optietype ""%1"".",module,Magento_Bundle
@@ -760,7 +760,7 @@ Category,categorie,module,Magento_Catalog
 "We found a duplicate website, tier price, customer group and quantity.","Dubbele website, prijsklasse, klantgroep en aantal gevonden.",module,Magento_Catalog
 "Use config","Gebruik configuratie",module,Magento_Catalog
 Enabled,Ingeschakeld,module,Magento_Catalog
-Disabled,Gedeactiveerd,module,Magento_Catalog
+Disabled,Uitgeschakeld,module,Magento_Catalog
 "The option type to get group instance is incorrect.","Het optie type voor de groep instantie op te vragen is onjuist.",module,Magento_Catalog
 "Select type options required values rows.","Rijen verplichte waarden voor type-opties selecteren",module,Magento_Catalog
 "Please specify date required option(s).","Geef de verplichte datumoptie(s) op.",module,Magento_Catalog
@@ -938,7 +938,7 @@ Checkout,Afrekenen,module,Magento_Checkout
 "Cancel Coupon","Kortingscode annuleren",module,Magento_Checkout
 "Shopping Cart Items","Producten in winkelwagen",module,Magento_Checkout
 Item,Product,module,Magento_Checkout
-Price,prijs,module,Magento_Checkout
+Price,Prijs,module,Magento_Checkout
 Qty,Aantal,module,Magento_Checkout
 Subtotal,Subtotaal,module,Magento_Checkout
 "Continue Shopping","Ga verder met winkelen",module,Magento_Checkout
@@ -971,7 +971,7 @@ Loading...,"Bezig met laden...",module,Magento_Checkout
 "Block Title",Bloktitel,module,Magento_Cms
 "Store View",Winkelaanzicht,module,Magento_Cms
 Enabled,Ingeschakeld,module,Magento_Cms
-Disabled,Gedeactiveerd,module,Magento_Cms
+Disabled,Uitgeschakeld,module,Magento_Cms
 Content,inhoud,module,Magento_Cms
 Title,Titel,module,Magento_Cms
 "Manage Pages","Beheer pagina's",module,Magento_Cms
@@ -1028,7 +1028,7 @@ Pages,Pagina's,module,Magento_Cms
 "Make sure that static block content does not reference the block itself.","Zorg ervoor dat de inhoud van een statisch blok niet naar zichzelf verwijst.",module,Magento_Cms
 "Enabled by Default","Standaard ingeschakeld",module,Magento_Cms
 "Disabled by Default","Standaard uitgeschakeld",module,Magento_Cms
-"Disabled Completely","Compleet gedeactiveerd",module,Magento_Cms
+"Disabled Completely","Volledig uitgeschakeld",module,Magento_Cms
 "A block identifier with the same properties already exists in the selected store.","Een block identifier met dezelfde eigenschappen bestaat reeds.",module,Magento_Cms
 "The page URL key contains capital letters or disallowed symbols.","De URL-key van de pagina heeft hoofdletters of niet toegestane tekens.",module,Magento_Cms
 "The page URL key cannot be made of only numbers.","De pagina URL sleutel kan niet uitsluitend uit cijfers bestaan.",module,Magento_Cms
@@ -1050,7 +1050,7 @@ Configuration,Configuratie,module,Magento_Config
 "Associated Products","Gerelateerde producten",module,Magento_ConfigurableProduct
 "Sort Variations","Sorteer variaties",module,Magento_ConfigurableProduct
 Select,Selecteer,module,Magento_ConfigurableProduct
-Price,prijs,module,Magento_ConfigurableProduct
+Price,Prijs,module,Magento_ConfigurableProduct
 Quantity,Aantal,module,Magento_ConfigurableProduct
 "Add Products Manually","Handmatig toevoegen van producten",module,Magento_ConfigurableProduct
 "Current Variations","Huidige Variaties",module,Magento_ConfigurableProduct
@@ -1102,7 +1102,7 @@ Back,Terug,module,Magento_Customer
 "Please select",Selecteer,module,Magento_Customer
 SKU,Art.nr.,module,Magento_Customer
 Quantity,Aantal,module,Magento_Customer
-Price,prijs,module,Magento_Customer
+Price,Prijs,module,Magento_Customer
 Total,totaal,module,Magento_Customer
 Action,Aktie,module,Magento_Customer
 Configure,Configureren,module,Magento_Customer
@@ -1360,7 +1360,7 @@ Title,Titel,module,Magento_Downloadable
 [GLOBAL],[GLOBAAL],module,Magento_Downloadable
 "Links can be purchased separately","Links kunnen afzonderlijk worden gekocht",module,Magento_Downloadable
 "Sort Order","Sorteer Bestelling",module,Magento_Downloadable
-Price,prijs,module,Magento_Downloadable
+Price,Prijs,module,Magento_Downloadable
 Sample,demo,module,Magento_Downloadable
 Shareable,Deelbaar,module,Magento_Downloadable
 "Max. Downloads","Max. downloads",module,Magento_Downloadable
@@ -1591,7 +1591,7 @@ Availability:,Beschikbaarheid:,module,Magento_GroupedProduct
 "Out of stock","Niet op voorraad",module,Magento_GroupedProduct
 SKU,"stock keeping unit",module,Magento_GroupedProduct
 "Product Name","Product Naam",module,Magento_GroupedProduct
-Price,prijs,module,Magento_GroupedProduct
+Price,Prijs,module,Magento_GroupedProduct
 Qty,Aantal,module,Magento_GroupedProduct
 "No options of this product are available.","Er zijn geen opties voor dit product beschikbaar",module,Magento_GroupedProduct
 "There are no grouped products.","Er zijn geen gegroepeerde producten.",module,Magento_GroupedProduct
@@ -1789,7 +1789,7 @@ Change,Verander,module,Magento_Multishipping
 "Shipping To","Verenden naar",module,Magento_Multishipping
 "Shipping Method",Verzendmethode,module,Magento_Multishipping
 "Incl. Tax","Incl. BTW",module,Magento_Multishipping
-Price,prijs,module,Magento_Multishipping
+Price,Prijs,module,Magento_Multishipping
 Subtotal,Subtotaal,module,Magento_Multishipping
 "Grand Total:","Algemeen totaal:",module,Magento_Multishipping
 "Submitting order information...","Informatie van de bestelling wordt opgeslagen...",module,Magento_Multishipping
@@ -2131,7 +2131,7 @@ Edit,Bewerken,module,Magento_Paypal
 "Edit Shopping Cart","Winkelwagen bewerken",module,Magento_Paypal
 "Place Order","Plaats bestelling",module,Magento_Paypal
 "Submitting order information...","Informatie van de bestelling wordt opgeslagen...",module,Magento_Paypal
-Price,prijs,module,Magento_Paypal
+Price,Prijs,module,Magento_Paypal
 Qty,Aantal,module,Magento_Paypal
 Subtotal,Subtotaal,module,Magento_Paypal
 "Please update order data to get shipping methods and rates","Update gegeven bestelling voor verzendmethodes en -kosten",module,Magento_Paypal
@@ -2363,7 +2363,7 @@ Customer,Klant,module,Magento_Review
 "All Reviews","Alle reviews",module,Magento_Review
 Name,Naam,module,Magento_Review
 "Product Store Name","Product winkelnaam",module,Magento_Review
-Price,prijs,module,Magento_Review
+Price,Prijs,module,Magento_Review
 Quantity,Aantal,module,Magento_Review
 "Manage Ratings","Beheer waarderingen",module,Magento_Review
 "Add New Rating","Nieuwe waardering toevoegen",module,Magento_Review
@@ -2616,7 +2616,7 @@ Configure,Configureren,module,Magento_Sales
 "Newsletter Subscription","inschrijving op nieuwsbrief",module,Magento_Sales
 "Add Selected Product(s) to Order","Geselecteerd(e) product(en) aan bestelling toevoegen",module,Magento_Sales
 SKU,"stock keeping unit",module,Magento_Sales
-Price,prijs,module,Magento_Sales
+Price,Prijs,module,Magento_Sales
 Select,Selecteer,module,Magento_Sales
 Quantity,Aantal,module,Magento_Sales
 "Shipping Address",Afleveradres,module,Magento_Sales
@@ -3299,7 +3299,7 @@ Code,"Interne naam",module,Magento_Tax
 "Subtotal (Excl. Tax)","Subtotaal (excl. BTW)",module,Magento_Tax
 "Subtotal (Incl. Tax)","Subtotaal (incl. BTW)",module,Magento_Tax
 Subtotal,Subtotaal,module,Magento_Tax
-"Unit Price",Eenheidsprijs,module,Magento_Tax
+"Unit Price",Stukprijs,module,Magento_Tax
 "Row Total",Rijtotaal,module,Magento_Tax
 Total,totaal,module,Magento_Tax
 "Before Discount","Voorafgaand aan korting",module,Magento_Tax
@@ -4112,7 +4112,7 @@ Details,Gegevens,module,Magento_Catalog
 "Show Breadcrumbs for CMS Pages","Kruimelpad tonen voor CMS-pagina's",module,Magento_Cms
 "Browser Capabilities Detection","Detectie van browsermogelijkheden",module,Magento_Cms
 "Redirect to CMS-page if Cookies are Disabled","Redirect naar de CMS-page als de Cookies zijn uitgeschakeld",module,Magento_Cms
-"Show Notice if JavaScript is Disabled","Waarschuw als Javascript gedeactiveerd is",module,Magento_Cms
+"Show Notice if JavaScript is Disabled","Waarschuw als javascript is uitgeschakeld",module,Magento_Cms
 "Show Notice if Local Storage is Disabled","Waarschuw als lokale opslag is uitgeschakeld",module,Magento_Cms
 "Content Management",CMS-instellingen,module,Magento_Cms
 "WYSIWYG Options","WYSIWYG Opties",module,Magento_Cms
@@ -4394,7 +4394,7 @@ Instructions,Instructies,module,Magento_OfflinePayments
 "Flat Rate","Vast tarief",module,Magento_OfflineShipping
 Enabled,Ingeschakeld,module,Magento_OfflineShipping
 "Method Name","Naam van methode",module,Magento_OfflineShipping
-Price,prijs,module,Magento_OfflineShipping
+Price,Prijs,module,Magento_OfflineShipping
 "Calculate Handling Fee","Verzendkosten berekenen",module,Magento_OfflineShipping
 "Handling Fee",Verwerkingskosten,module,Magento_OfflineShipping
 "Sort Order","Sorteer Bestelling",module,Magento_OfflineShipping
