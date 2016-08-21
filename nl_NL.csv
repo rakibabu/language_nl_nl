@@ -1296,7 +1296,7 @@ Store,Winkel,module,Magento_Config
 "Store View",Winkelaanzicht,module,Magento_Config
 "HTTP (unsecure)","HTTP (onveilig)",module,Magento_Config
 "Yes (302 Found)","Ja (302 gevonden)",module,Magento_Config
-"Yes (301 Moved Permanently)","Ja (301 Permanent verhuisd)",module,Magento_Config
+"Yes (301 Moved Permanently)","Ja (301 Permanent verplaatst)",module,Magento_Config
 Yes,Ja,module,Magento_Config
 Specified,Gespecificeerd,module,Magento_Config
 "Config form fieldset clone model required to be able to clone fields","Configuratie form fieldset clone model verplicht om velden te kunnen kopieren.",module,Magento_Config
@@ -6173,7 +6173,7 @@ Refunds,Terugbetalingen,module,Magento_Sales
 Delete,Verwijder,module,Magento_Search
 "Are you sure?","Weet je het zeker?",module,Magento_Search
 "Suggested Terms","Voorgestelde voorwaarden",module,Magento_Search
-yes,ja,module,Magento_Search
+yes,Ja,module,Magento_Search
 no,nee,module,Magento_Search
 Action,Aktie,module,Magento_Search
 Edit,Bewerken,module,Magento_Search
