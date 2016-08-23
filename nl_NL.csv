@@ -6283,7 +6283,6 @@ Empty,Leeg,module,Magento_Theme
 "Edit custom instruction of robots.txt File","Aangepaste instructie van robots.txt bestand bewerken",module,Magento_Theme
 "Reset to Defaults","Terugzetten op standaardwaarden",module,Magento_Theme
 "This action will delete your custom instructions and reset robots.txt file to system's default settings.","Deze actie zal uw aangepaste instructies verwijderen en het robots.txt-bestand resetten naar de standaardinstellingen van het systeem.",module,Magento_Theme
-Header,bovenschrift,module,Magento_Theme
 "Logo Image","Logo afbeelding",module,Magento_Theme
 "Logo Image Width","Logo afbeeldingsbreedte",module,Magento_Theme
 "Logo Image Height","Logo afbeeldingshoogte",module,Magento_Theme
