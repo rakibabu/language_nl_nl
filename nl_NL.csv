@@ -1215,7 +1215,7 @@ Blocks,Blokken,module,Magento_Cms
 Pages,Pagina's,module,Magento_Cms
 "Something went wrong while saving the page.","Er ging iets mis bij het opslaan van de pagina.",module,Magento_Cms
 "A total of %1 record(s) have been disabled.","Een totaal van %1 document(en) zijn uitgeschakeld.",module,Magento_Cms
-"A total of %1 record(s) have been enabled.","Een totaal van %1 document(en) zijn ingeschakeld.",module,Magento_Cms
+"A total of %1 record(s) have been enabled.","In totaal van %1 records(s) zijn ingeschakeld.",module,Magento_Cms
 "To apply changes you should fill in hidden required ""%1"" field","Om de wijzigingen toe te passen dient u het verborgen benodigde veld ""%1"" in te vullen",module,Magento_Cms
 "The directory %1 is not writable by server.","De map %1 is niet beschrijfbaar door de server.",module,Magento_Cms
 "Make sure that static block content does not reference the block itself.","Zorg ervoor dat de inhoud van een statisch blok niet naar zichzelf verwijst.",module,Magento_Cms
