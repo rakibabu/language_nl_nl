@@ -2821,6 +2821,7 @@ Custom,Aangepast,module,Magento_Paypal
 "General (Dividend)","Algemeen (Dividend)",module,Magento_Paypal
 "Mobile Payment (made via a mobile phone)","Mobiele Betaling (gedaan via een mobiele telefoon)",module,Magento_Paypal
 "Preapproved Payment (BillUser API, either sent or received","Vooraf goedgekeurde betaling (BillUser API, verzonden of ontvangen",module,Magento_Paypal
+Reauthorization,"Opnieuw autoriseren",module,Magento_Paypal
 Void,"Nietig verklaard",module,Magento_Paypal
 "The PayPal certificate file is empty.","Het PayPal-certificaatbestand is leeg.",module,Magento_Paypal
 "Header (center)","Koptekst (midden)",module,Magento_Paypal
@@ -4308,7 +4309,7 @@ Priority,Prioriteit,module,Magento_Tax
 "Tax rates at the same priority are added, others are compounded.","BTW-tarieven met dezelfde prioriteit worden opgeteld, andere worden gecombineerd.",module,Magento_Tax
 "Calculate Off Subtotal Only","Enkel subtotaal berekenen",module,Magento_Tax
 "Sort Order","Sorteer Bestelling",module,Magento_Tax
-"Do you really want to delete this tax class?","Wenst u dit BTW-tariefgroep te verwijderen?",module,Magento_Tax
+"Do you really want to delete this tax class?","Wil u deze BTW-tariefgroep verwijderen?",module,Magento_Tax
 "Add New Tax Class","Nieuwe BTW-tariefgroep",module,Magento_Tax
 "Shipping Incl. Tax (%1)","Verzendkosten incl. BTW (%1)",module,Magento_Tax
 "Shipping Excl. Tax (%1)","Verzendkosten excl. BTW (%1)",module,Magento_Tax
@@ -4881,7 +4882,7 @@ error-message,foutbericht,module,Magento_Wishlist
 "Share Wish List","Verlanglijst delen",module,Magento_Wishlist
 "Add All to Cart","Alles toevoegen aan winkelwagen",module,Magento_Wishlist
 "Update Wish List","Wensenlijst updaten",module,Magento_Wishlist
-"Move to Wishlist","Verplaats naar Wensenlijst",module,Magento_Wishlist
+"Move to Wishlist","Verplaats naar verlanglijst",module,Magento_Wishlist
 "View Product","Product bekijken",module,Magento_Wishlist
 Qty,Aantal,module,Magento_Wishlist
 "Add to Cart","In Winkelwagen",module,Magento_Wishlist
