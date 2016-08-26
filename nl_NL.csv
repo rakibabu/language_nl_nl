@@ -924,8 +924,8 @@ State/Province,Staat/provincie,module,Magento_Checkout
 "%1 was updated in your shopping cart.","%1 is bijgewerkt in uw winkelwagen.",module,Magento_Checkout
 Checkout,Afrekenen,module,Magento_Checkout
 "Please agree to all the terms and conditions before placing the order.","Accepteer onze Algemene Voorwaarden voordat u de bestelling plaatst a.u.b.",module,Magento_Checkout
-"The product does not exist.","Het artikel bestaat niet",module,Magento_Checkout
-"We don't have some of the products you want.","We hebben enkele van de producten die u wenst niet.",module,Magento_Checkout
+"The product does not exist.","Het artikel bestaat niet.",module,Magento_Checkout
+"We don't have some of the products you want.","We hebben niet alle producten die u wenst.",module,Magento_Checkout
 "We don't have as many of some products as you want.","We hebben het gevraagde aantal producten niet op voorraad.",module,Magento_Checkout
 "Quantity was recalculated from %1 to %2","Aantal is opnieuw berekend van %1 tot %2",module,Magento_Checkout
 "This quote item does not exist.","Dit offerteproduct bestaat niet.",module,Magento_Checkout
