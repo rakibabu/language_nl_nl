@@ -1098,14 +1098,14 @@ State/Province,Staat/provincie,module,Magento_Checkout
 "You canceled the coupon code.","U heeft de kortingscode geannuleerd.",module,Magento_Checkout
 "We cannot apply the coupon code.","Kortingscode kan niet worden toegepast.",module,Magento_Checkout
 "%1 was updated in your shopping cart.","%1 is bijgewerkt in uw winkelwagen.",module,Magento_Checkout
-"One-page checkout is turned off.","Eén-pagina kassa is uitgeschakeld.",module,Magento_Checkout
+"One-page checkout is turned off.","One-page checkout is uitgeschakeld.",module,Magento_Checkout
 "Guest checkout is disabled.","Gast kassa is uitgeschakeld.",module,Magento_Checkout
 Checkout,Afrekenen,module,Magento_Checkout
 "Page not found.","Pagina niet gevonden.",module,Magento_Checkout
 "Please agree to all the terms and conditions before placing the order.","Accepteer onze Algemene Voorwaarden voordat u de bestelling plaatst a.u.b.",module,Magento_Checkout
 "Something went wrong while processing your order. Please try again later.","Er ging iets mis tijdens het verwerken van uw bestelling. Probeer het later nog eens.",module,Magento_Checkout
-"The product does not exist.","Het artikel bestaat niet",module,Magento_Checkout
-"We don't have some of the products you want.","We hebben enkele van de producten die u wenst niet.",module,Magento_Checkout
+"The product does not exist.","Het artikel bestaat niet.",module,Magento_Checkout
+"We don't have some of the products you want.","We hebben niet alle producten die u wenst.",module,Magento_Checkout
 "We don't have as many of some products as you want.","We hebben het gevraagde aantal producten niet op voorraad.",module,Magento_Checkout
 "Quantity was recalculated from %1 to %2","Aantal is opnieuw berekend van %1 tot %2",module,Magento_Checkout
 "We adjusted product quantities to fit the required increments.","We hebben de producthoeveelheden aangepast om aan de vereiste hoeveelheden te voldoen.",module,Magento_Checkout
@@ -4930,7 +4930,6 @@ Total:,Totaal:,module,Magento_Checkout
 "Email: %email","E-mailadres: %email",module,Magento_Contact
 "Phone Number: %telephone","Telefoonnummer: %telephone",module,Magento_Contact
 "Comment: %comment","Reactie: %comment",module,Magento_Contact
-"%name,","%naam,",module,Magento_Customer
 "Welcome to %store_name.","Welkom op %store_name.",module,Magento_Customer
 "To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Om in te loggen op onze website, gebruik deze gegevens tijdens het betalen of op de <a href=""%customer_url"">Uw Account</a> pagina:",module,Magento_Customer
 Email:,E-mail:,module,Magento_Customer
