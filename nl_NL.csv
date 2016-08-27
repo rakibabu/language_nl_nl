@@ -351,7 +351,7 @@ Back,terug,module,Magento_Braintree
 "First Name",Voornaam,module,Magento_Braintree
 "Last Name",Achternaam,module,Magento_Braintree
 Company,Bedrijfsnaam,module,Magento_Braintree
-City,stad,module,Magento_Braintree
+City,Plaats,module,Magento_Braintree
 State/Province,staat/provincie,module,Magento_Braintree
 "Please select region, state or province","Selecteer alstublieft regio, staat of provincie",module,Magento_Braintree
 Submit,Bevestig,module,Magento_Braintree
@@ -908,7 +908,7 @@ Sales,Verkopen,module,Magento_CheckoutAgreements
 "Something went wrong while saving this condition.","Er ging iets fout bij het opslaan van deze Algemene Voorwaarden.",module,Magento_CheckoutAgreements
 "Shopping Cart",Winkelwagen,module,Magento_Checkout
 "Invalid method: %1","Ongeldige methode: %1",module,Magento_Checkout
-City,Stad,module,Magento_Checkout
+City,Plaats,module,Magento_Checkout
 Country,Land,module,Magento_Checkout
 State/Province,Staat/provincie,module,Magento_Checkout
 "Zip/Postal Code",Postcode,module,Magento_Checkout
@@ -1275,7 +1275,7 @@ Address,Straat,module,Magento_Customer
 "Street Address","Straat Adres",module,Magento_Customer
 "Street Address %1","Straat en huisnummer %1",module,Magento_Customer
 "VAT Number","BTW nummer",module,Magento_Customer
-City,stad,module,Magento_Customer
+City,Plaats,module,Magento_Customer
 State/Province,staat/provincie,module,Magento_Customer
 "Zip/Postal Code",Postcode,module,Magento_Customer
 Country,Land,module,Magento_Customer
@@ -1518,7 +1518,7 @@ Unknown,Onbekend,module,Magento_Email
 Country,Land,module,Magento_Email
 Region/State,Provincie,module,Magento_Email
 "Zip/Postal Code",Postcode,module,Magento_Email
-City,stad,module,Magento_Email
+City,Plaats,module,Magento_Email
 "Street Address 1","Straat en huisnummer 1",module,Magento_Email
 "Street Address 2","Straat en huisnummer 2",module,Magento_Email
 "Store Contact Information",Contactinformatie,module,Magento_Email
@@ -2884,7 +2884,7 @@ title,titel,module,Magento_Sales
 "We cannot register an existing shipment","We kunnen geen bestaande verzending registreren",module,Magento_Sales
 "The total model should be extended from \Magento\Sales\Model\Order\Total\AbstractTotal.","Het totaal model moet een uitbreiding zijn op \Magento\Sales\Model\Order\Total\AbstractTotal.",module,Magento_Sales
 "We cannot determine the field name.","We kunnen de naam van het veld niet bepalen.",module,Magento_Sales
-City,stad,module,Magento_Sales
+City,Plaats,module,Magento_Sales
 Company,Bedrijfsnaam,module,Magento_Sales
 Country,Land,module,Magento_Sales
 "First Name",Voornaam,module,Magento_Sales
@@ -3860,7 +3860,7 @@ Locale,Taal,module,Magento_Backend
 Country,Land,module,Magento_Backend
 Region/State,Provincie,module,Magento_Backend
 "ZIP/Postal Code",Postcode,module,Magento_Backend
-City,stad,module,Magento_Backend
+City,Plaats,module,Magento_Backend
 "Street Address","Straat Adres",module,Magento_Backend
 "Street Address Line 2",Adres,module,Magento_Backend
 "VAT Number","BTW nummer",module,Magento_Backend
@@ -4688,7 +4688,7 @@ Origin,Herkomst,module,Magento_Shipping
 Country,Land,module,Magento_Shipping
 Region/State,Provincie,module,Magento_Shipping
 "ZIP/Postal Code",postcode,module,Magento_Shipping
-City,stad,module,Magento_Shipping
+City,Plaats,module,Magento_Shipping
 "Street Address","Straat Adres",module,Magento_Shipping
 "Street Address Line 2",Adres,module,Magento_Shipping
 "Shipping Policy Parameters","Parameters verzendmethodes",module,Magento_Shipping
