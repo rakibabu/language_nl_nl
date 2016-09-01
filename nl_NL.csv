@@ -756,7 +756,7 @@ Category,categorie,module,Magento_Catalog
 "Please enter a number 0 or greater in this field.","Voer in dit veld a.u.b. een getal gelijk aan of groter dan 0 in.",module,Magento_Catalog
 "The value of attribute ""%1"" must be set","De waarde van attribuut ""%1"" moet ingesteld worden",module,Magento_Catalog
 "SKU length should be %1 characters maximum.","De lengte van de SKU mag maximaal %1 tekens te zijn.",module,Magento_Catalog
-"Please enter a valid number in this field.","Voer a.u.b. een geldig getal in dit veld in.",module,Magento_Catalog
+"Please enter a valid number in this field.","Voer een geldig getal in dit veld in.",module,Magento_Catalog
 "We found a duplicate website, tier price, customer group and quantity.","Dubbele website, prijsklasse, klantgroep en aantal gevonden.",module,Magento_Catalog
 "Use config","Gebruik configuratie",module,Magento_Catalog
 Enabled,Ingeschakeld,module,Magento_Catalog
@@ -3895,7 +3895,7 @@ Security,Beveiliging,module,Magento_Backend
 "Enable Charts","Activeer grafieken",module,Magento_Backend
 "Url Options",URL-opties,module,Magento_Backend
 "Add Store Code to Urls","Winkelcode aan URL's toevoegen",module,Magento_Backend
-"Auto-redirect to Base URL","Auto-redirect naar de Basis URL",module,Magento_Backend
+"Auto-redirect to Base URL","Auto-doorverwijzing naar de Basis URL",module,Magento_Backend
 "Search Engine Optimization","Zoekmachine-optimalisatie (SEO)",module,Magento_Backend
 "Use Web Server Rewrites","Gebruik webserver-rewrites",module,Magento_Backend
 "Base URL","Basis URL",module,Magento_Backend
