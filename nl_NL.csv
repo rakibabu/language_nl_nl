@@ -2043,7 +2043,7 @@ Unknown,Onbekend,module,Magento_Email
 "Edit System Template","Systeem-sjabloon bewerken",module,Magento_Email
 "New Template","Nieuw sjabloon",module,Magento_Email
 "New System Template","Nieuw systeem-sjabloon",module,Magento_Email
-"Email Templates","E-mail templates",module,Magento_Email
+"Email Templates",E-mailsjablonen,module,Magento_Email
 "Email Preview","Voorvertoning E-mail",module,Magento_Email
 "An error occurred. The email template can not be opened for preview.","Er is een fout opgetreden. De e-mailtemplate kan niet worden geopend als voorvertoning.",module,Magento_Email
 "This email template no longer exists.","Dit e-mail-sjabloon bestaat niet meer.",module,Magento_Email
@@ -2524,7 +2524,7 @@ Cancel,Annuleer,module,Magento_Newsletter
 Resume,Doorgaan,module,Magento_Newsletter
 Preview,Voorbeeld,module,Magento_Newsletter
 "Add New Template","Nieuwe sjabloon toevoegen",module,Magento_Newsletter
-"Newsletter Templates","Nieuwsbrief Templates",module,Magento_Newsletter
+"Newsletter Templates","Nieuwsbrief Sjablonen",module,Magento_Newsletter
 "Convert to Plain Text","Omzetten naar platte tekst",module,Magento_Newsletter
 "Return HTML Version","Geef HTML-versie terug",module,Magento_Newsletter
 "Delete Template","Template verwijderen",module,Magento_Newsletter
@@ -2548,7 +2548,7 @@ Action,Actie,module,Magento_Newsletter
 "The problems you identified have been deleted.","De problemen die u vaststelde werden verwijderd.",module,Magento_Newsletter
 "Newsletter Problems Report","Nieuwsbrief probleemrapporten",module,Magento_Newsletter
 "Newsletter Problem Reports","Nieuwsbrief probleemrapporten",module,Magento_Newsletter
-"Newsletter Queue","Nieuwsbrief Rij",module,Magento_Newsletter
+"Newsletter Queue","Nieuwsbrief wachtrij",module,Magento_Newsletter
 "Edit Queue","Wachtrij bewerken",module,Magento_Newsletter
 "Please correct the newsletter template and try again.","Corrigeer het nieuwsbriefsjabloon en probeer opnieuw.",module,Magento_Newsletter
 "You saved the newsletter queue.","U heeft de nieuwsbrief wachtrij opgeslagen.",module,Magento_Newsletter
@@ -5832,7 +5832,7 @@ Subscriber,Abonnee,module,Magento_Newsletter
 "Error Code",Foutcode,module,Magento_Newsletter
 "Error Text",Fouttekst,module,Magento_Newsletter
 "Queue Start","Wachtrij start",module,Magento_Newsletter
-"Queue End","Einde van de wachtrij",module,Magento_Newsletter
+"Queue End","Wachtrij einde",module,Magento_Newsletter
 Processed,Verwerkt,module,Magento_Newsletter
 Recipients,Geadresseerden,module,Magento_Newsletter
 Unsubscribe,Uitschrijven,module,Magento_Newsletter
@@ -6177,7 +6177,7 @@ no,nee,module,Magento_Search
 Action,Actie,module,Magento_Search
 Edit,Bewerken,module,Magento_Search
 "Email to a Friend","E-mail naar een vriend",module,Magento_SendFriend
-"Email Templates","E-mail templates",module,Magento_SendFriend
+"Email Templates",E-mailsjablonen,module,Magento_SendFriend
 Enabled,Ingeschakeld,module,Magento_SendFriend
 "Select Email Template","Selecteer e-mail-sjabloon",module,Magento_SendFriend
 "Email template chosen based on theme fallback when ""Default"" option is selected.","E-mail sjabloon dat gekozen wordt op basis van thema fallback als de optie ""Standaard"" is geselecteerd.",module,Magento_SendFriend
