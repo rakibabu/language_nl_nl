@@ -5682,14 +5682,12 @@ Delete,Verwijder,module,Magento_GiftMessage
 "Product alerts Cron error","Product notificaties Cron error",module,Magento_ProductAlert
 "Product alerts cron warnings","Product notificaties cron waarschuwingen",module,Magento_ProductAlert
 "Products price changed alert","Notificatie product prijswijzigingen",module,Magento_ProductAlert
-"%name,","%naam,",module,Magento_ProductAlert
 "Products back in stock alert","Weer op voorraad notificatie",module,Magento_ProductAlert
 "Apply Discount Code","Pas kortingscode toe",module,Magento_SalesRule
 "Enter discount code","Voer kortingscode in",module,Magento_SalesRule
 "Apply Discount","Korting doorvoeren",module,Magento_SalesRule
 "Cancel coupon","Kortingscode annuleren",module,Magento_SalesRule
 "Credit memo for your %store_name order","Creditfactuur voor uw %store_name bestelling",module,Magento_Sales
-"%name,","%naam,",module,Magento_Sales
 "Thank you for your order from %store_name.","Bedankt voor je bestelling bij %store_name.",module,Magento_Sales
 "You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","U kunt de status van uw bestelling controleren door in te <a href=""%account_url"">loggen op uw account</a>.",module,Magento_Sales
 "If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>","Indien u vragen heeft over uw bestelling, kan u ons emailen op <a href=""mailto:%store_email"">%store_email</a>",module,Magento_Sales
@@ -5714,13 +5712,11 @@ Delete,Verwijder,module,Magento_GiftMessage
 "Your Shipment #%shipment_id for Order #%order_id","Uw verzending #%shipment_id voor bestelling #%order_id",module,Magento_Sales
 "Update to your %store_name shipment","Update van uw %store_name verzending",module,Magento_Sales
 "Welcome, %name","Welkom %name",module,Magento_SendFriend
-"%name,","%naam,",module,Magento_SendFriend
 "%sender_name wants to share this product with you:","%sender_name wenst dit product met u te delen:",module,Magento_SendFriend
 "Message from %sender_name:","Bericht van %sender_name:",module,Magento_SendFriend
 "See our Shipping Policy","Bekijk ons verzendbeleid",module,Magento_Shipping
 "Sitemap generate Warnings","Waarschuwingen van de sitemap generatie",module,Magento_Sitemap
 "Sitemap Generation Warnings","Waarschuwingen van de sitemap generatie",module,Magento_Sitemap
-"%name,","%naam,",module,Magento_Theme
 "Welcome to %store_name.","Welkom op %store_name.",module,Magento_Theme
 "To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Om in te loggen op onze website, gebruik deze gegevens tijdens het afrekenen of op de <a href=""%customer_url"">Uw Account</a> pagina:",module,Magento_Theme
 Email:,E-mail:,module,Magento_Theme
@@ -5739,7 +5735,6 @@ Options,Opties,module,Magento_Ui
 "records found","records gevonden",module,Magento_Ui
 selected,geselecteerd,module,Magento_Ui
 "Password Reset Confirmation for %name","Wachtwoord reset bevestiging voor %name",module,Magento_User
-"%name,","%naam,",module,Magento_User
 "There was recently a request to change the password for your account.","Er was onlangs een aanvraag om het wachtwoord van uw account te wijzigen.",module,Magento_User
 "If you requested this change, reset your password here:","Indien u deze wijziging heeft aangevraagd, stel je wachtoord hier opnieuw in:",module,Magento_User
 "If you did not make this request, you can ignore this email and your password will remain the same.","Indien u deze aanvraag niet heeft ingediend, kan u deze email negeren en uw wachtwoord zal ongewijzigd blijven.",module,Magento_User
@@ -5755,7 +5750,6 @@ selected,geselecteerd,module,Magento_Ui
 "Message from %customer_name:","Bericht van %customer_name:",module,Magento_Wishlist
 "View all Wish List items","Bekijk alle producten op verlanglijst",module,Magento_Wishlist
 "Welcome to %store_name","Welkom bij %store_name",theme,frontend/Magento/luma
-"%name,","%naam,",theme,frontend/Magento/luma
 "Welcome to %store_name.","Welkom op %store_name.",theme,frontend/Magento/luma
 "To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Om in te loggen op onze website, gebruik deze gegevens tijdens het betalen of op de <a href=""%customer_url"">Uw Account</a> pagina:",theme,frontend/Magento/luma
 Email:,E-mail:,theme,frontend/Magento/luma
