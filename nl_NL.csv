@@ -2059,7 +2059,7 @@ Password,Wachtwoord,module,Magento_Customer
 "Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","Het aanmaken van een account heeft vele voordelen: sneller afhandelen, meer dan één adres registreren, volgen van bestellingen en meer.",module,Magento_Customer
 Gender,Geslacht,module,Magento_Customer
 Name,Naam,module,Magento_Customer
-"Tax/VAT number",BTW-nummer,module,Magento_Customer
+"Tax/VAT number","BTW nummer",module,Magento_Customer
 "Cannot switch into given mode ""%1""","Onmogelijk om naar volgende mode ""%1"" over te schakelen",module,Magento_Deploy
 "Format for IDE '%1' is not supported","Opmaak voor IDE '%1' wordt niet ondersteund",module,Magento_Developer
 "Client side less compilation","Client less compilatie",module,Magento_Developer
@@ -3460,7 +3460,7 @@ Created,Aangemaakt,module,Magento_Reports
 Subtotal,Subtotaal,module,Magento_Reports
 "Coupon Code","Tegoedbon code",module,Magento_Reports
 "Price Rule","Prijs regel",module,Magento_Reports
-Uses,Gebruik,module,Magento_Reports
+Uses,Gebruikt,module,Magento_Reports
 "Sales Subtotal","Verkoop subtotaal",module,Magento_Reports
 "Sales Discount",Kortingen,module,Magento_Reports
 "Sales Total",Verkooptotaal,module,Magento_Reports
@@ -3752,7 +3752,7 @@ Conditions,Voorwaarden,module,Magento_SalesRule
 Generate,Genereren,module,Magento_SalesRule
 "Coupon Code","Tegoedbon code",module,Magento_SalesRule
 Created,Aangemaakt,module,Magento_SalesRule
-Uses,Gebruik,module,Magento_SalesRule
+Uses,Gebruikt,module,Magento_SalesRule
 No,Nee,module,Magento_SalesRule
 Yes,Ja,module,Magento_SalesRule
 "Times Used","Aantal keer gebruikt",module,Magento_SalesRule
@@ -4447,7 +4447,7 @@ Close,sluiten,module,Magento_Sales
 Search,Zoek,module,Magento_Sales
 "Search Term",Zoekterm,module,Magento_Search
 Results,Resultaten,module,Magento_Search
-Uses,Gebruik,module,Magento_Search
+Uses,Gebruikt,module,Magento_Search
 "Search Terms",Zoektermen,module,Magento_Search
 "Search Synonyms","Zoek synoniemen",module,Magento_Search
 "New Synonym Group","Nieuwe synoniem groep",module,Magento_Search
@@ -4468,7 +4468,9 @@ No,Nee,module,Magento_Search
 Yes,Ja,module,Magento_Search
 "Search Query",Zoekterm,module,Magento_Search
 Store,Winkel,module,Magento_Search
-"Number of Uses","Aantal toepassingen",module,Magento_Search
+"Number of results","Aantal resultaten",module,Magento_Search
+"Number of results (For the last time placed)","Aantal resultaten (voor de laatste keer geplaatst)",module,Magento_Search
+"Number of Uses","Aantal keer gebruikt",module,Magento_Search
 "Redirect URL","Doorverwijs URL",module,Magento_Search
 "ex. http://domain.com","bijv. http://domein.nl",module,Magento_Search
 "Display in Suggested Terms","Laat zien in Mogelijke Voorwaarden",module,Magento_Search
