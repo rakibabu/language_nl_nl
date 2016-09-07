@@ -1301,7 +1301,7 @@ Login,"Log in",module,Magento_Customer
 "New Customers","Nieuwe klanten",module,Magento_Customer
 Gender,Geslacht,module,Magento_Customer
 Name,Naam,module,Magento_Customer
-"Tax/VAT number",BTW-nummer,module,Magento_Customer
+"Tax/VAT number","BTW nummer",module,Magento_Customer
 "Client side less compilation","Client less compilatie",module,Magento_Developer
 "Server side less compilation","Server less compilatie",module,Magento_Developer
 "Wrong Content Type","Verkeerd Inhoudstype",module,Magento_Dhl
@@ -2230,7 +2230,7 @@ Created,Aangemaakt,module,Magento_Reports
 Subtotal,Subtotaal,module,Magento_Reports
 "Coupon Code","Tegoedbon code",module,Magento_Reports
 "Price Rule","Prijs regel",module,Magento_Reports
-Uses,Gebruik,module,Magento_Reports
+Uses,Gebruikt,module,Magento_Reports
 "Sales Subtotal","Verkoop subtotaal",module,Magento_Reports
 "Sales Discount",Kortingen,module,Magento_Reports
 "Sales Total",Verkooptotaal,module,Magento_Reports
@@ -2487,7 +2487,7 @@ Conditions,Voorwaarden,module,Magento_SalesRule
 Generate,Genereren,module,Magento_SalesRule
 "Coupon Code","Tegoedbon code",module,Magento_SalesRule
 Created,Aangemaakt,module,Magento_SalesRule
-Uses,Gebruik,module,Magento_SalesRule
+Uses,Gebruikt,module,Magento_SalesRule
 "Times Used","Aantal keer gebruikt",module,Magento_SalesRule
 Delete,Verwijder,module,Magento_SalesRule
 "Are you sure you want to delete the selected coupon(s)?","Weet u zeker dat u dez geselecteerde coupons wilt verwijderen?",module,Magento_SalesRule
