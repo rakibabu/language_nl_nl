@@ -1647,14 +1647,14 @@ Add/Update,Toevoegen/bijwerken,module,Magento_ImportExport
 "Entity Attributes",Eenheidattributen,module,Magento_ImportExport
 Continue,"Verder gaan",module,Magento_ImportExport
 "Validation Results",Validatieresultaten,module,Magento_ImportExport
-"Indexer Management","Indexer management",module,Magento_Indexer
+"Indexer Management","indexering management",module,Magento_Indexer
 "Update by Schedule","Volgens schema bijwerken",module,Magento_Indexer
-"Update on Save","Indexeren bij opslaan",module,Magento_Indexer
+"Update on Save","Bijwerken bij opslaan",module,Magento_Indexer
 "Reindex required","Opnieuw indexeren vereist",module,Magento_Indexer
 Ready,Gereed,module,Magento_Indexer
 Processing,"Bezig met verwerken",module,Magento_Indexer
 Never,Nooit,module,Magento_Indexer
-"Please select indexers.","Selecteer indexers.",module,Magento_Indexer
+"Please select indexers.","Selecteer indexeringen.",module,Magento_Indexer
 "We couldn't change indexer(s)' mode because of an error.","De indexer(s) modus kan niet worden aangepast vanwege een fout.",module,Magento_Indexer
 "State for the same indexer","Staat voor de dezelfde indexer",module,Magento_Indexer
 "State for the same view","Staat voor de dezelfde weergave",module,Magento_Indexer
@@ -4224,6 +4224,7 @@ Addresses,Adressen,module,Magento_Customer
 "Developer Client Restrictions","Beperk bewerkingen in omgeving o.b.v. IP adres",module,Magento_Developer
 "Allowed IPs (comma separated)","Toegestane IP's (door komma's gescheiden)",module,Magento_Developer
 "Leave empty for access from any location.","Indien het veld leeg is, zal deze functionaliteit voor iedereen zichtbaar zijn",module,Magento_Developer
+"Enabled for Checkout","Ingeschakeld bij Afrekenen",module,Magento_Dhl
 "Gateway URL","Betaalplatform URL",module,Magento_Dhl
 Title,Titel,module,Magento_Dhl
 "Access ID",Toegangs-ID,module,Magento_Dhl
@@ -4280,6 +4281,7 @@ Updated,Ge-update,module,Magento_Email
 Subject,Onderwerp,module,Magento_Email
 "Template Type","Template soort",module,Magento_Email
 Action,Actie,module,Magento_Email
+"Enabled for Checkout","Ingeschakeld bij Afrekenen",module,Magento_Fedex
 Title,Titel,module,Magento_Fedex
 "Account ID",Klant-ID,module,Magento_Fedex
 "Please make sure to use only digits here. No dashes are allowed.","Gebruik alleen cijfers a.u.b. Streepjes zijn niet toegestaan.",module,Magento_Fedex
@@ -4462,6 +4464,7 @@ Title,Titel,module,Magento_Paypal
 "Enable SSL verification","SSL-verificatie inschakelen",module,Magento_Paypal
 "If this option is enabled, customer can change shipping address and shipping method on PayPal website. In live mode works via HTTPS protocol only.","Indien deze optie aan staat kan de klant zijn verzendadres en verzendmethode aanpassen op de PayPal website. Dit werkt enkel via het HTTPS protocol.",module,Magento_Paypal
 "Ability for buyer to purchase without PayPal account.","Koper kan zonder een PayPal account ook afrekenen (PayPal account is niet verplicht)",module,Magento_Paypal
+"This feature needs be enabled first for the merchant account through PayPal technical support.","Deze functionaliteit moet eerst ingeschakeld zijn bij het merchant account. Dit kan gedaan worden via PayPal's technische support.",module,Magento_Paypal
 "Billing Agreement Signup","Aanmelden Incasso-overeenkomsten",module,Magento_Paypal
 "Skip Order Review Step","Order-controle stap overslaan",module,Magento_Paypal
 "PayPal Billing Agreement Settings","PayPal Incasso-Overeenkomst instellingen",module,Magento_Paypal
@@ -4787,6 +4790,7 @@ Translations,Vertalingen,module,Magento_Translation
 "Log JS Errors to Session Storage","Log JS fouten naar sessie opslag",module,Magento_Ui
 "Log JS Errors to Session Storage Key","Log JS fouten naar Session Storage Key",module,Magento_Ui
 "Access License Number","Toegangs licentie nummer",module,Magento_Ups
+"Enabled for Checkout","Ingeschakeld bij Afrekenen",module,Magento_Ups
 "Allowed Methods","Toegestane methodes",module,Magento_Ups
 "Free Shipping Amount Threshold","Maximaal bedrag voor gratis verzending",module,Magento_Ups
 "Destination Type","Type Bestemming",module,Magento_Ups
@@ -4830,6 +4834,7 @@ Username,Gebruikersnaam,module,Magento_User
 "Last login","Laatste login",module,Magento_User
 Failures,Mislukkingen,module,Magento_User
 Unlocked,Ontgrendeld,module,Magento_User
+"Enabled for Checkout","Ingeschakeld bij Afrekenen",module,Magento_Usps
 "Gateway URL","Betaalplatform URL",module,Magento_Usps
 Title,Titel,module,Magento_Usps
 "User ID",Gebruiker-ID,module,Magento_Usps
