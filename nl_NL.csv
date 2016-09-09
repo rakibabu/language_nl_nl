@@ -2195,7 +2195,7 @@ Date,Datum,module,Magento_Downloadable
 "You have not purchased any downloadable products yet.","U hebt nog geen producten besteld die u kunt downloaden.",module,Magento_Downloadable
 Back,Terug,module,Magento_Downloadable
 download,downloaden,module,Magento_Downloadable
-"Gift Message","Bericht bij kado",module,Magento_Downloadable
+"Gift Message",Cadeau-bericht,module,Magento_Downloadable
 From:,Van:,module,Magento_Downloadable
 To:,Tot:,module,Magento_Downloadable
 Message:,Bericht:,module,Magento_Downloadable
@@ -2478,7 +2478,7 @@ To,Aan,module,Magento_GiftMessage
 Message,Bericht,module,Magento_GiftMessage
 Cancel,Annuleer,module,Magento_GiftMessage
 "Gift Options","Kado opties",module,Magento_GiftMessage
-"Gift Message","Bericht bij kado",module,Magento_GiftMessage
+"Gift Message",Cadeau-bericht,module,Magento_GiftMessage
 "Do you have any gift items in your order?","Zitten er kado's bij uw bestelling?",module,Magento_GiftMessage
 "Add gift options","Voeg cadeau-optie toe",module,Magento_GiftMessage
 "Gift Options for the Entire Order","Cadeau-opties voor gehele bestelling",module,Magento_GiftMessage
@@ -4361,7 +4361,7 @@ Refresh,Vernieuwen,module,Magento_Sales
 "Credit Memo Totals",Creditfactuur-totalen,module,Magento_Sales
 "Customer Name: %1","Klantnaam: %1",module,Magento_Sales
 "Purchased From: %1","Gekocht bij: %1",module,Magento_Sales
-"Gift Message","Bericht bij kado",module,Magento_Sales
+"Gift Message",Cadeau-bericht,module,Magento_Sales
 From:,Van:,module,Magento_Sales
 To:,Tot:,module,Magento_Sales
 Message:,Bericht:,module,Magento_Sales
@@ -6751,8 +6751,8 @@ Dropoff,Dropshipment,module,Magento_Fedex
 Debug,"Fouten opsporen in programma",module,Magento_Fedex
 "Show Method if Not Applicable","Laat verzendmethode zien indien niet van toepassing",module,Magento_Fedex
 "Sort Order","Sorteer Bestelling",module,Magento_Fedex
-"Allow Gift Messages on Order Level","Kadoberichten toestaan bij hele bestelling",module,Magento_GiftMessage
-"Allow Gift Messages for Order Items","Kadoberichten toestaan bij bestelde artikelen",module,Magento_GiftMessage
+"Allow Gift Messages on Order Level","Cadeau-berichten toestaan op orderniveau",module,Magento_GiftMessage
+"Allow Gift Messages for Order Items","Cadeau-berichten toestaan op orderniveau",module,Magento_GiftMessage
 Enable,Activeer,module,Magento_GoogleAdwords
 "Conversion ID",Conversie-ID,module,Magento_GoogleAdwords
 "Conversion Language","Conversie taal",module,Magento_GoogleAdwords
