@@ -4624,7 +4624,7 @@ Width,Breedte,module,Magento_Shipping
 Contents,Inhoud,module,Magento_Shipping
 "Total Weight",Totaalgewicht,module,Magento_Shipping
 Height,Hoogte,module,Magento_Shipping
-Size,Grote,module,Magento_Shipping
+Size,Grootte,module,Magento_Shipping
 "Items in the Package","Items in het pakket",module,Magento_Shipping
 Weight,Gewicht,module,Magento_Shipping
 "Qty Ordered","Besteld aantal",module,Magento_Shipping
@@ -6664,7 +6664,7 @@ Password,Wachtwoord,module,Magento_Dhl
 "Handling Fee",Verwerkingskosten,module,Magento_Dhl
 "Select this to allow DHL to optimize shipping charges by splitting the order if it exceeds 70 kg.","Selecteer dit om DHL te laten instaan voor een geoptimalizeerde splitsing van de bestelling indien het meer weegt dan 70kg.",module,Magento_Dhl
 "Weight Unit",Gewichtseenheid,module,Magento_Dhl
-Size,Grote,module,Magento_Dhl
+Size,Grootte,module,Magento_Dhl
 "Allowed Methods","Toegestane methodes",module,Magento_Dhl
 "Displayed Error Message","Weergeven foutbericht",module,Magento_Dhl
 "Free Method","Gratis methode",module,Magento_Dhl
@@ -6952,7 +6952,7 @@ Manage,Beheren,module,Magento_Paypal
 "Home Page","Home pagina",module,Magento_Paypal
 Display,Weergave,module,Magento_Paypal
 Position,Positie,module,Magento_Paypal
-Size,Grote,module,Magento_Paypal
+Size,Grootte,module,Magento_Paypal
 "Catalog Category Page","Catalogus Categorie-pagina",module,Magento_Paypal
 "Catalog Product Page","Catalogus productpagina",module,Magento_Paypal
 "Checkout Cart Page","Winkelwagen-afreken pagina",module,Magento_Paypal
@@ -7496,7 +7496,7 @@ Title,Titel,module,Magento_Usps
 "User ID",Gebruiker-ID,module,Magento_Usps
 Password,Wachtwoord,module,Magento_Usps
 Mode,Type,module,Magento_Usps
-Size,Grote,module,Magento_Usps
+Size,Grootte,module,Magento_Usps
 Width,Breedte,module,Magento_Usps
 Height,Hoogte,module,Magento_Usps
 Machinable,Machinaal,module,Magento_Usps
