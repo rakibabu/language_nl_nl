@@ -1580,9 +1580,9 @@ Done,Klaar,module,Magento_ConfigurableProduct
 "Choose a new product to delete and replace the current product configuration.","Kies een nieuw product om te verwijderen en vervang de huidige productconfiguratie.",module,Magento_ConfigurableProduct
 "For better results, add attributes and attribute values to your products.","Voor betere resultaten, voeg attributen en attribuut waarden to aan uw producten.",module,Magento_ConfigurableProduct
 "Configurable products allow customers to choose options (Ex: shirt color). You need to create a simple product for each configuration (Ex: a product for each color).","Configureerbare producten geeft klanten de mogelijkheid om opties selecteren (Bv. T-shirt kleur). Je moet een simpel-product aanmaken voor elke configuratie (Bv. een product voor elke kleur).",module,Magento_ConfigurableProduct
-"Configurations cannot be created for a standard product with downloadable files. To create configurations, first remove all downloadable files.","Configuraties kunnen niet worden gemaakt voor een standaardproduct met downloadbare bestanden. Om configuraties te maken moet u eerst alle downloadbare bestanden verwijderen.",module,Magento_ConfigurableProduct
+"Configurations cannot be created for a standard product with downloadable files. To create configurations, first remove all downloadable files.","Configuraties kunnen niet worden aangemaakt voor een product met downloadbare bestanden. Om configuraties te maken moet u eerst alle downloadbare bestanden verwijderen.",module,Magento_ConfigurableProduct
 "Add Products Manually","Handmatig toevoegen van producten",module,Magento_ConfigurableProduct
-"Create Configurations","Maken van configuraties",module,Magento_ConfigurableProduct
+"Create Configurations","Configuraties aanmaken",module,Magento_ConfigurableProduct
 "Current Variations","Huidige Variaties",module,Magento_ConfigurableProduct
 Image,Beeld,module,Magento_ConfigurableProduct
 Name,Naam,module,Magento_ConfigurableProduct
@@ -1641,7 +1641,7 @@ U moet een een simpel product aanmaken voor elke configuratie (Ex: een product v
 "No Image","Geen afbeelding",module,Magento_ConfigurableProduct
 "Choose a different Product","Kies een ander Product",module,Magento_ConfigurableProduct
 "Remove Product","Product verwijderen",module,Magento_ConfigurableProduct
-"Create Product Configurations","Productconfiguraties maken",module,Magento_ConfigurableProduct
+"Create Product Configurations","Productconfiguraties aanmaken",module,Magento_ConfigurableProduct
 Cancel,Annuleer,module,Magento_ConfigurableProduct
 "Page not found.","Pagina niet gevonden.",module,Magento_Contact
 "Thanks for contacting us with your comments and questions. We'll respond to you very soon.","Bedankt dat u contact met ons op met uw opmerkingen en vragen. U kunt spoedig op antwoord rekenen.",module,Magento_Contact
@@ -2103,7 +2103,7 @@ WARNING:,WAARSCHUWING:,module,Magento_Directory
 "Please select a region, state or province.","Selecteer regio, staat of provincie.",module,Magento_Directory
 Currency,Valuta,module,Magento_Directory
 "Your current currency is: %1.","Uw huidige valuta is: %1.",module,Magento_Directory
-Continue,"Verder gaan",module,Magento_Directory
+Continue,Doorgaan,module,Magento_Directory
 "File directory '%1' is not readable.","Bestandsmap '%1' is niet leesbaar.",module,Magento_DownloadableImportExport
 "File directory '%1' is not writable.","Bestandsmap '%1' is niet schrijfbaar.",module,Magento_DownloadableImportExport
 Error,Foutmelding,module,Magento_DownloadableImportExport
@@ -2624,7 +2624,7 @@ Delete,Verwijder,module,Magento_ImportExport
 "Error message",Foutmelding,module,Magento_ImportExport
 "URL key for specified store already exists.","URL sleutel voor opgegeven winkel bestaat al.",module,Magento_ImportExport
 "Entity Attributes",Eenheidattributen,module,Magento_ImportExport
-Continue,"Verder gaan",module,Magento_ImportExport
+Continue,Doorgaan,module,Magento_ImportExport
 "Validation Results",Validatieresultaten,module,Magento_ImportExport
 "Indexer Management","indexering management",module,Magento_Indexer
 "Update by Schedule","Volgens schema bijwerken",module,Magento_Indexer
@@ -3308,7 +3308,7 @@ Qty,Aantal,module,Magento_Paypal
 Subtotal,Subtotaal,module,Magento_Paypal
 "Please update order data to get shipping methods and rates","Update gegeven bestelling voor verzendmethodes en -kosten",module,Magento_Paypal
 or,of,module,Magento_Paypal
-Continue,"Verder gaan",module,Magento_Paypal
+Continue,Doorgaan,module,Magento_Paypal
 "Additional Options","Extra opties",module,Magento_Paypal
 "-- Please Select Billing Agreement--","-- Selecteer incasso-overeenkomst--",module,Magento_Paypal
 "Acceptance Mark",Acceptatie-indicatie,module,Magento_Paypal
@@ -4416,7 +4416,7 @@ Comment,Commentaar,module,Magento_Sales
 "Find Order By","Vind bestelling op",module,Magento_Sales
 "ZIP Code",Postcode,module,Magento_Sales
 "Billing ZIP Code","Factuur postcode",module,Magento_Sales
-Continue,"Verder gaan",module,Magento_Sales
+Continue,Doorgaan,module,Magento_Sales
 "Print All Refunds","Alle terugbetalingen printen",module,Magento_Sales
 "Refund #","Terugbetaling #",module,Magento_Sales
 "Print Refund","Terugbetaling printen",module,Magento_Sales
@@ -5442,7 +5442,7 @@ Products,Producten,module,Magento_Widget
 "Widget Options","Widget opties",module,Magento_Widget
 Settings,Instellingen,module,Magento_Widget
 "Design Theme",Ontwerpthema,module,Magento_Widget
-Continue,"Verder gaan",module,Magento_Widget
+Continue,Doorgaan,module,Magento_Widget
 "Please specify a Widget Type.","Geef een Widget-type op.",module,Magento_Widget
 "Please specify a correct widget.","Geef een juiste widget.",module,Magento_Widget
 "The widget instance has been deleted.","De widget is gewijzigd",module,Magento_Widget
