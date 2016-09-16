@@ -1709,7 +1709,7 @@ System,systeem,module,Magento_CurrencySymbol
 "You have not set a default billing address.","U heeft geen standaard factuuradres ingevoerd.",module,Magento_Customer
 "Address Book",Adresboek,module,Magento_Customer
 "Edit Address","Bewerk adres",module,Magento_Customer
-"Add New Address","Adres Toevoegen",module,Magento_Customer
+"Add New Address","Adres toevoegen",module,Magento_Customer
 region,regio,module,Magento_Customer
 "Create Order","Bestelling aanmaken",module,Magento_Customer
 "Save Customer","Klant opslaan",module,Magento_Customer
@@ -2000,7 +2000,7 @@ Change,Verander,module,Magento_Customer
 "Default Shipping Address","Standaard verzendadres",module,Magento_Customer
 "Contact Information",Contactgegevens,module,Magento_Customer
 "Change Password","Wachtwoord wijzigen",module,Magento_Customer
-Newsletters,nieuwsbrieven,module,Magento_Customer
+Newsletters,Nieuwsbrieven,module,Magento_Customer
 "You subscribe to ""General Subscription"".","U heeft zich geabonneerd op ""Algemeen Abonnement"".",module,Magento_Customer
 or,of,module,Magento_Customer
 "Default Addresses","Standaard adres",module,Magento_Customer
@@ -2019,7 +2019,7 @@ Address,Straat,module,Magento_Customer
 "Street Address %1","Straat en huisnummer %1",module,Magento_Customer
 "VAT Number","BTW nummer",module,Magento_Customer
 City,Plaats,module,Magento_Customer
-State/Province,staat/provincie,module,Magento_Customer
+State/Province,Staat/Provincie,module,Magento_Customer
 "Please select a region, state or province.","Selecteer regio, staat of provincie.",module,Magento_Customer
 "Zip/Postal Code",Postcode,module,Magento_Customer
 Country,Land,module,Magento_Customer
@@ -2085,7 +2085,7 @@ Regular,Normaal,module,Magento_Dhl
 "Response is in the wrong format","Antwoord is in het onjuiste formaat",module,Magento_Dhl
 "Unable to retrieve shipping label","Onmogelijk om verzendlabel op te halen",module,Magento_Dhl
 None,Geen,module,Magento_Dhl
-State/Province,staat/provincie,module,Magento_Directory
+State/Province,Provincie,module,Magento_Directory
 "--Please Select--","--Maak een keuze--",module,Magento_Directory
 kgs,kg.,module,Magento_Directory
 "Requested country is not available.","Opgevraagde land is niet beschikbaar.",module,Magento_Directory
@@ -2834,7 +2834,7 @@ Total,totaal,module,Magento_Multishipping
 "Default Billing","Standaard Factuuradres",module,Magento_Multishipping
 "Default Shipping","Standaard verzendadres",module,Magento_Multishipping
 "Select Address","Kies een adres",module,Magento_Multishipping
-"Add New Address","Adres Toevoegen",module,Magento_Multishipping
+"Add New Address","Adres toevoegen",module,Magento_Multishipping
 "Back to Billing Information","Terug naar factuurinformatie",module,Magento_Multishipping
 "Please select a shipping address for applicable items.","Selecteer een verzendadres voor de geselecteerde producten.",module,Magento_Multishipping
 Qty,Aantal,module,Magento_Multishipping
@@ -2940,7 +2940,7 @@ Subscribers,Abonnees,module,Magento_Newsletter
 "Create Newsletter Template","Nieuwsbrief-sjabloon aanmaken",module,Magento_Newsletter
 "The newsletter template has been saved.","Het nieuwsbriefsjabloon werd opgeslaan.",module,Magento_Newsletter
 "Something went wrong while saving this template.","Er ging iets fout bij het bewaren van dit sjabloon.",module,Magento_Newsletter
-"Newsletter Subscription","inschrijving op nieuwsbrief",module,Magento_Newsletter
+"Newsletter Subscription",Nieuwsbriefabonnement,module,Magento_Newsletter
 "Something went wrong while saving your subscription.","Er ging iets mis bij het bewaren van uw abonnement.",module,Magento_Newsletter
 "We saved the subscription.","We hebben het abonnement opgeslagen.",module,Magento_Newsletter
 "We removed the subscription.","We hebben het abonnement verwijderd.",module,Magento_Newsletter
@@ -3885,7 +3885,7 @@ Message,Bericht,module,Magento_Sales
 "* - Enter custom price excluding tax","* - Voer speciale prijs in exclusief BTW",module,Magento_Sales
 Configure,Configureren,module,Magento_Sales
 "This product does not have any configurable options","Dit product heeft geen configureerbare opties",module,Magento_Sales
-"Newsletter Subscription","inschrijving op nieuwsbrief",module,Magento_Sales
+"Newsletter Subscription",Nieuwsbriefabonnement,module,Magento_Sales
 "Please select products","Selecteer producten",module,Magento_Sales
 "Add Selected Product(s) to Order","Geselecteerd(e) product(en) aan bestelling toevoegen",module,Magento_Sales
 SKU,Art.nr.,module,Magento_Sales
@@ -4250,7 +4250,7 @@ Company,Bedrijfsnaam,module,Magento_Sales
 Country,Land,module,Magento_Sales
 "First Name",Voornaam,module,Magento_Sales
 "Last Name",Achternaam,module,Magento_Sales
-State/Province,staat/provincie,module,Magento_Sales
+State/Province,Staat/Provincie,module,Magento_Sales
 "Street Address","Straat Adres",module,Magento_Sales
 "Phone Number",Telefoonnummer,module,Magento_Sales
 "Zip/Postal Code",Postcode,module,Magento_Sales
@@ -4307,7 +4307,7 @@ Remove,Verwijder,module,Magento_Sales
 "Order Currency:","Valuta van bestelling",module,Magento_Sales
 "Same As Billing Address","Zelfde als factuuradres",module,Magento_Sales
 "Select from existing customer addresses:","Selecteer uit bestaande klantenadressen",module,Magento_Sales
-"Add New Address","Adres Toevoegen",module,Magento_Sales
+"Add New Address","Adres toevoegen",module,Magento_Sales
 "Save in address book","Opslaan in adresboek",module,Magento_Sales
 "You don't need to select a shipping address.","Het is niet nodig om een afleveradres te selecteren.",module,Magento_Sales
 "Gift Message for the Entire Order","Kadobericht voor hele bestelling",module,Magento_Sales
