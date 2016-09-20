@@ -5148,7 +5148,6 @@ Custom,Aangepast,module,Magento_UrlRewrite
 "Create URL Rewrite:","URL Rewrite aanmaken:",module,Magento_UrlRewrite
 "You deleted the URL rewrite.","U heeft de URL rewrite verwijderd.",module,Magento_UrlRewrite
 "We can't delete URL Rewrite right now.","We kunnen de URL Rewrite momenteel niet verwijderen.",module,Magento_UrlRewrite
-"URL Rewrites","Herschreven URL's",module,Magento_UrlRewrite
 "The product you chose is not associated with the selected store or category.","Het product dat u koos is niet gekoppeld met de geselecteerde winkel of categorie.",module,Magento_UrlRewrite
 "The category you chose is not associated with the selected store.","De gekozen categorie is niet gekoppeld met de geselecteerde winkel.",module,Magento_UrlRewrite
 "The URL Rewrite has been saved.","De URL Rewrite is opgeslagen.",module,Magento_UrlRewrite
