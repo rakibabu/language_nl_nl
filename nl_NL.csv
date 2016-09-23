@@ -599,7 +599,7 @@ Always,Altijd,module,Magento_Captcha
 "The fewest you may purchase is %1.","Het minimale aantal dat u kunt bestellen is %1.",module,Magento_CatalogInventory
 "Please correct the quantity for some products.","Corrigeer het aantal voor sommige producten.",module,Magento_CatalogInventory
 "The most you may purchase is %1.","Het meeste dat u kunt kopen is %1.",module,Magento_CatalogInventory
-"We don't have as many ""%1"" as you requested.","We hebben niet zo veel van ""%1"" als u gevraagd heeft.",module,Magento_CatalogInventory
+"We don't have as many ""%1"" as you requested.","Onvoldoende voorraad beschikbaar voor: ""%1"".",module,Magento_CatalogInventory
 "We don't have as many ""%1"" as you requested, but we'll back order the remaining %2.","We hebben niet zo veel van ""%1"" zoals u gevraagd heeft, maar we zullen de resterende %2 naleveren.",module,Magento_CatalogInventory
 "We don't have ""%1"" in the requested quantity, so we'll back order the remaining %2.","We hebben niet zo veel van ""%1"" zoals u gevraagd heeft, maar we zullen de resterende %2 naleveren.",module,Magento_CatalogInventory
 "You can buy %1 only in quantities of %2 at a time.","U kunt %1 alleen in hoeveelheden van %2 kopen in één keer.",module,Magento_CatalogInventory
@@ -2015,7 +2015,7 @@ or,of,module,Magento_Customer
 Company,Bedrijfsnaam,module,Magento_Customer
 "Phone Number",Telefoonnummer,module,Magento_Customer
 Address,Straat,module,Magento_Customer
-"Street Address","Straat Adres",module,Magento_Customer
+"Street Address",Adres,module,Magento_Customer
 "Street Address %1","Straat en huisnummer %1",module,Magento_Customer
 "VAT Number","BTW nummer",module,Magento_Customer
 City,Plaats,module,Magento_Customer
@@ -4251,7 +4251,7 @@ Country,Land,module,Magento_Sales
 "First Name",Voornaam,module,Magento_Sales
 "Last Name",Achternaam,module,Magento_Sales
 State/Province,Staat/Provincie,module,Magento_Sales
-"Street Address","Straat Adres",module,Magento_Sales
+"Street Address",Adres,module,Magento_Sales
 "Phone Number",Telefoonnummer,module,Magento_Sales
 "Zip/Postal Code",Postcode,module,Magento_Sales
 "We can't save the address:\n%1","Het adres kan niet worden opgeslagen:\n%1",module,Magento_Sales
@@ -5692,7 +5692,7 @@ Delete,Verwijder,module,Magento_GiftMessage
 "Thank you for your order from %store_name.","Bedankt voor uw bestelling bij %store_name.",module,Magento_Sales
 "You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","U kunt de status van uw bestelling controleren door in te <a href=""%account_url"">loggen op uw account</a>.",module,Magento_Sales
 "If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>","Indien u vragen heeft over uw bestelling, kan u ons emailen op <a href=""mailto:%store_email"">%store_email</a>",module,Magento_Sales
-"or call us at <a href=""tel:%store_phone"">%store_phone</a>","of telefonish op <a href=""tel:%store_phone"">%store_phone</a>",module,Magento_Sales
+"or call us at <a href=""tel:%store_phone"">%store_phone</a>","of telefonisch op <a href=""tel:%store_phone"">%store_phone</a>",module,Magento_Sales
 "Our hours are <span class=""no-link"">%store_hours</span>.","Onze openinsuren zijn <span class=""no-link"">%store_hours</span>.",module,Magento_Sales
 "Your Credit Memo #%creditmemo_id for Order #%order_id","Uw creditfactuur #%creditmemo_id voor bestelling #%order_id",module,Magento_Sales
 "Billing Info",Facturering-Info,module,Magento_Sales
@@ -6067,7 +6067,7 @@ Country,Land,module,Magento_Backend
 Region/State,Provincie,module,Magento_Backend
 "ZIP/Postal Code",Postcode,module,Magento_Backend
 City,Plaats,module,Magento_Backend
-"Street Address","Straat Adres",module,Magento_Backend
+"Street Address",Adres,module,Magento_Backend
 "Street Address Line 2",Adres,module,Magento_Backend
 "VAT Number","BTW nummer",module,Magento_Backend
 "Single-Store Mode","Enkele store modus",module,Magento_Backend
@@ -7298,7 +7298,7 @@ Country,Land,module,Magento_Shipping
 Region/State,Provincie,module,Magento_Shipping
 "ZIP/Postal Code",postcode,module,Magento_Shipping
 City,Plaats,module,Magento_Shipping
-"Street Address","Straat Adres",module,Magento_Shipping
+"Street Address",Adres,module,Magento_Shipping
 "Street Address Line 2",Adres,module,Magento_Shipping
 "Shipping Policy Parameters","Parameters verzendmethodes",module,Magento_Shipping
 "Apply custom Shipping Policy","Toepassen aangepaste verzendmethode",module,Magento_Shipping
