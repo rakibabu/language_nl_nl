@@ -352,7 +352,7 @@ Back,terug,module,Magento_Braintree
 "Last Name",Achternaam,module,Magento_Braintree
 Company,Bedrijfsnaam,module,Magento_Braintree
 City,Plaats,module,Magento_Braintree
-State/Province,staat/provincie,module,Magento_Braintree
+State/Province,Staat/Provincie,module,Magento_Braintree
 "Please select region, state or province","Selecteer alstublieft regio, staat of provincie",module,Magento_Braintree
 Submit,Bevestig,module,Magento_Braintree
 "Add Credit Card","Creditcard toevoegen",module,Magento_Braintree
@@ -509,7 +509,7 @@ List,Lijst,module,Magento_CatalogSearch
 Relevance,Relevantie,module,Magento_CatalogSearch
 "Search results for: '%1'","Zoekresultaten voor: ‘%1’",module,Magento_CatalogSearch
 "Minimum Search query length is %1","Minimale lengte zoekopdracht is %1",module,Magento_CatalogSearch
-"Please specify at least one search term.","Geef tenminste 1 zoekterm op.",module,Magento_CatalogSearch
+"Please specify at least one search term.","Geef tenminste één zoekterm op.",module,Magento_CatalogSearch
 "%1 and greater","%1 en groter",module,Magento_CatalogSearch
 "up to %1","tot %1",module,Magento_CatalogSearch
 "Search Settings",Zoekinstellingen,module,Magento_CatalogSearch
@@ -746,14 +746,14 @@ Center,Centreer,module,Magento_Catalog
 "Unsupported product type ""%1"".","Onbekend producttype ""%1"".",module,Magento_Catalog
 "Please correct the category.","Corrigeer de categorie.",module,Magento_Catalog
 "The attribute model is not defined.","Het attribuut model is niet opgegeven.",module,Magento_Catalog
-Category,categorie,module,Magento_Catalog
+Category,Categorie,module,Magento_Catalog
 "Clear Price","Prijs verwijderen",module,Magento_Catalog
 "%1 and above","%1 en hoger",module,Magento_Catalog
 "The filters must be an array.","De filters moeten array.",module,Magento_Catalog
 "The image does not exist.","De afbeelding bestaat niet.",module,Magento_Catalog
 "Please correct the image file type.","Corrigeer het bestandstype van de afbeelding.",module,Magento_Catalog
 "Group price must be a number greater than 0.","Groepsprijs moet een getal groter dan 0 zijn.",module,Magento_Catalog
-"Please enter a number 0 or greater in this field.","Voer in dit veld a.u.b. een getal gelijk aan of groter dan 0 in.",module,Magento_Catalog
+"Please enter a number 0 or greater in this field.","Voer in dit veld een getal gelijk aan of groter dan 0 in.",module,Magento_Catalog
 "The value of attribute ""%1"" must be set","De waarde van attribuut ""%1"" moet ingesteld worden",module,Magento_Catalog
 "SKU length should be %1 characters maximum.","De lengte van de SKU mag maximaal %1 tekens te zijn.",module,Magento_Catalog
 "Please enter a valid number in this field.","Voer een geldig getal in dit veld in.",module,Magento_Catalog
@@ -1090,7 +1090,7 @@ System,systeem,module,Magento_CurrencySymbol
 "You have not set a default billing address.","U heeft geen standaard factuuradres ingevoerd.",module,Magento_Customer
 "Address Book",Adresboek,module,Magento_Customer
 "Edit Address","Bewerk adres",module,Magento_Customer
-"Add New Address","Adres Toevoegen",module,Magento_Customer
+"Add New Address","Adres toevoegen",module,Magento_Customer
 region,regio,module,Magento_Customer
 "Create Order","Bestelling aanmaken",module,Magento_Customer
 "Save Customer","Klant opslaan",module,Magento_Customer
@@ -1223,9 +1223,9 @@ Admin,Beheerder,module,Magento_Customer
 """%1"" is not a valid URL.","""%1"" is geen geldige URL.",module,Magento_Customer
 """%1"" is not a valid date.","""%1"" is geen geldige datum.",module,Magento_Customer
 """%1"" does not fit the entered date format.","""%1"" past niet in het ingevulde datum-formaat.",module,Magento_Customer
-"Please enter a valid date between %1 and %2 at %3.","Vul een geldige datum in tussen %1 en %2 bij %3.",module,Magento_Customer
-"Please enter a valid date equal to or greater than %1 at %2.","Vul een geldige datum gelijk aan of groter dan %1 bij %2.",module,Magento_Customer
-"Please enter a valid date less than or equal to %1 at %2.","Vul een geldige datum in minder of gelijk aan %1 bij %2.",module,Magento_Customer
+"Please enter a valid date between %1 and %2 at %3.","Voer een geldige datum in tussen %1 en %2 bij %3.",module,Magento_Customer
+"Please enter a valid date equal to or greater than %1 at %2.","Voer een geldige datum gelijk aan of groter dan %1 bij %2.",module,Magento_Customer
+"Please enter a valid date less than or equal to %1 at %2.","Voer een geldige datum in minder of gelijk aan %1 bij %2.",module,Magento_Customer
 """%1"" is not a valid file extension.","""%1"" is geen geldige bestandsextentie.",module,Magento_Customer
 """%1"" is not a valid file.","""%1"" is geen geldig bestand.",module,Magento_Customer
 """%1"" exceeds the allowed file size.","""%1"" overschrijdt de toegestane bestandsgrootte.",module,Magento_Customer
@@ -1261,7 +1261,7 @@ Change,Verander,module,Magento_Customer
 "Default Shipping Address","Standaard verzendadres",module,Magento_Customer
 "Contact Information",Contactgegevens,module,Magento_Customer
 "Change Password","Wachtwoord wijzigen",module,Magento_Customer
-Newsletters,nieuwsbrieven,module,Magento_Customer
+Newsletters,Nieuwsbrieven,module,Magento_Customer
 "Default Addresses","Standaard adres",module,Magento_Customer
 "Change Billing Address","Verander Factuuradres",module,Magento_Customer
 "You have no default billing address in your address book.","U heeft geen standaard betalingsadres in uw adresboek",module,Magento_Customer
@@ -1272,11 +1272,11 @@ Newsletters,nieuwsbrieven,module,Magento_Customer
 "* Required Fields","* Verplichte velden",module,Magento_Customer
 Company,Bedrijfsnaam,module,Magento_Customer
 Address,Straat,module,Magento_Customer
-"Street Address","Straat Adres",module,Magento_Customer
+"Street Address",Adres,module,Magento_Customer
 "Street Address %1","Straat en huisnummer %1",module,Magento_Customer
 "VAT Number","BTW nummer",module,Magento_Customer
 City,Plaats,module,Magento_Customer
-State/Province,staat/provincie,module,Magento_Customer
+State/Province,Staat/Provincie,module,Magento_Customer
 "Zip/Postal Code",Postcode,module,Magento_Customer
 Country,Land,module,Magento_Customer
 "Use as my default billing address","Gebruik als standaard factuuradres",module,Magento_Customer
@@ -1321,7 +1321,7 @@ Regular,Normaal,module,Magento_Dhl
 "Unable to retrieve tracking","Kan tracking niet ophalen",module,Magento_Dhl
 "Response is in the wrong format","Antwoord is in het onjuiste formaat",module,Magento_Dhl
 None,Geen,module,Magento_Dhl
-State/Province,staat/provincie,module,Magento_Directory
+State/Province,Provincie,module,Magento_Directory
 "--Please Select--","--Maak een keuze--",module,Magento_Directory
 "Please correct the target currency.","Corrigeer de doel-munt.",module,Magento_Directory
 "Undefined rate from ""%1-%2"".","Onbepaald tarief van ""%1-%2"".",module,Magento_Directory
@@ -1333,7 +1333,7 @@ WARNING:,WAARSCHUWING:,module,Magento_Directory
 "Please correct the rates received","Corrigeer de ontvangen tarieven",module,Magento_Directory
 Currency,Valuta,module,Magento_Directory
 "Your current currency is: %1.","Uw huidige valuta is: %1.",module,Magento_Directory
-Continue,"Verder gaan",module,Magento_Directory
+Continue,Doorgaan,module,Magento_Directory
 "Downloadable Information","Downloadbare informatie",module,Magento_Downloadable
 "Upload Files","Bestanden uploaden",module,Magento_Downloadable
 "All Files","Alle bestanden",module,Magento_Downloadable
@@ -1430,7 +1430,7 @@ Yes/No,Ja/Nee,module,Magento_Eav
 """%1"" is a required value.","""%1"" is een vereiste waarde.",module,Magento_Eav
 "Please enter a valid date between %1 and %2 at %3.","Vul een geldige datum in tussen %1 en %2 bij %3.",module,Magento_Eav
 "Please enter a valid date equal to or greater than %1 at %2.","Vul een geldige datum gelijk aan of groter dan %1 bij %2.",module,Magento_Eav
-"Please enter a valid date less than or equal to %1 at %2.","Vul een geldige datum in minder of gelijk aan %1 bij %2.",module,Magento_Eav
+"Please enter a valid date less than or equal to %1 at %2.","Voer een geldige datum in minder of gelijk aan %1 bij %2.",module,Magento_Eav
 """%1"" is not a valid file extension.","""%1"" is geen geldige bestandsextentie.",module,Magento_Eav
 """%1"" is not a valid file.","""%1"" is geen geldig bestand.",module,Magento_Eav
 """%1"" exceeds the allowed file size.","""%1"" overschrijdt de toegestane bestandsgrootte.",module,Magento_Eav
@@ -1645,11 +1645,11 @@ Add/Update,Toevoegen/bijwerken,module,Magento_ImportExport
 "Delete Entities","Verwijder entiteiten",module,Magento_ImportExport
 "Custom Action","Aangepaste actie",module,Magento_ImportExport
 "Entity Attributes",Eenheidattributen,module,Magento_ImportExport
-Continue,"Verder gaan",module,Magento_ImportExport
+Continue,Doorgaan,module,Magento_ImportExport
 "Validation Results",Validatieresultaten,module,Magento_ImportExport
 "Indexer Management","indexering management",module,Magento_Indexer
 "Update by Schedule","Volgens schema bijwerken",module,Magento_Indexer
-"Update on Save","Bijwerken bij opslaan",module,Magento_Indexer
+"Update on Save","Indexeren bij opslaan",module,Magento_Indexer
 "Reindex required","Opnieuw indexeren vereist",module,Magento_Indexer
 Ready,Gereed,module,Magento_Indexer
 Processing,"Bezig met verwerken",module,Magento_Indexer
@@ -1769,7 +1769,7 @@ Total,totaal,module,Magento_Multishipping
 "Default Billing","Standaard Factuuradres",module,Magento_Multishipping
 "Default Shipping","Standaard verzendadres",module,Magento_Multishipping
 "Select Address","Kies een adres",module,Magento_Multishipping
-"Add New Address","Adres Toevoegen",module,Magento_Multishipping
+"Add New Address","Adres toevoegen",module,Magento_Multishipping
 "Back to Billing Information","Terug naar factuurinformatie",module,Magento_Multishipping
 "Please select a shipping address for applicable items.","Selecteer een verzendadres voor de geselecteerde producten.",module,Magento_Multishipping
 Qty,Aantal,module,Magento_Multishipping
@@ -1795,7 +1795,7 @@ Subtotal,Subtotaal,module,Magento_Multishipping
 "Submitting order information...","Informatie van de bestelling wordt opgeslagen...",module,Magento_Multishipping
 "Continue to Billing Information","Ga verder naar factuurinformatie",module,Magento_Multishipping
 "Back to Select Addresses","Terug naar adressen selecteren",module,Magento_Multishipping
-"Thank you for your purchase!","Bedankt voor je bestelling!",module,Magento_Multishipping
+"Thank you for your purchase!","Bedankt voor uw bestelling!",module,Magento_Multishipping
 "Continue Shopping","Ga verder met winkelen",module,Magento_Multishipping
 "Delete Selected Problems","Geselecteerde problemen verwijderen",module,Magento_Newsletter
 "Unsubscribe Selected","Uitschrijven geselecteerd",module,Magento_Newsletter
@@ -1855,7 +1855,7 @@ Subscribers,Abonnees,module,Magento_Newsletter
 "New Template","Nieuw sjabloon",module,Magento_Newsletter
 "Create Newsletter Template","Nieuwsbrief-sjabloon aanmaken",module,Magento_Newsletter
 "The newsletter template has been saved.","Het nieuwsbriefsjabloon werd opgeslaan.",module,Magento_Newsletter
-"Newsletter Subscription","inschrijving op nieuwsbrief",module,Magento_Newsletter
+"Newsletter Subscription",Nieuwsbriefabonnement,module,Magento_Newsletter
 "Something went wrong while saving your subscription.","Er ging iets mis bij het bewaren van uw abonnement.",module,Magento_Newsletter
 "We saved the subscription.","We hebben het abonnement opgeslagen.",module,Magento_Newsletter
 "We removed the subscription.","We hebben het abonnement verwijderd.",module,Magento_Newsletter
@@ -1945,7 +1945,7 @@ Shipping,Verzending,module,Magento_Payment
 "The refund action is not available.","De restitutie actie is niet beschikbaar.",module,Magento_Payment
 "The payment review action is unavailable.","De betaalcontrole is niet beschikbaar",module,Magento_Payment
 "Invalid Credit Card Number","Ongeldig credit card nummer",module,Magento_Payment
-"Please enter a valid credit card verification number.","Geef a.u.b. een geldig credit card verificatie nummer op.",module,Magento_Payment
+"Please enter a valid credit card verification number.","Geef een geldig credit card verificatie nummer op.",module,Magento_Payment
 Yes,Ja,module,Magento_Payment
 No,Nee,module,Magento_Payment
 "Expiration Date",Vervaldatum,module,Magento_Payment
@@ -2136,7 +2136,7 @@ Price,Prijs,module,Magento_Paypal
 Qty,Aantal,module,Magento_Paypal
 Subtotal,Subtotaal,module,Magento_Paypal
 "Please update order data to get shipping methods and rates","Update gegeven bestelling voor verzendmethodes en -kosten",module,Magento_Paypal
-Continue,"Verder gaan",module,Magento_Paypal
+Continue,Doorgaan,module,Magento_Paypal
 "Additional Options","Extra opties",module,Magento_Paypal
 "-- Please Select Billing Agreement--","-- Selecteer incasso-overeenkomst--",module,Magento_Paypal
 "Acceptance Mark",Acceptatie-indicatie,module,Magento_Paypal
@@ -2450,7 +2450,7 @@ FALSE,"NIET WAAR",module,Magento_Rule
 "If %1 of these conditions are %2:","Als %1 van deze voorwaarden %2 zijn:",module,Magento_Rule
 "Conditions Combination",Voorwaardencombinatie,module,Magento_Rule
 "Attribute Set",Attributenset,module,Magento_Rule
-Category,categorie,module,Magento_Rule
+Category,Categorie,module,Magento_Rule
 "Open Chooser","Kiezer openen",module,Magento_Rule
 "There is no information about associated entity type ""%1"".","Er is geen informatie over de geassocieerde entiteit-typen ""%1"".",module,Magento_Rule
 "Cart Price Rules","Winkelwagen prijs regels",module,Magento_SalesRule
@@ -2614,7 +2614,7 @@ Message,Bericht,module,Magento_Sales
 "* - Enter custom price excluding tax","* - Voer speciale prijs in exclusief BTW",module,Magento_Sales
 Configure,Configureren,module,Magento_Sales
 "This product does not have any configurable options","Dit product heeft geen configureerbare opties",module,Magento_Sales
-"Newsletter Subscription","inschrijving op nieuwsbrief",module,Magento_Sales
+"Newsletter Subscription",Nieuwsbriefabonnement,module,Magento_Sales
 "Add Selected Product(s) to Order","Geselecteerd(e) product(en) aan bestelling toevoegen",module,Magento_Sales
 SKU,Art.nr.,module,Magento_Sales
 Price,Prijs,module,Magento_Sales
@@ -2889,8 +2889,8 @@ Company,Bedrijfsnaam,module,Magento_Sales
 Country,Land,module,Magento_Sales
 "First Name",Voornaam,module,Magento_Sales
 "Last Name",Achternaam,module,Magento_Sales
-State/Province,staat/provincie,module,Magento_Sales
-"Street Address","Straat Adres",module,Magento_Sales
+State/Province,Staat/Provincie,module,Magento_Sales
+"Street Address",Adres,module,Magento_Sales
 "Zip/Postal Code",Postcode,module,Magento_Sales
 "We cannot create an empty shipment.","We kunnen geen lege verzending aanmaken.",module,Magento_Sales
 "We cannot register an existing credit memo.","Kan een bestaande creditfactuur niet inboeken.",module,Magento_Sales
@@ -2924,7 +2924,7 @@ Remove,Verwijder,module,Magento_Sales
 "Order Currency:","Valuta van bestelling",module,Magento_Sales
 "Same As Billing Address","Zelfde als factuuradres",module,Magento_Sales
 "Select from existing customer addresses:","Selecteer uit bestaande klantenadressen",module,Magento_Sales
-"Add New Address","Adres Toevoegen",module,Magento_Sales
+"Add New Address","Adres toevoegen",module,Magento_Sales
 "Save in address book","Opslaan in adresboek",module,Magento_Sales
 "Gift Message for the Entire Order","Kadobericht voor hele bestelling",module,Magento_Sales
 "Row Subtotal","Subtotaal rij",module,Magento_Sales
@@ -3019,7 +3019,7 @@ Comment,Commentaar,module,Magento_Sales
 "Billing Last Name","Achternaam op factuur",module,Magento_Sales
 "ZIP Code",Postcode,module,Magento_Sales
 "Billing ZIP Code","Factuur postcode",module,Magento_Sales
-Continue,"Verder gaan",module,Magento_Sales
+Continue,Doorgaan,module,Magento_Sales
 "Print All Refunds","Alle terugbetalingen printen",module,Magento_Sales
 "Refund #","Terugbetaling #",module,Magento_Sales
 "Print Refund","Terugbetaling printen",module,Magento_Sales
@@ -3108,7 +3108,7 @@ Width,Breedte,module,Magento_Shipping
 Contents,Inhoud,module,Magento_Shipping
 "Total Weight",Totaalgewicht,module,Magento_Shipping
 Height,Hoogte,module,Magento_Shipping
-Size,Grote,module,Magento_Shipping
+Size,Grootte,module,Magento_Shipping
 "Items in the Package","Items in het pakket",module,Magento_Shipping
 Weight,Gewicht,module,Magento_Shipping
 "Qty Ordered","Besteld aantal",module,Magento_Shipping
@@ -3462,7 +3462,6 @@ Custom,Aangepast,module,Magento_UrlRewrite
 "For product","Voor product",module,Magento_UrlRewrite
 "For CMS page","Voor CMS pagina",module,Magento_UrlRewrite
 "Create URL Rewrite:","URL Rewrite aanmaken:",module,Magento_UrlRewrite
-"URL Rewrites","Herschreven URL's",module,Magento_UrlRewrite
 "The URL Rewrite has been saved.","De URL Rewrite is opgeslagen.",module,Magento_UrlRewrite
 No,Nee,module,Magento_UrlRewrite
 "Temporary (302)","Tijdelijk (302)",module,Magento_UrlRewrite
@@ -3683,7 +3682,7 @@ Products,Producten,module,Magento_Widget
 "Widget Options","Widget opties",module,Magento_Widget
 Settings,Instellingen,module,Magento_Widget
 "Design Theme",Ontwerpthema,module,Magento_Widget
-Continue,"Verder gaan",module,Magento_Widget
+Continue,Doorgaan,module,Magento_Widget
 "Please specify a Widget Type.","Geef een Widget-type op.",module,Magento_Widget
 "Please specify a correct widget.","Geef een juiste widget.",module,Magento_Widget
 "The widget instance has been deleted.","De widget is gewijzigd",module,Magento_Widget
@@ -3861,7 +3860,7 @@ Country,Land,module,Magento_Backend
 Region/State,Provincie,module,Magento_Backend
 "ZIP/Postal Code",Postcode,module,Magento_Backend
 City,Plaats,module,Magento_Backend
-"Street Address","Straat Adres",module,Magento_Backend
+"Street Address",Adres,module,Magento_Backend
 "Street Address Line 2",Adres,module,Magento_Backend
 "VAT Number","BTW nummer",module,Magento_Backend
 "Single-Store Mode","Enkele store modus",module,Magento_Backend
@@ -4235,7 +4234,7 @@ Password,Wachtwoord,module,Magento_Dhl
 """Per Order"" allows a single handling fee for the entire order. ""Per Package"" allows an individual handling fee for each package.","""Per bestelling"" laat een éénmalige verwerkingskost voor de hele bestelling toe. ""Per pakket"" laat een verwerkingskost voor elk pakket toe.",module,Magento_Dhl
 "Handling Fee",Verwerkingskosten,module,Magento_Dhl
 "Weight Unit",Gewichtseenheid,module,Magento_Dhl
-Size,Grote,module,Magento_Dhl
+Size,Grootte,module,Magento_Dhl
 "Allowed Methods","Toegestane methodes",module,Magento_Dhl
 "Displayed Error Message","Weergeven foutbericht",module,Magento_Dhl
 "Free Method","Gratis methode",module,Magento_Dhl
@@ -4448,7 +4447,7 @@ Condition,conditie,module,Magento_OfflineShipping
 "Home Page","Home pagina",module,Magento_Paypal
 Display,Weergave,module,Magento_Paypal
 Position,Positie,module,Magento_Paypal
-Size,Grote,module,Magento_Paypal
+Size,Grootte,module,Magento_Paypal
 "Catalog Category Page","Catalogus Categorie-pagina",module,Magento_Paypal
 "Catalog Product Page","Catalogus productpagina",module,Magento_Paypal
 "Checkout Cart Page","Winkelwagen-afreken pagina",module,Magento_Paypal
@@ -4692,7 +4691,7 @@ Country,Land,module,Magento_Shipping
 Region/State,Provincie,module,Magento_Shipping
 "ZIP/Postal Code",postcode,module,Magento_Shipping
 City,Plaats,module,Magento_Shipping
-"Street Address","Straat Adres",module,Magento_Shipping
+"Street Address",Adres,module,Magento_Shipping
 "Street Address Line 2",Adres,module,Magento_Shipping
 "Shipping Policy Parameters","Parameters verzendmethodes",module,Magento_Shipping
 "Apply custom Shipping Policy","Toepassen aangepaste verzendmethode",module,Magento_Shipping
@@ -4840,7 +4839,7 @@ Title,Titel,module,Magento_Usps
 "User ID",Gebruiker-ID,module,Magento_Usps
 Password,Wachtwoord,module,Magento_Usps
 Mode,Type,module,Magento_Usps
-Size,Grote,module,Magento_Usps
+Size,Grootte,module,Magento_Usps
 Width,Breedte,module,Magento_Usps
 Height,Hoogte,module,Magento_Usps
 Machinable,Machinaal,module,Magento_Usps
