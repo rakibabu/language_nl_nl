@@ -674,7 +674,7 @@ List,Lijst,module,Magento_CatalogSearch
 Relevance,Relevantie,module,Magento_CatalogSearch
 "Search results for: '%1'","Zoekresultaten voor: ‘%1’",module,Magento_CatalogSearch
 "Minimum Search query length is %1","Minimale lengte zoekopdracht is %1",module,Magento_CatalogSearch
-"Please specify at least one search term.","Geef tenminste 1 zoekterm op.",module,Magento_CatalogSearch
+"Please specify at least one search term.","Geef tenminste één zoekterm op.",module,Magento_CatalogSearch
 "%1 and greater","%1 en groter",module,Magento_CatalogSearch
 "up to %1","tot %1",module,Magento_CatalogSearch
 Category,Categorie,module,Magento_CatalogSearch
@@ -993,7 +993,7 @@ Category,Categorie,module,Magento_Catalog
 "Group price must be a number greater than 0.","Groepsprijs moet een getal groter dan 0 zijn.",module,Magento_Catalog
 "Media Gallery converter should be an instance of EntryConverterInterface.","Media Gallerij converter moet een exemplaar van EntryConverterInterface zijn.",module,Magento_Catalog
 "There is no MediaGalleryEntryConverter for given type","Er is geen MediaGalleryEntryConverter voor het opgegeven type",module,Magento_Catalog
-"Please enter a number 0 or greater in this field.","Voer in dit veld a.u.b. een getal gelijk aan of groter dan 0 in.",module,Magento_Catalog
+"Please enter a number 0 or greater in this field.","Voer in dit veld een getal gelijk aan of groter dan 0 in.",module,Magento_Catalog
 "The value of attribute ""%1"" must be set","De waarde van attribuut ""%1"" moet ingesteld worden",module,Magento_Catalog
 "SKU length should be %1 characters maximum.","De lengte van de SKU mag maximaal %1 tekens te zijn.",module,Magento_Catalog
 "Please enter a valid number in this field.","Voer een geldig getal in dit veld in.",module,Magento_Catalog
@@ -3052,7 +3052,7 @@ Shipping,Verzending,module,Magento_Payment
 "The credit card number doesn't match the credit card type.","Het creditcardnummer komt niet overeen met het type creditcard.",module,Magento_Payment
 "Invalid Credit Card Number","Ongeldig credit card nummer",module,Magento_Payment
 "This credit card type is not allowed for this payment method.","Deze creditcard is niet toegestaan voor deze betaalwijze.",module,Magento_Payment
-"Please enter a valid credit card verification number.","Geef a.u.b. een geldig credit card verificatie nummer op.",module,Magento_Payment
+"Please enter a valid credit card verification number.","Geef een geldig credit card verificatie nummer op.",module,Magento_Payment
 "Please enter a valid credit card expiration date.","Voer een geldige credit card vervaldatum in.",module,Magento_Payment
 "%1 class doesn't implement \Magento\Payment\Model\MethodInterface","klasse %1 implementeert de \Magento\Payment\Model\MethodInterface niet",module,Magento_Payment
 Yes,Ja,module,Magento_Payment
@@ -5102,6 +5102,7 @@ Commercial,Commercieel,module,Magento_Ups
 Pounds,"500 gram",module,Magento_Ups
 Kilograms,Kilogram,module,Magento_Ups
 "Sorry, something went wrong. Please try again or contact us and we'll try to help.","Er is iets fout gegaan. Probeer opnieuw of neem contact ons en wij zullen u helpen.",module,Magento_Ups
+"We can't convert a rate from ""%1-%2"".","We kunnen geen tarief converteren van ""%1-%2"".",module,Magento_Ups
 "Cannot retrieve shipping rates","Kan de verzendkosten niet ophalen",module,Magento_Ups
 "Empty response","Leeg antwoord",module,Magento_Ups
 "Delivery Confirmation",Verzendbevestiging,module,Magento_Ups
@@ -5917,7 +5918,7 @@ Keyword,Trefwoord,module,Magento_Ui
 "Please specify a valid phone number","Geef een geldig telefoonnummer op",module,Magento_Ui
 "Please specify a valid mobile number","Geef een geldig 06-nummer op",module,Magento_Ui
 "Please enter at least {0} characters","Vul minstens {0} tekens in",module,Magento_Ui
-"Please enter a valid credit card number.","Geef a.u.b. een geldig creditcard-nummer op.",module,Magento_Ui
+"Please enter a valid credit card number.","Geef een geldig creditcard-nummer op.",module,Magento_Ui
 "Please enter a valid IP v4 address.","Voer een geldig IP v4 adres in.",module,Magento_Ui
 "Please enter a valid IP v6 address.","Voer een geldig IP v6 adres in.",module,Magento_Ui
 "Invalid format.","Ongeldig formaat.",module,Magento_Ui
@@ -5939,8 +5940,8 @@ Keyword,Trefwoord,module,Magento_Ui
 "Please enter a valid zip code (Ex: 90602 or 90602-1234).","Voer een geldige postcode in (Ex: 90602 of 90602-1234).",module,Magento_Ui
 "Please use this date format: dd/mm/yyyy. For example 17/03/2006 for the 17th of March, 2006.","Gebruik dd/mm/jjjj als datum-formaat. Bijvoorbeeld 17/03/2006 voor 17 maart 2006.",module,Magento_Ui
 "Please enter a valid $ amount. For example $100.00.","Voer een geldig € bedrag op. Bijvoorbeeld: €100,00.",module,Magento_Ui
-"Please enter a number 0 or greater in this field.","Voer in dit veld a.u.b. een getal gelijk aan of groter dan 0 in.",module,Magento_Ui
-"Please enter a number greater than 0 in this field.","Voer in dit veld a.u.b. een getal groter dan 0 in.",module,Magento_Ui
+"Please enter a number 0 or greater in this field.","Voer in dit veld een getal gelijk aan of groter dan 0 in.",module,Magento_Ui
+"Please enter a number greater than 0 in this field.","Voer in dit veld een getal groter dan 0 in.",module,Magento_Ui
 "Please input a valid CSS-length (Ex: 100px, 77pt, 20em, .5ex or 50%).","Voer een geldige CSS-lengte in (Vb: 100px, 77pt, 20em, .5ex of 50%).",module,Magento_Ui
 "Please enter a valid number in this field.","Voer een geldig getal in dit veld in.",module,Magento_Ui
 "The value is not within the specified range.","Het nummer valt niet in het verplichte bereik.",module,Magento_Ui
