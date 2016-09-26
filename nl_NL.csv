@@ -240,7 +240,7 @@ password,wachtwoord,module,Magento_Backend
 "Copyright&copy; %1 Magento Commerce Inc. All rights reserved.","Copyright &copy; %1 Magento Commerce Inc. Alle rechten voorbehouden.",module,Magento_Backend
 "Account Setting",Accountinstellingen,module,Magento_Backend
 "Customer View",Overzicht,module,Magento_Backend
-"Sign Out",Afmelden,module,Magento_Backend
+"Sign Out",Uitloggen,module,Magento_Backend
 "About the calendar","Over de kalender",module,Magento_Backend
 Close,sluiten,module,Magento_Backend
 "Go Today","Ga vandaag",module,Magento_Backend
