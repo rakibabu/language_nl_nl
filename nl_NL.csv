@@ -566,7 +566,7 @@ Year,Jaar,module,Magento_Catalog
 Global,Systeem,module,Magento_Catalog
 Scope,Bereik,module,Magento_Catalog
 "Declare attribute value saving scope","Attribuutwaarde opgeven voor opslaan van scope",module,Magento_Catalog
-"Use for Promo Rule Conditions","Gebruik voor prijsregels",module,Magento_Catalog
+"Use for Promo Rule Conditions","Gebruik voor promotieregels",module,Magento_Catalog
 "Enable WYSIWYG","WYSIWYG activeren",module,Magento_Catalog
 "Used in Product Listing","Te gebruiken in categorieën",module,Magento_Catalog
 "Depends on design theme","Afhankelijk van design theme",module,Magento_Catalog
