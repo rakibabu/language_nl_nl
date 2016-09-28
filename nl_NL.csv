@@ -751,7 +751,7 @@ Scope,Bereik,module,Magento_Catalog
 "Use in Search","Gebruik bij zoeken",module,Magento_Catalog
 "Visible in Advanced Search","Zichtbaar in geavanceerd zoeken",module,Magento_Catalog
 "Comparable on Storefront","Vergelijkbaar in Winkeletalage",module,Magento_Catalog
-"Use for Promo Rule Conditions","Gebruik voor prijsregels",module,Magento_Catalog
+"Use for Promo Rule Conditions","Gebruik voor promotieregels",module,Magento_Catalog
 "Enable WYSIWYG","WYSIWYG activeren",module,Magento_Catalog
 "Allow HTML Tags on Storefront","Sta HTML tags toe in Winkeletalage",module,Magento_Catalog
 "Visible on Catalog Pages on Storefront","Zichtbaar op Cataloguspagina's in Winkeletalage",module,Magento_Catalog
