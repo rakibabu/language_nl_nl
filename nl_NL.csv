@@ -3477,7 +3477,7 @@ Orders,Bestellingen,module,Magento_Reports
 "Online Refunds","Online restituties",module,Magento_Reports
 "Offline Refunds","Off line restituties",module,Magento_Reports
 "Total Ordered Report","Rapportage Totaal Besteld",module,Magento_Reports
-"Sales Items",Uitverkoopproducten,module,Magento_Reports
+"Sales Items","Bestelling artikelen",module,Magento_Reports
 Items,Producten,module,Magento_Reports
 Revenue,Omzet,module,Magento_Reports
 Profit,Winst,module,Magento_Reports
@@ -7270,7 +7270,7 @@ Scope,Bereik,module,Magento_Search
 Synonyms,Synoniemen,module,Magento_Search
 "Comma-separated list of synonyms. The terms entered (separated by commas) will be used as an “OR” search query to search your entire store. For example, if you enter “shoes,footwear”, and user were to search for ""shoes"", the search results will include any product or content with term “shoes"" or ""footwear.”","Door komma's gescheiden lijst met synoniemen. De termen ingevoerd (gescheiden door komma's) worden gebruikt als een zoekopdracht ""OR"" voor het zoeken van uw hele winkel. Bijvoorbeeld als u ""schoenen, schoeisel"" gebruiker waren om te zoeken naar 'schoenen', zal de zoekresultaten product of bevatten inhoud met de term ""schoenen"" of ""schoeisel.""",module,Magento_Search
 "Merge existing synonyms","Samenvoegen van bestaande synoniemen",module,Magento_Search
-"Automatically merges synonyms in groups that share the same scope. If you check this box and you add one or more of the same terms to different synonym groups in the same scope, automatically merges all the terms to one group. If this isn't what you want, uncheck the box and an error displays if you try to add the same terms.","Automatisch worden samengevoegd synoniemen in groepen die delen van hetzelfde bereik. Als u dit selectievakje inschakelt en u een of meer van dezelfde voorwaarden aan verschillende synoniem groepen in hetzelfde bereik toevoegt, worden automatisch samengevoegd alle termen aan één groep. Als dit is niet wat je wilt, uncheck de doos en een fout wordt weergegeven als u probeert toe te voegen dezelfde voorwaarden.",module,Magento_Search
+"Automatically merges synonyms in groups that share the same scope. If you check this box and you add one or more of the same terms to different synonym groups in the same scope, automatically merges all the terms to one group. If this isn't what you want, uncheck the box and an error displays if you try to add the same terms.","Automatisch worden synoniemen samengevoegd in groepen die hetzelfde bereik delen. Als u dit selectievakje inschakelt en u een of meerdere van dezelfde voorwaarden aan verschillende synoniem groepen in hetzelfde bereik toevoegt, worden automatisch alle termen samengevoegd aan één groep. Als dit niet is wat u wilt, schakel het selectievakje uit en een fout wordt weergegeven als u dezelfde voorwaarden probeert toe te voegen.",module,Magento_Search
 "Store View",Winkelaanzicht,module,Magento_Search
 "Delete items","Items verwijderen",module,Magento_Search
 "Are you sure you want to delete the selected synonym groups?","Weet u zeker dat u de geselecteerde synoniemgroepen wilt verwijderen?",module,Magento_Search
