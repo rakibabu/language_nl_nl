@@ -2247,7 +2247,7 @@ Orders,Bestellingen,module,Magento_Reports
 "Online Refunds","Online restituties",module,Magento_Reports
 "Offline Refunds","Off line restituties",module,Magento_Reports
 "Total Ordered Report","Rapportage Totaal Besteld",module,Magento_Reports
-"Sales Items",Uitverkoopproducten,module,Magento_Reports
+"Sales Items","Bestelling artikelen",module,Magento_Reports
 Items,Producten,module,Magento_Reports
 Revenue,Omzet,module,Magento_Reports
 Profit,Winst,module,Magento_Reports
