@@ -4782,11 +4782,11 @@ Language,Taal,module,Magento_Store
 "Use Product Image for Swatch if Possible","Gebruik indien mogelijk productafbeelding voor staal",module,Magento_Swatches
 "Allows use fallback logic for replacing swatch image with product swatch or base image","Sta gebruik van fallback logica toe voor het vervangen door productstaal of basisafbeelding",module,Magento_Swatches
 "Visual Swatch","Visuele Swatch",module,Magento_Swatches
-"Text Swatch","Tekst Swatch",module,Magento_Swatches
+"Text Swatch","Tekstuele staal",module,Magento_Swatches
 "Manage Swatch (Values of Your Attribute)","Staal beheren (waarden van het attribuut)",module,Magento_Swatches
 "Is Default","Is standaard",module,Magento_Swatches
 Swatch,Staal,module,Magento_Swatches
-"Add Swatch","Swatch toevoegen",module,Magento_Swatches
+"Add Swatch","Staal toevoegen",module,Magento_Swatches
 "Sort Option",Sorteeroptie,module,Magento_Swatches
 Delete,Verwijder,module,Magento_Swatches
 "Choose a color","Kies een kleur",module,Magento_Swatches
@@ -7229,7 +7229,6 @@ Name,Naam,module,Magento_Sales
 Phone,Telefoonnummer,module,Magento_Sales
 "ZIP/Post Code",Postcode,module,Magento_Sales
 "Signed-up Point",Inschrijvingspunt,module,Magento_Sales
-order-header,orderkop,module,Magento_Sales
 "Bill-to Name",Factuurnaam,module,Magento_Sales
 Created,Aangemaakt,module,Magento_Sales
 "Invoice Date",Factuurdatum,module,Magento_Sales
