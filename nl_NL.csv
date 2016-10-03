@@ -1627,7 +1627,7 @@ Select,Selecteer,module,Magento_ConfigurableProduct
 "Apply unique prices by attribute to each SKU","Pas unieke prijzen toe door attribuut op elk art.nr.",module,Magento_ConfigurableProduct
 "Skip price at this time","Sla prijzen op dit moment over",module,Magento_ConfigurableProduct
 "Apply single quantity to each SKUs","Pas enkele aantal toe op elke SKU",module,Magento_ConfigurableProduct
-"Apply unique quantity by attribute to each SKU","Apart aantal toepassen per attribuut voor elke SKU",module,Magento_ConfigurableProduct
+"Apply unique quantity by attribute to each SKU","Apart aantal toepassen per attribuut voor elk Art.nr.",module,Magento_ConfigurableProduct
 "Skip quantity at this time","Sla aantal over voor dit moment",module,Magento_ConfigurableProduct
 "Step 1: Select Attributes","Stap 1: Selecteer Attributen",module,Magento_ConfigurableProduct
 "Selected Attributes:","Geselecteerde Attributen:",module,Magento_ConfigurableProduct
@@ -1893,7 +1893,7 @@ Customers,Klanten,module,Magento_Customer
 "Please enter the phone number.","Vul het telefoonnummer in.",module,Magento_Customer
 "Please enter the zip/postal code.","Vul a.u.b. de postcode in.",module,Magento_Customer
 "Please enter the country.","Vul a.u.b. het land in.",module,Magento_Customer
-"Please enter the state/province.","Vul a.u.b. de staat/provincie in.",module,Magento_Customer
+"Please enter the state/province.","Vul a.u.b. de provincie in.",module,Magento_Customer
 """%1"" is a required value.","""%1"" is een vereiste waarde.",module,Magento_Customer
 Global,Systeem,module,Magento_Customer
 "Per Website","Per website",module,Magento_Customer
@@ -2179,7 +2179,7 @@ sample,voorbeeld,module,Magento_Downloadable
 "Browse Files...","Blader door bestanden...",module,Magento_Downloadable
 Delete,Verwijder,module,Magento_Downloadable
 "Add product preview files here.","Voeg productvoorvertoningsbestanden hier toe.",module,Magento_Downloadable
-SKU,"stock keeping unit",module,Magento_Downloadable
+SKU,Art.nr.,module,Magento_Downloadable
 "Select all","Alles selecteren",module,Magento_Downloadable
 "Unselect all","Selectie ongedaan maken",module,Magento_Downloadable
 Availability,Beschikbaarheid,module,Magento_Downloadable
@@ -4147,7 +4147,7 @@ Guest,Bezoeker,module,Magento_Sales
 "Please enter the phone number.","Vul het telefoonnummer in.",module,Magento_Sales
 "Please enter the zip/postal code.","Vul a.u.b. de postcode in.",module,Magento_Sales
 "Please enter the country.","Vul a.u.b. het land in.",module,Magento_Sales
-"Please enter the state/province.","Vul a.u.b. de staat/provincie in.",module,Magento_Sales
+"Please enter the state/province.","Vul a.u.b. de provincie in.",module,Magento_Sales
 "Requested entity doesn't exist","De opgevraagde entiteit bestaat niet",module,Magento_Sales
 "Could not delete order address","Kan het adres van bestelling niet verwijderen",module,Magento_Sales
 "Could not save order address","Kan het adres van de bestelling niet opslaan",module,Magento_Sales
@@ -4250,7 +4250,7 @@ Company,Bedrijfsnaam,module,Magento_Sales
 Country,Land,module,Magento_Sales
 "First Name",Voornaam,module,Magento_Sales
 "Last Name",Achternaam,module,Magento_Sales
-State/Province,Staat/Provincie,module,Magento_Sales
+State/Province,Provincie,module,Magento_Sales
 "Street Address",Adres,module,Magento_Sales
 "Phone Number",Telefoonnummer,module,Magento_Sales
 "Zip/Postal Code",Postcode,module,Magento_Sales
@@ -5572,7 +5572,7 @@ Total:,Totaal:,module,Magento_Checkout
 "Payment Method:",Betaalmethode:,module,Magento_Checkout
 "Date & Time:","Datum & Tijd:",module,Magento_Checkout
 "Sign In",Aanmelden,module,Magento_Checkout
-"Email Address","email adres",module,Magento_Checkout
+"Email Address","E-mail adres",module,Magento_Checkout
 Password,Wachtwoord,module,Magento_Checkout
 "Forgot Your Password?","Wachtwoord vergeten?",module,Magento_Checkout
 "My billing and shipping address are the same","Factuur- en verzendadres zijn hetzelfde",module,Magento_Checkout
@@ -5656,7 +5656,7 @@ Password:,Wachtwoord:,module,Magento_Customer
 "Track order history","Bekijk bestelgeschiedenis",module,Magento_Customer
 "Check out faster","Reken sneller af",module,Magento_Customer
 "Checkout out using your account","Reken af met uw account",module,Magento_Customer
-"Email Address","email adres",module,Magento_Customer
+"Email Address","E-mail adres",module,Magento_Customer
 "Currency Update Warnings","Waarschuwingen valuta-update",module,Magento_Directory
 "Thank you, %store_name","Dank u, %store_name",module,Magento_Email
 "Gift Message (optional)","Cadeau bericht (optioneel)",module,Magento_GiftMessage
@@ -5928,7 +5928,7 @@ Keyword,Trefwoord,module,Magento_Ui
 "Please use only letters (a-z or A-Z), numbers (0-9) or spaces only in this field.","Gebruik alleen letters (a-z of A-Z), cijfers (0-9) of spaties in dit veld.",module,Magento_Ui
 "Please use only letters (a-z or A-Z), numbers (0-9) or underscore (_) in this field, and the first character should be a letter.","Gebruik uitsluitend letters (a-z en A-Z), cijfers (0-9) of underscores (_) in dit veld, het eerste teken moet een een letter zijn.",module,Magento_Ui
 "Please use only letters (a-z or A-Z), numbers (0-9), spaces and ""#"" in this field.","Gebruik alleen letters (a-z of A-Z), cijfers (0-9) of spaties in dit veld.",module,Magento_Ui
-"Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890.","Geef a.u.b. een geldig telefoonnummer op. Bijvoorbeeld (123) 456-7889 of 123-456-7890",module,Magento_Ui
+"Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890.","Geef een geldig telefoonnummer op. Bijvoorbeeld (123) 456-7889 of 123-456-7890.",module,Magento_Ui
 "Please enter a valid fax number (Ex: 123-456-7890).","Voer een geldig faxnummer in (Ex: 123-456-7890).",module,Magento_Ui
 "Please enter a valid email address (Ex: johndoe@domain.com).","Voer een geldig e-mailadres in (Bijv.: johndoe@domain.com).",module,Magento_Ui
 "Please enter 6 or more characters. Leading and trailing spaces will be ignored.","Voer zes of meer tekens in. Spaties aan begin en eind zullen worden genegeerd.",module,Magento_Ui
@@ -5944,7 +5944,7 @@ Keyword,Trefwoord,module,Magento_Ui
 "Please enter a number greater than 0 in this field.","Voer in dit veld een getal groter dan 0 in.",module,Magento_Ui
 "Please input a valid CSS-length (Ex: 100px, 77pt, 20em, .5ex or 50%).","Voer een geldige CSS-lengte in (Vb: 100px, 77pt, 20em, .5ex of 50%).",module,Magento_Ui
 "Please enter a valid number in this field.","Voer een geldig getal in dit veld in.",module,Magento_Ui
-"The value is not within the specified range.","Het nummer valt niet in het verplichte bereik.",module,Magento_Ui
+"The value is not within the specified range.","De waarde valt niet binnen het opgegeven bereik.",module,Magento_Ui
 "Please use letters only (a-z or A-Z) in this field.","Gebruik uitsluitend letters  (a-z en A-Z) in dit veld.",module,Magento_Ui
 "Please use only letters (a-z), numbers (0-9) or underscore (_) in this field, and the first character should be a letter.","Gebruik uitsluitend letters (a-z en A-Z), cijfers (0-9) of underscores (_) in dit veld, het eerste teken moet een een letter zijn.",module,Magento_Ui
 "Please use only letters (a-z or A-Z) or numbers (0-9) in this field. No spaces or other characters are allowed.","Gebruik uitsluitend letters (a-z en A-Z) of nummers (0-9) in dit veld. Gebruik geen spaties of andere tekens.",module,Magento_Ui
@@ -6065,7 +6065,7 @@ Locale,Taal,module,Magento_Backend
 "Store Phone Number","Winkel telefoonnummer",module,Magento_Backend
 "Store Hours of Operation","Openingstijden winkel",module,Magento_Backend
 Country,Land,module,Magento_Backend
-Region/State,Provincie,module,Magento_Backend
+Region/State,Regio/Staat,module,Magento_Backend
 "ZIP/Postal Code",Postcode,module,Magento_Backend
 City,Plaats,module,Magento_Backend
 "Street Address",Adres,module,Magento_Backend
