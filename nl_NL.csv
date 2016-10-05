@@ -1202,7 +1202,7 @@ Customers,Klanten,module,Magento_Customer
 "Please enter the city.","Vul a.u.b. de plaats in.",module,Magento_Customer
 "Please enter the zip/postal code.","Vul a.u.b. de postcode in.",module,Magento_Customer
 "Please enter the country.","Vul a.u.b. het land in.",module,Magento_Customer
-"Please enter the state/province.","Vul a.u.b. de staat/provincie in.",module,Magento_Customer
+"Please enter the state/province.","Vul a.u.b. de provincie in.",module,Magento_Customer
 """%1"" is a required value.","""%1"" is een vereiste waarde.",module,Magento_Customer
 Global,Systeem,module,Magento_Customer
 "Per Website","Per website",module,Magento_Customer
@@ -1368,7 +1368,7 @@ File,Bestand,module,Magento_Downloadable
 "Browse Files...","Blader door bestanden...",module,Magento_Downloadable
 Delete,Verwijder,module,Magento_Downloadable
 Samples,Demo's,module,Magento_Downloadable
-SKU,"stock keeping unit",module,Magento_Downloadable
+SKU,Art.nr.,module,Magento_Downloadable
 Availability,Beschikbaarheid,module,Magento_Downloadable
 "In stock","Op voorraad",module,Magento_Downloadable
 "Out of stock","Niet op voorraad",module,Magento_Downloadable
@@ -2889,7 +2889,7 @@ Company,Bedrijfsnaam,module,Magento_Sales
 Country,Land,module,Magento_Sales
 "First Name",Voornaam,module,Magento_Sales
 "Last Name",Achternaam,module,Magento_Sales
-State/Province,Staat/Provincie,module,Magento_Sales
+State/Province,Provincie,module,Magento_Sales
 "Street Address",Adres,module,Magento_Sales
 "Zip/Postal Code",Postcode,module,Magento_Sales
 "We cannot create an empty shipment.","We kunnen geen lege verzending aanmaken.",module,Magento_Sales
@@ -3857,7 +3857,7 @@ Locale,Taal,module,Magento_Backend
 "Store Phone Number","Winkel telefoonnummer",module,Magento_Backend
 "Store Hours of Operation","Openingstijden winkel",module,Magento_Backend
 Country,Land,module,Magento_Backend
-Region/State,Provincie,module,Magento_Backend
+Region/State,Regio/Staat,module,Magento_Backend
 "ZIP/Postal Code",Postcode,module,Magento_Backend
 City,Plaats,module,Magento_Backend
 "Street Address",Adres,module,Magento_Backend
@@ -4656,7 +4656,6 @@ Name,Naam,module,Magento_Sales
 Phone,Telefoonnummer,module,Magento_Sales
 "ZIP/Post Code",Postcode,module,Magento_Sales
 "Signed-up Point",Inschrijvingspunt,module,Magento_Sales
-order-header,orderkop,module,Magento_Sales
 "Bill-to Name",Factuurnaam,module,Magento_Sales
 Created,Aangemaakt,module,Magento_Sales
 "Invoice Date",Factuurdatum,module,Magento_Sales
