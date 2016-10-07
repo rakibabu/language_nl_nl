@@ -2935,7 +2935,7 @@ Subtotal:,Subtotaal:,module,Magento_Sales
 "Tier Pricing",Staffelprijzen,module,Magento_Sales
 "Custom Price","Speciale prijs",module,Magento_Sales
 "Move to Shopping Cart","Verplaatsen naar winkelwagen",module,Magento_Sales
-"Subscribe to Newsletter","Tik uw e-mailadres in en abonneer u op onze nieuwsbrief",module,Magento_Sales
+"Subscribe to Newsletter","Abonneren op de nieuwsbrief",module,Magento_Sales
 "Click to change shipping method","Klik om verzendmethode te veranderen",module,Magento_Sales
 "Sorry, no quotes are available for this order.","Geen quotes gevonden voor deze bestelling.",module,Magento_Sales
 "Get shipping methods and rates","Verzendmethodes en -tarieven ophalen",module,Magento_Sales
@@ -4199,8 +4199,8 @@ Contacts,Contacten,module,Magento_Contact
 "Leave empty for default (15 minutes).","Laat leeg voor standaard (15 minuten).",module,Magento_Customer
 Group,Groep,module,Magento_Customer
 "Add New Customer","Nieuwe klant toevoegen",module,Magento_Customer
-"Subscribe to Newsletter","Tik uw e-mailadres in en abonneer u op onze nieuwsbrief",module,Magento_Customer
-"Unsubscribe from Newsletter","Uitschrijven nieuwsbrief",module,Magento_Customer
+"Subscribe to Newsletter","Abonneren op de nieuwsbrief",module,Magento_Customer
+"Unsubscribe from Newsletter","Afmelden voor nieuwsbrief",module,Magento_Customer
 "Assign a Customer Group","Klantgroep toewijzen",module,Magento_Customer
 Phone,Telefoonnummer,module,Magento_Customer
 ZIP,Postcode,module,Magento_Customer
