@@ -4323,7 +4323,7 @@ Subtotal:,Subtotaal:,module,Magento_Sales
 "Please select",Selecteer,module,Magento_Sales
 "Move to Shopping Cart","Verplaatsen naar winkelwagen",module,Magento_Sales
 "Move to Wish List","Naar verlanglijst verplaatsen",module,Magento_Sales
-"Subscribe to Newsletter","Tik uw e-mailadres in en abonneer u op onze nieuwsbrief",module,Magento_Sales
+"Subscribe to Newsletter","Abonneren op de nieuwsbrief",module,Magento_Sales
 "Click to change shipping method","Klik om verzendmethode te veranderen",module,Magento_Sales
 "Sorry, no quotes are available for this order.","Geen quotes gevonden voor deze bestelling.",module,Magento_Sales
 "Get shipping methods and rates","Verzendmethodes en -tarieven ophalen",module,Magento_Sales
@@ -6618,8 +6618,8 @@ Group,Groep,module,Magento_Customer
 "Add New Customer","Nieuwe klant toevoegen",module,Magento_Customer
 "Delete items","Items verwijderen",module,Magento_Customer
 "Are you sure to delete selected customers?","Weet u zeker dat u de geselecteerde klanten wilt verwijderen?",module,Magento_Customer
-"Subscribe to Newsletter","Tik uw e-mailadres in en abonneer u op onze nieuwsbrief",module,Magento_Customer
-"Unsubscribe from Newsletter","Uitschrijven nieuwsbrief",module,Magento_Customer
+"Subscribe to Newsletter","Abonneren op de nieuwsbrief",module,Magento_Customer
+"Unsubscribe from Newsletter","Afmelden voor nieuwsbrief",module,Magento_Customer
 "Are you sure to unsubscribe selected customers from newsletter?","Ben u zeker dat u de geselecteerde klanten wil uitschrijven op de nieuwsbrief?",module,Magento_Customer
 "Assign a Customer Group","Klantgroep toewijzen",module,Magento_Customer
 "Are you sure to assign selected customers to new group?","Ben u zeker dat u de geselecteerde klanten wil toevoegen aan een nieuwe groep?",module,Magento_Customer
