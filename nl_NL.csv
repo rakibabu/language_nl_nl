@@ -283,7 +283,7 @@ Username,Gebruikersnaam,module,Magento_Backend
 "user name",gebruikersnaam,module,Magento_Backend
 Password,Wachtwoord,module,Magento_Backend
 password,wachtwoord,module,Magento_Backend
-"Sign in",Aanmelden,module,Magento_Backend
+"Sign in",Inloggen,module,Magento_Backend
 "Select Range:","Selecteer bereik:",module,Magento_Backend
 "No Data Found","Geen gegevens gevonden",module,Magento_Backend
 "Chart is disabled. To enable the chart, click <a href=""%1"">here</a>.","Grafiek is uitgeschakeld. Om de grafiek in te schakelen, klikt u <a href=""%1"">hier</a>.",module,Magento_Backend
@@ -1702,7 +1702,7 @@ System,systeem,module,Magento_CurrencySymbol
 "We can't find that email and website combination.","De combinatie van e-mailadres en website werd niet gevonden.",module,Magento_CustomerImportExport
 "Please enter a password with a valid length.","Geef een wachtwoord in met een geldige lengte.",module,Magento_CustomerImportExport
 "Sign Out",Uitloggen,module,Magento_Customer
-"Sign In",Aanmelden,module,Magento_Customer
+"Sign In",Inloggen,module,Magento_Customer
 "You subscribe to our newsletter.","U abonneert zich op onze nieuwsbrief.",module,Magento_Customer
 "You don't subscribe to our newsletter.","U abonneren zich niet op onze nieuwsbrief.",module,Magento_Customer
 "You have not set a default shipping address.","U heeft geen standaard afleveradres ingevoerd.",module,Magento_Customer
@@ -2031,7 +2031,7 @@ Country,Land,module,Magento_Customer
 "Go back",Terug,module,Magento_Customer
 "Please enter your email below and we will send you the confirmation link.","Voer hieronder uw e-mailadres in en wij zullen u een bevestigingslink sturen.",module,Magento_Customer
 "Send confirmation link","stuur bevestigingslink",module,Magento_Customer
-"Back to Sign In","Terug naar aanmelden",module,Magento_Customer
+"Back to Sign In","Terug naar inloggen",module,Magento_Customer
 "Change Email","E-mailadres wijzigen",module,Magento_Customer
 "Change Email and Password","Wijzig E-Mail en wachtwoord",module,Magento_Customer
 "Current Password","Huidig wachtwoord",module,Magento_Customer
@@ -5238,7 +5238,7 @@ Permissions,Bevoegdheden,module,Magento_User
 Recommended,Aanbevolen,module,Magento_User
 Forced,Gedwongen,module,Magento_User
 "Sorry, but this password has already been used. Please create another.","Dit wachtwoord is reeds gebruikt. Probeer een ander.",module,Magento_User
-email,e-mailadres,module,Magento_User
+email,E-mailadres,module,Magento_User
 password,wachtwoord,module,Magento_User
 username,gebruikersnaam,module,Magento_User
 "You did not sign in correctly or your account is temporarily disabled.","Inloggegevens zijn onjuist of uw account is tijdelijk uitgeschakeld.",module,Magento_User
@@ -5259,7 +5259,7 @@ username,gebruikersnaam,module,Magento_User
 "Enter your email address.  You will receive an email with a link to reset your password.","Voer uw e-mailadres in. U zal een link ontvangen om uw wachtwoord te opnieuw in te stellen.",module,Magento_User
 "Email address",E-mailadres,module,Magento_User
 "Retrieve Password","Wachtwoord opvragen",module,Magento_User
-"Back to Sign in","Terug naar aanmelden",module,Magento_User
+"Back to Sign in","Terug naar inloggen",module,Magento_User
 "Forgot your password?","Wachtwoord vergeten?",module,Magento_User
 "Reset a Password","Wachtwoord opnieuw instellen",module,Magento_User
 "Confirm New Password","Bevestig nieuw wachtwoord",module,Magento_User
