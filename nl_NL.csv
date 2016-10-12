@@ -300,8 +300,8 @@ password,wachtwoord,module,Magento_Backend
 "Customer View",Overzicht,module,Magento_Backend
 "Sign Out",Uitloggen,module,Magento_Backend
 "About the calendar","Over de kalender",module,Magento_Backend
-Close,sluiten,module,Magento_Backend
-"Go Today","Ga vandaag",module,Magento_Backend
+Close,Sluiten,module,Magento_Backend
+"Go Today","Naar vandaag",module,Magento_Backend
 Previous,Vorige,module,Magento_Backend
 Next,Volgende,module,Magento_Backend
 Time,Tijd,module,Magento_Backend
@@ -448,7 +448,7 @@ Fixed,Vast,module,Magento_Bundle
 "Create New Option","Nieuwe optie maken",module,Magento_Bundle
 "Bundle Items",Bundel-artikelen,module,Magento_Bundle
 "Add Products to Option","Producten toevoegen aan de optie",module,Magento_Bundle
-Close,sluiten,module,Magento_Bundle
+Close,Sluiten,module,Magento_Bundle
 "Delete Option","Verwijder optie",module,Magento_Bundle
 "What are you looking for?","Wat zoekt u?",module,Magento_Bundle
 SKU,Art.nr.,module,Magento_Bundle
@@ -1701,7 +1701,7 @@ System,systeem,module,Magento_CurrencySymbol
 "Invalid value in Store column (store does not exists?)","Ongeldige waarde in Winkel kolom (winkel bestaat niet?)",module,Magento_CustomerImportExport
 "We can't find that email and website combination.","De combinatie van e-mailadres en website werd niet gevonden.",module,Magento_CustomerImportExport
 "Please enter a password with a valid length.","Geef een wachtwoord in met een geldige lengte.",module,Magento_CustomerImportExport
-"Sign Out",Uitloggen,module,Magento_Customer
+"Sign Out",Afmelden,module,Magento_Customer
 "Sign In",Inloggen,module,Magento_Customer
 "You subscribe to our newsletter.","U abonneert zich op onze nieuwsbrief.",module,Magento_Customer
 "You don't subscribe to our newsletter.","U abonneren zich niet op onze nieuwsbrief.",module,Magento_Customer
@@ -1724,7 +1724,7 @@ Back,Terug,module,Magento_Customer
 SKU,Art.nr.,module,Magento_Customer
 Quantity,Aantal,module,Magento_Customer
 Price,Prijs,module,Magento_Customer
-Total,totaal,module,Magento_Customer
+Total,Totaal,module,Magento_Customer
 Action,Actie,module,Magento_Customer
 Configure,Configureren,module,Magento_Customer
 Delete,Verwijder,module,Magento_Customer
@@ -1741,7 +1741,7 @@ Newsletter,Nieuwsbrief,module,Magento_Customer
 Subject,Onderwerp,module,Magento_Customer
 Sent,Verstuurd,module,Magento_Customer
 Cancel,Annuleer,module,Magento_Customer
-"Not Sent","Niet verzonden",module,Magento_Customer
+"Not Sent","Niet verstuurd",module,Magento_Customer
 Sending,"Bezig met verzenden",module,Magento_Customer
 Paused,Gepauzeerd,module,Magento_Customer
 View,Bekijk,module,Magento_Customer
@@ -2804,7 +2804,7 @@ Price,Prijs,module,Magento_Msrp
 "Ship to Multiple Addresses","Verzenden naar meerdere adressen",module,Magento_Multishipping
 "Billing Information - %1","Factuuradres - %1",module,Magento_Multishipping
 "Review Order - %1","Controleer bestelling - %1",module,Magento_Multishipping
-Total,totaal,module,Magento_Multishipping
+Total,Totaal,module,Magento_Multishipping
 "Total for this address","Totaal voor dit adres",module,Magento_Multishipping
 "Shipping Methods",Verzendmethodes,module,Magento_Multishipping
 "Edit Address","Bewerk adres",module,Magento_Multishipping
@@ -3035,7 +3035,7 @@ N/A,n.v.t.,module,Magento_Payment
 "Wrong gateway response format.","Verkeerd antwoord formaat van gateway.",module,Magento_Payment
 "Validator for field %1 does not exist.","Validator voor veld %1 bestaat niet.",module,Magento_Payment
 Discount,Korting,module,Magento_Payment
-Shipping,Verzending,module,Magento_Payment
+Shipping,Aflevering,module,Magento_Payment
 "All Allowed Countries","Alle toegestane landen",module,Magento_Payment
 "Specific Countries","Bepaalde landen",module,Magento_Payment
 "The payment method you requested is not available.","De betalingsmethode die u hebt aangevraagd, is niet beschikbaar.",module,Magento_Payment
@@ -3091,7 +3091,7 @@ Purchased,Gekocht,module,Magento_Paypal
 "PayPal Settlement Reports","PayPal Overeenstemmings Rapporten",module,Magento_Paypal
 "We are connecting to the PayPal SFTP server to retrieve new reports. Are you sure you want to continue?","We maken verbinding met de PayPal SFTP server om nieuwe rapporten op te halen. Bent u zeker dat u wilt verdergaan?",module,Magento_Paypal
 Configure,Configureren,module,Magento_Paypal
-Close,sluiten,module,Magento_Paypal
+Close,Sluiten,module,Magento_Paypal
 "Learn More","Lees verder",module,Magento_Paypal
 "View Demo","Bekijk Demo",module,Magento_Paypal
 "See terms","Zie voorwaarden",module,Magento_Paypal
@@ -3444,7 +3444,7 @@ Unlimited,Onbeperkt,module,Magento_Reports
 "Products Ordered","Bestelde producten",module,Magento_Reports
 "Most Viewed","Meest bekeken",module,Magento_Reports
 "Show Report","Toon rapport",module,Magento_Reports
-Total,totaal,module,Magento_Reports
+Total,Totaal,module,Magento_Reports
 Price,prijs,module,Magento_Reports
 Views,Weergaven,module,Magento_Reports
 "Refresh Statistics","Vernieuw Statistieken",module,Magento_Reports
@@ -4433,7 +4433,7 @@ Actions,acties,module,Magento_Sales
 "Invoice #",Factuurnummer,module,Magento_Sales
 "Print Invoice","Factuur printen",module,Magento_Sales
 "Qty Invoiced","Gefactureerd aantal",module,Magento_Sales
-Close,sluiten,module,Magento_Sales
+Close,Sluiten,module,Magento_Sales
 "About Your Order","Over uw bestelling",module,Magento_Sales
 "<span class=""label"">Order Date:</span> %1","<span class=""label"">Datum:</span> %1",module,Magento_Sales
 "Refund #%1","Restitutie #%1",module,Magento_Sales
@@ -4917,7 +4917,7 @@ Code,"Interne naam",module,Magento_Tax
 Subtotal,Subtotaal,module,Magento_Tax
 "Unit Price",Stukprijs,module,Magento_Tax
 "Row Total",Rijtotaal,module,Magento_Tax
-Total,totaal,module,Magento_Tax
+Total,Totaal,module,Magento_Tax
 "Before Discount","Voorafgaand aan korting",module,Magento_Tax
 "After Discount","Na korting",module,Magento_Tax
 "Excluding Tax","Exclusief BTW",module,Magento_Tax
@@ -5059,8 +5059,8 @@ Next,Volgende,module,Magento_Theme
 Show,Toon,module,Magento_Theme
 "per page","per pagina",module,Magento_Theme
 "About the calendar","Over de kalender",module,Magento_Theme
-Close,sluiten,module,Magento_Theme
-"Go Today","Ga vandaag",module,Magento_Theme
+Close,Sluiten,module,Magento_Theme
+"Go Today","Naar vandaag",module,Magento_Theme
 Time,Tijd,module,Magento_Theme
 Hour,Uur,module,Magento_Theme
 Minute,Minuut,module,Magento_Theme
@@ -5405,13 +5405,13 @@ Country/State,Land/Provincie,module,Magento_Weee
 Tax,BTW,module,Magento_Weee
 Action,Actie,module,Magento_Weee
 "Excl. Tax","Excl. BTW",module,Magento_Weee
-Total,totaal,module,Magento_Weee
+Total,Totaal,module,Magento_Weee
 "Incl. Tax","Incl. BTW",module,Magento_Weee
 "Total Incl. Tax","Totaal Incl. BTW",module,Magento_Weee
 "Final Price",Eindprijs,module,Magento_Weee
 "Insert Widget","Widget invoegen",module,Magento_Widget
 Choose...,Kies...,module,Magento_Widget
-Close,sluiten,module,Magento_Widget
+Close,Sluiten,module,Magento_Widget
 "Not Selected","Niet Geselecteerd",module,Magento_Widget
 "Widget Type","Widget type",module,Magento_Widget
 "-- Please Select --","-- Selecteer --",module,Magento_Widget
@@ -5580,9 +5580,9 @@ Cancel,Annuleer,module,Magento_Checkout
 "Save in address book","Opslaan in adresboek",module,Magento_Checkout
 "Estimated Total","Geschatte totaal",module,Magento_Checkout
 "You can create an account after checkout.","U kunt een account maken na het afrekenen.",module,Magento_Checkout
-"You already have an account with us. Sign in or continue as guest.","U heeft al een account bij ons. Log in of ga door als gast.",module,Magento_Checkout
+"You already have an account with us. Sign in or continue as guest.","U heeft al een account bij ons. Log in of ga door zonder account.",module,Magento_Checkout
 Login,"Log in",module,Magento_Checkout
-Close,sluiten,module,Magento_Checkout
+Close,Sluiten,module,Magento_Checkout
 item,product,module,Magento_Checkout
 items,producten,module,Magento_Checkout
 "Go to Checkout","Ga naar afrekenen",module,Magento_Checkout
@@ -7479,7 +7479,7 @@ Edit,Bewerken,module,Magento_UrlRewrite
 "User Roles",Gebruikersrollen,module,Magento_User
 "User Notification Template","Gebruikers kennisgevingssjabloon",module,Magento_User
 "Email template chosen based on theme fallback when ""Default"" option is selected.","E-mail sjabloon dat gekozen wordt op basis van thema fallback als de optie ""Standaard"" is geselecteerd.",module,Magento_User
-"Maximum Login Failures to Lockout Account","Maximale Foute Logins om het Account te sluiten",module,Magento_User
+"Maximum Login Failures to Lockout Account","Maximaal aantal foute logins om het account te blokkeren",module,Magento_User
 "We will disable this feature if the value is empty.","Functie wordt uitgeschakeld als de waarde leeg is.",module,Magento_User
 "Lockout Time (minutes)","Lockout Tijd (minuten)",module,Magento_User
 "Password Lifetime (days)","Levensduur Wachtwoord (dagen)",module,Magento_User
