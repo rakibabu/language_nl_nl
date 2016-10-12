@@ -242,8 +242,8 @@ password,wachtwoord,module,Magento_Backend
 "Customer View",Overzicht,module,Magento_Backend
 "Sign Out",Uitloggen,module,Magento_Backend
 "About the calendar","Over de kalender",module,Magento_Backend
-Close,sluiten,module,Magento_Backend
-"Go Today","Ga vandaag",module,Magento_Backend
+Close,Sluiten,module,Magento_Backend
+"Go Today","Naar vandaag",module,Magento_Backend
 Previous,Vorige,module,Magento_Backend
 Next,Volgende,module,Magento_Backend
 Time,Tijd,module,Magento_Backend
@@ -368,7 +368,7 @@ Fixed,Vast,module,Magento_Bundle
 "Create New Option","Nieuwe optie maken",module,Magento_Bundle
 "Bundle Items",Bundel-artikelen,module,Magento_Bundle
 "Add Products to Option","Producten toevoegen aan de optie",module,Magento_Bundle
-Close,sluiten,module,Magento_Bundle
+Close,Sluiten,module,Magento_Bundle
 "Delete Option","Verwijder optie",module,Magento_Bundle
 SKU,Art.nr.,module,Magento_Bundle
 Price,Prijs,module,Magento_Bundle
@@ -1103,7 +1103,7 @@ Back,Terug,module,Magento_Customer
 SKU,Art.nr.,module,Magento_Customer
 Quantity,Aantal,module,Magento_Customer
 Price,Prijs,module,Magento_Customer
-Total,totaal,module,Magento_Customer
+Total,Totaal,module,Magento_Customer
 Action,Actie,module,Magento_Customer
 Configure,Configureren,module,Magento_Customer
 Delete,Verwijder,module,Magento_Customer
@@ -1120,7 +1120,7 @@ Newsletter,Nieuwsbrief,module,Magento_Customer
 Subject,Onderwerp,module,Magento_Customer
 Sent,Verstuurd,module,Magento_Customer
 Cancel,Annuleer,module,Magento_Customer
-"Not Sent","Niet verzonden",module,Magento_Customer
+"Not Sent","Niet verstuurd",module,Magento_Customer
 Sending,"Bezig met verzenden",module,Magento_Customer
 Paused,Gepauzeerd,module,Magento_Customer
 View,Bekijk,module,Magento_Customer
@@ -1741,7 +1741,7 @@ Previous,Vorige,module,Magento_LayeredNavigation
 "Ship to Multiple Addresses","Verzenden naar meerdere adressen",module,Magento_Multishipping
 "Billing Information - %1","Factuuradres - %1",module,Magento_Multishipping
 "Review Order - %1","Controleer bestelling - %1",module,Magento_Multishipping
-Total,totaal,module,Magento_Multishipping
+Total,Totaal,module,Magento_Multishipping
 "Total for this address","Totaal voor dit adres",module,Magento_Multishipping
 "Shipping Methods",Verzendmethodes,module,Magento_Multishipping
 "Edit Address","Bewerk adres",module,Magento_Multishipping
@@ -1932,7 +1932,7 @@ N/A,n.v.t.,module,Magento_Payment
 "Switch/Solo/Maestro Issue Number","Switch/Solo/Maestro uitgiftenummer",module,Magento_Payment
 "Switch/Solo/Maestro Start Date","Begindatum Switch/Solo/Maestro",module,Magento_Payment
 Discount,Korting,module,Magento_Payment
-Shipping,Verzending,module,Magento_Payment
+Shipping,Aflevering,module,Magento_Payment
 "All Allowed Countries","Alle toegestane landen",module,Magento_Payment
 "Specific Countries","Bepaalde landen",module,Magento_Payment
 "The payment method you requested is not available.","De betalingsmethode die u hebt aangevraagd, is niet beschikbaar.",module,Magento_Payment
@@ -1975,7 +1975,7 @@ Order,Bestelling,module,Magento_Paypal
 "PayPal Settlement Reports","PayPal Overeenstemmings Rapporten",module,Magento_Paypal
 "We are connecting to the PayPal SFTP server to retrieve new reports. Are you sure you want to continue?","We maken verbinding met de PayPal SFTP server om nieuwe rapporten op te halen. Bent u zeker dat u wilt verdergaan?",module,Magento_Paypal
 Configure,Configureren,module,Magento_Paypal
-Close,sluiten,module,Magento_Paypal
+Close,Sluiten,module,Magento_Paypal
 "Learn More","Lees verder",module,Magento_Paypal
 "View Demo","Bekijk Demo",module,Magento_Paypal
 "See terms","Zie voorwaarden",module,Magento_Paypal
@@ -2214,7 +2214,7 @@ Unlimited,Onbeperkt,module,Magento_Reports
 "Products Ordered","Bestelde producten",module,Magento_Reports
 "Most Viewed","Meest bekeken",module,Magento_Reports
 "Show Report","Toon rapport",module,Magento_Reports
-Total,totaal,module,Magento_Reports
+Total,Totaal,module,Magento_Reports
 Price,prijs,module,Magento_Reports
 Views,Weergaven,module,Magento_Reports
 "Refresh Statistics","Vernieuw Statistieken",module,Magento_Reports
@@ -3035,7 +3035,7 @@ Date,Datum,module,Magento_Sales
 "Invoice #",Factuurnummer,module,Magento_Sales
 "Print Invoice","Factuur printen",module,Magento_Sales
 "Qty Invoiced","Gefactureerd aantal",module,Magento_Sales
-Close,sluiten,module,Magento_Sales
+Close,Sluiten,module,Magento_Sales
 "About Your Order","Over uw bestelling",module,Magento_Sales
 "<span class=""label"">Order Date:</span> %1","<span class=""label"">Datum:</span> %1",module,Magento_Sales
 "Refund #%1","Restitutie #%1",module,Magento_Sales
@@ -3302,7 +3302,7 @@ Code,"Interne naam",module,Magento_Tax
 Subtotal,Subtotaal,module,Magento_Tax
 "Unit Price",Stukprijs,module,Magento_Tax
 "Row Total",Rijtotaal,module,Magento_Tax
-Total,totaal,module,Magento_Tax
+Total,Totaal,module,Magento_Tax
 "Before Discount","Voorafgaand aan korting",module,Magento_Tax
 "After Discount","Na korting",module,Magento_Tax
 "Excluding Tax","Exclusief BTW",module,Magento_Tax
@@ -3394,8 +3394,8 @@ Next,Volgende,module,Magento_Theme
 Show,Toon,module,Magento_Theme
 "per page","per pagina",module,Magento_Theme
 "About the calendar","Over de kalender",module,Magento_Theme
-Close,sluiten,module,Magento_Theme
-"Go Today","Ga vandaag",module,Magento_Theme
+Close,Sluiten,module,Magento_Theme
+"Go Today","Naar vandaag",module,Magento_Theme
 Time,Tijd,module,Magento_Theme
 Hour,Uur,module,Magento_Theme
 Minute,Minuut,module,Magento_Theme
@@ -3654,7 +3654,7 @@ Tax,BTW,module,Magento_Weee
 Action,Actie,module,Magento_Weee
 "Insert Widget","Widget invoegen",module,Magento_Widget
 Choose...,Kies...,module,Magento_Widget
-Close,sluiten,module,Magento_Widget
+Close,Sluiten,module,Magento_Widget
 "Not Selected","Niet Geselecteerd",module,Magento_Widget
 "Widget Type","Widget type",module,Magento_Widget
 "-- Please Select --","-- Selecteer --",module,Magento_Widget
@@ -4822,7 +4822,7 @@ Debug,"Fouten opsporen in programma",module,Magento_Ups
 Action,Actie,module,Magento_UrlRewrite
 Edit,Bewerken,module,Magento_UrlRewrite
 "Reset Password Template","Reset wachtwoord sjabloon",module,Magento_User
-"Maximum Login Failures to Lockout Account","Maximale Foute Logins om het Account te sluiten",module,Magento_User
+"Maximum Login Failures to Lockout Account","Maximaal aantal foute logins om het account te blokkeren",module,Magento_User
 "We will disable this feature if the value is empty.","Functie wordt uitgeschakeld als de waarde leeg is.",module,Magento_User
 "Lockout Time (minutes)","Lockout Tijd (minuten)",module,Magento_User
 "Password Lifetime (days)","Levensduur Wachtwoord (dagen)",module,Magento_User
