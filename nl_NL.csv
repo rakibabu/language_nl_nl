@@ -616,7 +616,7 @@ Qty,Aantal,module,Magento_CatalogInventory
 "Delete Rule","Regel verwijderen",module,Magento_CatalogRule
 "Are you sure you want to do this?","Weet u zeker dat u dit wilt doen?",module,Magento_CatalogRule
 "Save and Apply","Opslaan en toepassen",module,Magento_CatalogRule
-"Save and Continue Edit","Opslaan en verder bewerken",module,Magento_CatalogRule
+"Save and Continue Edit",Toepassen,module,Magento_CatalogRule
 Save,Opslaan,module,Magento_CatalogRule
 "Catalog Price Rule","Catalogus Prijsregel",module,Magento_CatalogRule
 "Add New Rule","Voeg nieuwe regel toe",module,Magento_CatalogRule
@@ -727,7 +727,7 @@ Cancel,Annuleer,module,Magento_Catalog
 "Save Attribute","Bewaar attribuut",module,Magento_Catalog
 "Save in New Attribute Set","Opslaan in nieuwe attribuutset",module,Magento_Catalog
 "Enter Name for New Attribute Set","Voer naam in voor nieuwe attribuutset",module,Magento_Catalog
-"Save and Continue Edit","Opslaan en doorgaan met bewerken",module,Magento_Catalog
+"Save and Continue Edit",Toepassen,module,Magento_Catalog
 "Delete Attribute","Verwijder attribuut",module,Magento_Catalog
 "Edit Product Attribute ""%1""","Bewerk productattribuut ""%1""",module,Magento_Catalog
 "New Product Attribute","Nieuw product-attribuut",module,Magento_Catalog
@@ -1376,7 +1376,7 @@ Loading...,"Bezig met laden...",module,Magento_Checkout
 Back,Terug,module,Magento_Cms
 "Delete Block","Blok verwijderen",module,Magento_Cms
 "Are you sure you want to do this?","Weet u zeker dat u dit wilt doen?",module,Magento_Cms
-"Save and Continue Edit","Opslaan en verder bewerken",module,Magento_Cms
+"Save and Continue Edit",Toepassen,module,Magento_Cms
 "Save Block","Blok opslaan",module,Magento_Cms
 Title,Titel,module,Magento_Cms
 Disabled,Uitgeschakeld,module,Magento_Cms
@@ -1718,7 +1718,7 @@ region,regio,module,Magento_Customer
 "Are you sure you want to revoke the customer's tokens?","Weet u zeker dat u de klant tokens wenst in te trekken?",module,Magento_Customer
 "Force Sign-In","Forceer opnieuw inloggen",module,Magento_Customer
 "New Customer","Nieuwe klant",module,Magento_Customer
-"Save and Continue Edit","Opslaan en verder bewerken",module,Magento_Customer
+"Save and Continue Edit",Toepassen,module,Magento_Customer
 Back,Terug,module,Magento_Customer
 "Please select",Selecteer,module,Magento_Customer
 SKU,Art.nr.,module,Magento_Customer
@@ -3733,7 +3733,7 @@ Category,Categorie,module,Magento_Rule
 "Add New Rule","Voeg nieuwe regel toe",module,Magento_SalesRule
 Delete,Verwijder,module,Magento_SalesRule
 "Are you sure you want to delete this?","Weet u zeker dat u dit wilt verwijderen?",module,Magento_SalesRule
-"Save and Continue Edit","Opslaan en verder bewerken",module,Magento_SalesRule
+"Save and Continue Edit",Toepassen,module,Magento_SalesRule
 Save,Opslaan,module,Magento_SalesRule
 Actions,Acties,module,Magento_SalesRule
 "Apply the rule only to cart items matching the following conditions (leave blank for all items).","Pas de regel alleen toe op winkelwagenproducten, die voldoen aan de volgende criteria (laat leeg voor alle artikelen).",module,Magento_SalesRule
@@ -4454,7 +4454,7 @@ Uses,Gebruikt,module,Magento_Search
 Back,Terug,module,Magento_Search
 "Delete Synonym Group","Synoniem-groep verwijderen",module,Magento_Search
 "Are you sure you want to delete this synonym group?","Weet u zeker dat u deze synoniem-groep wilt verwijderen?",module,Magento_Search
-"Save and Continue Edit","Opslaan en verder bewerken",module,Magento_Search
+"Save and Continue Edit",Toepassen,module,Magento_Search
 "Save Synonym Group","Synoniem-groep opslaan",module,Magento_Search
 Search,Zoek,module,Magento_Search
 "Add New Search Term","Voeg nieuwe zoekterm toe",module,Magento_Search
@@ -4839,7 +4839,7 @@ Back,Terug,module,Magento_Tax
 "Add New Tax Rule","Nieuwe BTW-regel toevoegen",module,Magento_Tax
 "Save Rule","Regel opslaan",module,Magento_Tax
 "Delete Rule","Regel verwijderen",module,Magento_Tax
-"Save and Continue Edit","Opslaan en verder bewerken",module,Magento_Tax
+"Save and Continue Edit",Toepassen,module,Magento_Tax
 "Tax Rule Information","BTW-regel Informatie",module,Magento_Tax
 Name,Naam,module,Magento_Tax
 "Customer Tax Class","BTW-tariefgroep klant",module,Magento_Tax
@@ -4948,11 +4948,11 @@ Save,Opslaan,module,Magento_Tax
 "Grand Total Excl. Tax","Eindtotaal excl. BTW",module,Magento_Tax
 "Grand Total Incl. Tax","Eindtotaal incl. BTW",module,Magento_Tax
 Back,Terug,module,Magento_Theme
-"Save and Continue","Opslaan en Ga verder",module,Magento_Theme
+"Save and Continue",Toepassen,module,Magento_Theme
 "Save Configuration","Configuratie opslaan",module,Magento_Theme
 Default,Standaard,module,Magento_Theme
 Themes,Thema's,module,Magento_Theme
-"Save and Continue Edit","Opslaan en verder bewerken",module,Magento_Theme
+"Save and Continue Edit",Toepassen,module,Magento_Theme
 "Are you sure you want to delete this theme?","Weet u zeker dat u dit artikel wil verwijderen?",module,Magento_Theme
 "Theme: %1","Thema: %1",module,Magento_Theme
 "New Theme","Nieuw thema",module,Magento_Theme
@@ -5351,7 +5351,7 @@ Other,Andere,module,Magento_Usps
 None,Geen,module,Magento_Usps
 "Custom Variables","Aangepaste Variabelen",module,Magento_Variable
 "Add New Variable","Voeg nieuwe variabele toe",module,Magento_Variable
-"Save and Continue Edit","Bewaar en Ga Door met Bewerking",module,Magento_Variable
+"Save and Continue Edit",Toepassen,module,Magento_Variable
 "Custom Variable ""%1""","Aangepaste variabele ""%1""",module,Magento_Variable
 "New Custom Variable","Nieuwe aangepaste variabele",module,Magento_Variable
 Variable,Variabel,module,Magento_Variable
@@ -5417,7 +5417,7 @@ Close,Sluiten,module,Magento_Widget
 "-- Please Select --","-- Selecteer --",module,Magento_Widget
 "Manage Widget Instances","Beheer eigenschappen widget",module,Magento_Widget
 "Add Widget","Widget toevoegen",module,Magento_Widget
-"Save and Continue Edit","Opslaan en verder bewerken",module,Magento_Widget
+"Save and Continue Edit",Toepassen,module,Magento_Widget
 "New Widget Instance","Nieuw widget",module,Magento_Widget
 "Custom Layouts","Custom lay-out",module,Magento_Widget
 "Page Layouts",Pagina-indelingen,module,Magento_Widget
