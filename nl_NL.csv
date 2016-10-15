@@ -1856,7 +1856,7 @@ Subscribers,Abonnees,module,Magento_Newsletter
 "Create Newsletter Template","Nieuwsbrief-sjabloon aanmaken",module,Magento_Newsletter
 "The newsletter template has been saved.","Het nieuwsbriefsjabloon werd opgeslaan.",module,Magento_Newsletter
 "Newsletter Subscription",Nieuwsbriefabonnement,module,Magento_Newsletter
-"Something went wrong while saving your subscription.","Er ging iets mis bij het bewaren van uw abonnement.",module,Magento_Newsletter
+"Something went wrong while saving your subscription.","Er ging iets mis bij het opslaan van uw abonnement.",module,Magento_Newsletter
 "We saved the subscription.","We hebben het abonnement opgeslagen.",module,Magento_Newsletter
 "We removed the subscription.","We hebben het abonnement verwijderd.",module,Magento_Newsletter
 "Your subscription has been confirmed.","Uw inschrijving is bevestigd.",module,Magento_Newsletter
@@ -2340,7 +2340,7 @@ Nickname,"Uw naam",module,Magento_Review
 "Summary of Review","Titel van review",module,Magento_Review
 Previous,Vorige,module,Magento_Review
 "Save and Previous","Opslaan en vorige",module,Magento_Review
-"Save and Next","Bewaren en volgende",module,Magento_Review
+"Save and Next","Opslaan en volgende",module,Magento_Review
 Next,Volgende,module,Magento_Review
 "Delete Review","Review verwijderen",module,Magento_Review
 "Are you sure you want to do this?","Weet u zeker dat u dit wilt doen?",module,Magento_Review
