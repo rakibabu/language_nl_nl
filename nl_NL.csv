@@ -7367,7 +7367,7 @@ Taxes,BTW,module,Magento_Tax
 "Apply discount on price including tax is calculated based on store tax if ""Apply Tax after Discount"" is selected.","Toepassen van korting op de prijs inclusief BTW is berekend op basis van de store belasting, wanneer ""Belasting na korting van toepassen"" is geselecteerd.",module,Magento_Tax
 "Apply Tax On","Bereken BTW op",module,Magento_Tax
 "Enable Cross Border Trade","Grensoverschrijdend handelsverkeer toestaan",module,Magento_Tax
-"When catalog price includes tax, enable this setting to fix the price no matter what the customer's tax rate.","Indien de cataloogprijs inclusief Btw is, schakel deze optie dan in om de prijs aan te passen voor elk Btw-tarief van de klant.",module,Magento_Tax
+"When catalog price includes tax, enable this setting to fix the price no matter what the customer's tax rate.","Indien de catalogusprijs inclusief BTW is, schakel deze optie dan in om de prijs aan te passen voor elk Btw-tarief van de klant.",module,Magento_Tax
 "Default Tax Destination Calculation","Land van herkomst",module,Magento_Tax
 "Default Country","Standaard land",module,Magento_Tax
 "Default State","Standaard provincie",module,Magento_Tax
