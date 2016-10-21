@@ -5379,7 +5379,7 @@ Type,Soort,module,Magento_Vault
 ending,einde,module,Magento_Vault
 Actions,Acties,module,Magento_Vault
 Delete,Verwijder,module,Magento_Vault
-"Consumer is not authorized to access %resources","Gebruiker heeft is niet gemachtigd tot %resources",module,Magento_Webapi
+"Consumer is not authorized to access %resources","Gebruiker is niet gemachtigd tot %resources",module,Magento_Webapi
 "Operation allowed only in HTTPS","Operatie kan enkel in HTTPS",module,Magento_Webapi
 "Cannot perform GET operation with store code 'all'","Uitvoeren van GET commando kan niet met winkelcode 'all'",module,Magento_Webapi
 "Request does not match any route.","Verzoek komt niet overeen met een route.",module,Magento_Webapi
