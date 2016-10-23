@@ -193,7 +193,7 @@ Submit,Bevestig,module,Magento_Backend
 Error,Foutmelding,module,Magento_Backend
 "You need more permissions to do this.","Moet heeft meer bevoegdheden nodig om dit te doen.",module,Magento_Backend
 "No search modules were registered","Er zijn geen zoekmodules geregistreerd.",module,Magento_Backend
-"Please make sure that all global admin search modules are installed and activated.","Zorg er voor a.u.b dat alle globale admin-zoekmodules zijn geïnstalleerd en geactiveerd a.u.b.",module,Magento_Backend
+"Please make sure that all global admin search modules are installed and activated.","U moet ervoor zorgen dat alle globale admin zoekmodules zijn geïnstalleerd en geactiveerd.",module,Magento_Backend
 "You saved the account.","Het account werd opgeslagen.",module,Magento_Backend
 "An error occurred while saving account.","Er is een fout opgetreden bij het opslaan van dit account",module,Magento_Backend
 "You deleted the design change.","U heeft de design wijziging verwijderd.",module,Magento_Backend
@@ -336,7 +336,7 @@ Country,Land,module,Magento_Braintree
 "Invalid Customer ID provided","Ongeldige klant ID verstrekt",module,Magento_Braintree
 "Payment Information",Betaalgegevens,module,Magento_Braintree
 "Add new card","Nieuwe creditcard toevoegen",module,Magento_Braintree
-"Please Select","Selecteer a.u.b.",module,Magento_Braintree
+"Please Select",Selecteer,module,Magento_Braintree
 "Expiration Date",Vervaldatum,module,Magento_Braintree
 "Card Verification Number",Verificatienummer,module,Magento_Braintree
 "Save this card for future use","Deze creditcard voor toekomstig gebruik opslaan",module,Magento_Braintree
@@ -720,7 +720,7 @@ All,Allen,module,Magento_Catalog
 "Static block only","Alleen statisch blok",module,Magento_Catalog
 "Static block and products","Statisch blok en producten",module,Magento_Catalog
 "Please select a static block.","Selecteer een statisch blok.",module,Magento_Catalog
-"-- Please Select a Category --","-- Selecteer een categorie a.u.b. --",module,Magento_Catalog
+"-- Please Select a Category --","-- Selecteer een categorie --",module,Magento_Catalog
 "Grid Only","Alleen tabel",module,Magento_Catalog
 "List Only","Alleen lijst",module,Magento_Catalog
 "Grid (default) / List","Tabel (standaard) / lijst",module,Magento_Catalog
@@ -730,7 +730,7 @@ All,Allen,module,Magento_Catalog
 Manual,Handmatig,module,Magento_Catalog
 Fixed,Vast,module,Magento_Catalog
 Percent,Percentage,module,Magento_Catalog
-"-- Please select --","--selecteer a.u.b.--",module,Magento_Catalog
+"-- Please select --","-- Selecteer --",module,Magento_Catalog
 "Product Thumbnail Itself","Miniatuur van het product zelf",module,Magento_Catalog
 "Parent Product Thumbnail","Miniatuur van het hoofdproduct",module,Magento_Catalog
 "12h AM/PM","12uur Ochtend/Avond",module,Magento_Catalog
@@ -798,7 +798,7 @@ Search,Zoek,module,Magento_Catalog
 Groups,Groepen,module,Magento_Catalog
 "Unassigned Attributes","Niet-toegewezen attributen",module,Magento_Catalog
 "A name is required.","Een naam is verplicht.",module,Magento_Catalog
-"This group contains system attributes. Please move system attributes to another group and try again.","Deze groep bevat systeemattributen. Verplaats de systeemattributen naar een andere groep en probeer opnieuw a.u.b.",module,Magento_Catalog
+"This group contains system attributes. Please move system attributes to another group and try again.","Deze groep bevat systeemattributen. Verplaats de systeemattributen naar een andere groep en probeer opnieuw.",module,Magento_Catalog
 "Please enter a new group name.","Geef een nieuwe groepsnaam op.",module,Magento_Catalog
 "An attribute group named ""/name/"" already exists"".","De attribuutgroep met de naam ""/name/"" bestaat al"".",module,Magento_Catalog
 "Custom Options","Eigen opties",module,Magento_Catalog
@@ -923,7 +923,7 @@ State/Province,Staat/provincie,module,Magento_Checkout
 "We cannot apply the coupon code.","Kortingscode kan niet worden toegepast.",module,Magento_Checkout
 "%1 was updated in your shopping cart.","%1 is bijgewerkt in uw winkelwagen.",module,Magento_Checkout
 Checkout,Afrekenen,module,Magento_Checkout
-"Please agree to all the terms and conditions before placing the order.","Accepteer onze Algemene Voorwaarden voordat u de bestelling plaatst a.u.b.",module,Magento_Checkout
+"Please agree to all the terms and conditions before placing the order.","Accepteer onze Algemene Voorwaarden voordat u de bestelling plaatst.",module,Magento_Checkout
 "The product does not exist.","Het artikel bestaat niet.",module,Magento_Checkout
 "We don't have some of the products you want.","We hebben niet alle producten die u wenst.",module,Magento_Checkout
 "We don't have as many of some products as you want.","We hebben het gevraagde aantal producten niet op voorraad.",module,Magento_Checkout
@@ -1176,7 +1176,7 @@ Download,Downloads,module,Magento_Customer
 "Account Information","Account Gegevens",module,Magento_Customer
 "Invalid input","Ongeldige invoer",module,Magento_Customer
 "Please correct the email address.","Corrigeer het e-mailadres.",module,Magento_Customer
-"Please enter your email.","Vul uw e-mailadres in a.u.b.",module,Magento_Customer
+"Please enter your email.","Voer uw e-mailadres in.",module,Magento_Customer
 "If there is an account associated with %1 you will receive an email with a link to reset your password.","Als er een account is gekoppeld aan %1, ontvangt u een e-mail met een link om uw wachtwoord opnieuw instellen.",module,Magento_Customer
 "My Account",Account,module,Magento_Customer
 "Invalid login or password.","Ongeldige gebruikersnaam en/of wachtwoord.",module,Magento_Customer
@@ -1198,11 +1198,11 @@ Customers,Klanten,module,Magento_Customer
 "This account is not confirmed.","Dit account is niet bevestigd.",module,Magento_Customer
 "Please enter the first name.","Vul alstublieft de voornaam in.",module,Magento_Customer
 "Please enter the last name.","Vul alstublieft de achternaam in.",module,Magento_Customer
-"Please enter the street.","Vul a.u.b. de straat in.",module,Magento_Customer
-"Please enter the city.","Vul a.u.b. de plaats in.",module,Magento_Customer
-"Please enter the zip/postal code.","Vul a.u.b. de postcode in.",module,Magento_Customer
-"Please enter the country.","Vul a.u.b. het land in.",module,Magento_Customer
-"Please enter the state/province.","Vul a.u.b. de provincie in.",module,Magento_Customer
+"Please enter the street.","Vul de straatnaam in.",module,Magento_Customer
+"Please enter the city.","Vul de plaats in.",module,Magento_Customer
+"Please enter the zip/postal code.","Vul de postcode in.",module,Magento_Customer
+"Please enter the country.","Voer het land in.",module,Magento_Customer
+"Please enter the state/province.","Vul de provincie in.",module,Magento_Customer
 """%1"" is a required value.","""%1"" is een vereiste waarde.",module,Magento_Customer
 Global,Systeem,module,Magento_Customer
 "Per Website","Per website",module,Magento_Customer
@@ -1734,7 +1734,7 @@ Previous,Vorige,module,Magento_LayeredNavigation
 "File system",Bestandssysteem,module,Magento_MediaStorage
 "Unable to save file ""%1"" at ""%2""","Niet mogelijk om bestand ""%s"" op te slaan in ""%s""",module,Magento_MediaStorage
 "Wrong file info format","Verkeerd bestand-informatie formaat",module,Magento_MediaStorage
-"Please set available and/or protected paths list(s) before validation.","Stel a.u.b. beschikbare en/of beveiligde in voordat uw valideert.",module,Magento_MediaStorage
+"Please set available and/or protected paths list(s) before validation.","Stel de beschikbare en/of beveiligde paden in voordat u valideert.",module,Magento_MediaStorage
 "Unable to create directory: %1","Niet in staat om de map te maken: %1",module,Magento_MediaStorage
 "Unable to save file: %1","Niet in staat om het bestand op te slaan: %1",module,Magento_MediaStorage
 "Change Billing Address","Verander Factuuradres",module,Magento_Multishipping
@@ -1751,15 +1751,15 @@ Total,Totaal,module,Magento_Multishipping
 "Create Shipping Address","Afleveradres aanmaken",module,Magento_Multishipping
 "Data saving problem","Probleem bij het opslaan van gegevens",module,Magento_Multishipping
 "We cannot open the overview page.","We kunnen de overzichtspagina niet openen.",module,Magento_Multishipping
-"Please agree to all Terms and Conditions before placing the order.","Accepteer onze Algemene Voorwaarden voordat u de bestelling plaatst a.u.b.",module,Magento_Multishipping
+"Please agree to all Terms and Conditions before placing the order.","Accepteer onze Algemene Voorwaarden voordat u de bestelling plaatst.",module,Magento_Multishipping
 "Order place error","Fout bij plaatsen van bestelling",module,Magento_Multishipping
 "Maximum qty allowed for Shipping to multiple addresses is %1","Maximaal aantal voor verzenden naar verschillende adressen is %1",module,Magento_Multishipping
-"Please check shipping address information.","Controleer a.u.b. de gegevens van het verzendadres.",module,Magento_Multishipping
-"Please check billing address information.","Controleer a.u.b. de gegevens van het factuuradres.",module,Magento_Multishipping
+"Please check shipping address information.","Controleer het verzendadres.",module,Magento_Multishipping
+"Please check billing address information.","Controleer de gegevens van het factuuradres.",module,Magento_Multishipping
 "Please select shipping methods for all addresses.","Selecteer verzendmethodes voor alle adressen.",module,Magento_Multishipping
 "Item not found or already ordered","Artikel niet gevonden of reeds besteld",module,Magento_Multishipping
 "Please specify a payment method.","Geef de betaalmethode op.",module,Magento_Multishipping
-"Please check shipping addresses information.","Controleer a.u.b. de gegevens van de verzendadressen.",module,Magento_Multishipping
+"Please check shipping addresses information.","Controleer de verzendadressen.",module,Magento_Multishipping
 "Please specify shipping methods for all addresses.","Geef verzendmethoden op voor alle adressen.",module,Magento_Multishipping
 "Select Addresses","Adres selecteren",module,Magento_Multishipping
 "Shipping Information","Bezorg Informatie",module,Magento_Multishipping
@@ -1862,7 +1862,7 @@ Subscribers,Abonnees,module,Magento_Newsletter
 "Your subscription has been confirmed.","Uw inschrijving is bevestigd.",module,Magento_Newsletter
 "This is an invalid subscription confirmation code.","De confirmatie code voor het abonnement is ongeldig.",module,Magento_Newsletter
 "This is an invalid subscription ID.","Dit is een ongeldig abonnementsID.",module,Magento_Newsletter
-"This email address is already assigned to another user.","Er is al een klant met dit e-mailadres, log in a.u.b.",module,Magento_Newsletter
+"This email address is already assigned to another user.","Dit E-Mailadres is al toegewezen aan een andere gebruiker.",module,Magento_Newsletter
 "Please enter a valid email address.","Vul een geldig e-mailadres in",module,Magento_Newsletter
 "The confirmation request has been sent.","De bevestigingsaanvraag werd verzonden.",module,Magento_Newsletter
 "Thank you for your subscription.","Bedankt voor uw inschrijving.",module,Magento_Newsletter
@@ -1997,7 +1997,7 @@ Sales,Verkopen,module,Magento_Paypal
 "Express Checkout and Order have been canceled.","Express Checkout en de bestelling zijn geannuleerd.",module,Magento_Paypal
 "Express Checkout has been canceled.","Express Checkout is geannuleerd",module,Magento_Paypal
 "Unable to cancel Express Checkout","Niet mogelijk om Express Checkout te annuleren",module,Magento_Paypal
-"Please agree to all the terms and conditions before placing the order.","Accepteer onze Algemene Voorwaarden voordat u de bestelling plaatst a.u.b.",module,Magento_Paypal
+"Please agree to all the terms and conditions before placing the order.","Accepteer onze Algemene Voorwaarden voordat u de bestelling plaatst.",module,Magento_Paypal
 "Your payment has been declined. Please try again.","Uw betaling is afgewezen. Probeer het opnieuw.",module,Magento_Paypal
 "Requested payment method does not match with order.","Gevraagde betalingsmethode komt niet overeen met bestelling.",module,Magento_Paypal
 "Something went wrong while processing your order.","Er ging iets mis tijdens het verwerken van uw bestelling.",module,Magento_Paypal
@@ -2094,7 +2094,7 @@ Daily,Dagelijks,module,Magento_Paypal
 "Created billing agreement #%1.","Incasso-overeenkomst #%1.",module,Magento_Paypal
 "Pending PayPal","In Behandeling Bij PayPal",module,Magento_Paypal
 "Billing Agreement",Incasso-overeenkomt,module,Magento_Paypal
-"Please Select","Selecteer a.u.b.",module,Magento_Paypal
+"Please Select",Selecteer,module,Magento_Paypal
 Customer,Klant,module,Magento_Paypal
 "Created At","Aangemaakt Op",module,Magento_Paypal
 "Updated At","Geüpdate op",module,Magento_Paypal
@@ -3109,6 +3109,7 @@ Contents,Inhoud,module,Magento_Shipping
 "Total Weight",Totaalgewicht,module,Magento_Shipping
 Height,Hoogte,module,Magento_Shipping
 Size,Grootte,module,Magento_Shipping
+Girth,Omtrek,module,Magento_Shipping
 "Items in the Package","Items in het pakket",module,Magento_Shipping
 Weight,Gewicht,module,Magento_Shipping
 "Qty Ordered","Besteld aantal",module,Magento_Shipping
@@ -3140,7 +3141,6 @@ Cancel,Annuleer,module,Magento_Shipping
 "Add Package","Voeg pakket toe",module,Magento_Shipping
 "Add Selected Product(s) to Package","Voeg geselecteerde pakketten toe aan product",module,Magento_Shipping
 in,inch,module,Magento_Shipping
-kg,kilo,module,Magento_Shipping
 "Delete Package","Verwijder pakket",module,Magento_Shipping
 Explanation,Uitleg,module,Magento_Shipping
 Carrier,drager,module,Magento_Shipping
@@ -3821,7 +3821,7 @@ Pagination,Paginering,module,Magento_Backend
 "Alternative text for next link in pagination menu. If empty, default arrow image will used.","Alternatieve tekst voor volgende link in pagineringsmenu. Wanneer u deze leeg laat, wordt de standaard pijl getoond.",module,Magento_Backend
 Developer,Ontwikkelaar,module,Magento_Backend
 Debug,"Fouten opsporen in programma",module,Magento_Backend
-"Enabled Template Path Hints for Storefront","Ingeschakelde hints voor sjabloon paden op winkelaanzicht",module,Magento_Backend
+"Enabled Template Path Hints for Storefront","Hints ingeschakeld voor sjabloon paden op winkelaanzicht",module,Magento_Backend
 "Enabled Template Path Hints for Admin","Template pad Hints ingeschakeld voor Admin",module,Magento_Backend
 "Add Block Names to Hints","Bloknamen aan Hints toevoegen",module,Magento_Backend
 "Template Settings","Template instellingen",module,Magento_Backend
@@ -4283,13 +4283,13 @@ Action,Actie,module,Magento_Email
 "Enabled for Checkout","Ingeschakeld bij Afrekenen",module,Magento_Fedex
 Title,Titel,module,Magento_Fedex
 "Account ID",Klant-ID,module,Magento_Fedex
-"Please make sure to use only digits here. No dashes are allowed.","Gebruik alleen cijfers a.u.b. Streepjes zijn niet toegestaan.",module,Magento_Fedex
+"Please make sure to use only digits here. No dashes are allowed.","Gebruik alleen cijfers. Streepjes zijn niet toegestaan.",module,Magento_Fedex
 Key,Sleutel,module,Magento_Fedex
 Password,Wachtwoord,module,Magento_Fedex
 "Web-Services URL (Production)","Web-Services URL (productie)",module,Magento_Fedex
 Packaging,Verpakking,module,Magento_Fedex
 Dropoff,Dropshipment,module,Magento_Fedex
-"Maximum Package Weight (Please consult your shipping carrier for maximum supported shipping weight)","Maximum pakketgewicht (Vraag uw transportbedrijf naar het maximaal toegestane pakketgewicht a.u.b.)",module,Magento_Fedex
+"Maximum Package Weight (Please consult your shipping carrier for maximum supported shipping weight)","Maximum pakketgewicht (Vraag uw transportbedrijf naar het maximaal toegestane pakketgewicht)",module,Magento_Fedex
 "Calculate Handling Fee","Verzendkosten berekenen",module,Magento_Fedex
 "Handling Applied","Verwerkingskosten toegepast",module,Magento_Fedex
 "Handling Fee",Verwerkingskosten,module,Magento_Fedex
@@ -4688,7 +4688,7 @@ Enabled,Ingeschakeld,module,Magento_SendFriend
 Origin,Herkomst,module,Magento_Shipping
 Country,Land,module,Magento_Shipping
 Region/State,Provincie,module,Magento_Shipping
-"ZIP/Postal Code",postcode,module,Magento_Shipping
+"ZIP/Postal Code",Postcode,module,Magento_Shipping
 City,Plaats,module,Magento_Shipping
 "Street Address",Adres,module,Magento_Shipping
 "Street Address Line 2",Adres,module,Magento_Shipping
@@ -4797,7 +4797,7 @@ Translations,Vertalingen,module,Magento_Translation
 "Calculate Handling Fee","Verzendkosten berekenen",module,Magento_Ups
 "Handling Applied","Verwerkingskosten toegepast",module,Magento_Ups
 "Handling Fee",Verwerkingskosten,module,Magento_Ups
-"Maximum Package Weight (Please consult your shipping carrier for maximum supported shipping weight)","Maximum pakketgewicht (Vraag uw transportbedrijf naar het maximaal toegestane pakketgewicht a.u.b.)",module,Magento_Ups
+"Maximum Package Weight (Please consult your shipping carrier for maximum supported shipping weight)","Maximum pakketgewicht (Vraag uw transportbedrijf naar het maximaal toegestane pakketgewicht)",module,Magento_Ups
 "Minimum Package Weight (Please consult your shipping carrier for minimum supported shipping weight)","Minimum Pakket Gewicht (neem contact op met uw logistieke dienstverlener om dit te achterhalen)",module,Magento_Ups
 "Origin of the Shipment","Oorsprong van verzending",module,Magento_Ups
 Password,Wachtwoord,module,Magento_Ups
@@ -4841,8 +4841,9 @@ Mode,Type,module,Magento_Usps
 Size,Grootte,module,Magento_Usps
 Width,Breedte,module,Magento_Usps
 Height,Hoogte,module,Magento_Usps
+Girth,Omtrek,module,Magento_Usps
 Machinable,Machinaal,module,Magento_Usps
-"Maximum Package Weight (Please consult your shipping carrier for maximum supported shipping weight)","Maximum pakketgewicht (Vraag uw transportbedrijf naar het maximaal toegestane pakketgewicht a.u.b.)",module,Magento_Usps
+"Maximum Package Weight (Please consult your shipping carrier for maximum supported shipping weight)","Maximum pakketgewicht (Vraag uw transportbedrijf naar het maximaal toegestane pakketgewicht)",module,Magento_Usps
 "Calculate Handling Fee","Verzendkosten berekenen",module,Magento_Usps
 "Handling Applied","Verwerkingskosten toegepast",module,Magento_Usps
 "Handling Fee",Verwerkingskosten,module,Magento_Usps
