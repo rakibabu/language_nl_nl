@@ -3153,7 +3153,7 @@ Action,Actie,module,Magento_Shipping
 "No shipping information available","Geen verzendgegevens beschikbaar",module,Magento_Shipping
 "Shipping and Tracking Information","Bezorg en Tracking Informatie",module,Magento_Shipping
 "Track this shipment","Traceer deze bestelling",module,Magento_Shipping
-"Items Shipped","Verzonden artikelen",module,Magento_Shipping
+"Items Shipped","Verzonden producten",module,Magento_Shipping
 "Shipment History","Levering Geschiedenis",module,Magento_Shipping
 "Qty Shipped","Verzonden aantal",module,Magento_Shipping
 "Print All Shipments","Alle verzendingen printen",module,Magento_Shipping
