@@ -4105,7 +4105,7 @@ Sales,Verkopen,module,Magento_Sales
 "We can't find this order status.","We kunnen de status van de bestelling niet vinden.",module,Magento_Sales
 "Create New Order Status","Maak een nieuwe bestelling-status",module,Magento_Sales
 "We found another order status with the same order status code.","Andere orderstatus van bestelling met dezelfde orderstatuscode.",module,Magento_Sales
-"You saved the order status.","Bestelling status opgeslagen.",module,Magento_Sales
+"You saved the order status.","Bestellingstatus opgeslagen.",module,Magento_Sales
 "We can't add the order status right now.","Kan de bestelling status nu niet toevoegen.",module,Magento_Sales
 "You have unassigned the order status.","U heeft de status van de bestelling ingetrokken.",module,Magento_Sales
 "Something went wrong while unassigning the order.","Er ging iets mis tijdens het intrekken van de bestelling.",module,Magento_Sales
@@ -4682,7 +4682,7 @@ Action,Actie,module,Magento_Shipping
 "No shipping information available","Geen verzendgegevens beschikbaar",module,Magento_Shipping
 "Shipping and Tracking Information","Bezorg en Tracking Informatie",module,Magento_Shipping
 "Track this shipment","Traceer deze bestelling",module,Magento_Shipping
-"Items Shipped","Verzonden artikelen",module,Magento_Shipping
+"Items Shipped","Verzonden producten",module,Magento_Shipping
 "Order Total",Ordertotaal,module,Magento_Shipping
 "Shipment History","Levering Geschiedenis",module,Magento_Shipping
 "Qty Shipped","Verzonden aantal",module,Magento_Shipping
