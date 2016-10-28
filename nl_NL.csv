@@ -230,7 +230,7 @@ Error,Foutmelding,module,Magento_Backend
 "Access Denied.","Toegang geweigerd.",module,Magento_Backend
 "You need more permissions to do this.","Moet heeft meer bevoegdheden nodig om dit te doen.",module,Magento_Backend
 "No search modules were registered","Er zijn geen zoekmodules geregistreerd.",module,Magento_Backend
-"Please make sure that all global admin search modules are installed and activated.","U moet ervoor zorgen dat alle globale admin zoekmodules zijn geïnstalleerd en geactiveerd.",module,Magento_Backend
+"Please make sure that all global admin search modules are installed and activated.","Zorg er voor dat alle globale admin zoekmodules zijn geïnstalleerd en geactiveerd.",module,Magento_Backend
 "You saved the account.","Het account werd opgeslagen.",module,Magento_Backend
 "An error occurred while saving account.","Er is een fout opgetreden bij het opslaan van dit account",module,Magento_Backend
 "You deleted the design change.","U heeft de design wijziging verwijderd.",module,Magento_Backend
@@ -505,7 +505,7 @@ Quantity:,Aantal:,module,Magento_Bundle
 Position,Positie,module,Magento_Bundle
 "There are no products in this option.","Er zijn geen producten in deze optie.",module,Magento_Bundle
 Default,Standaard,module,Magento_Bundle
-Ordered,Bestelt,module,Magento_Bundle
+Ordered,Besteld,module,Magento_Bundle
 Invoiced,Gefactureerd,module,Magento_Bundle
 Shipped,Verzonden,module,Magento_Bundle
 Refunded,Teruggestort,module,Magento_Bundle
@@ -2205,7 +2205,7 @@ Subtotal,Subtotaal,module,Magento_Downloadable
 "Discount Amount",Korting,module,Magento_Downloadable
 "Row Total",Rijtotaal,module,Magento_Downloadable
 "Qty Invoiced","Gefactureerd aantal",module,Magento_Downloadable
-Ordered,Bestelt,module,Magento_Downloadable
+Ordered,Besteld,module,Magento_Downloadable
 Shipped,Verzonden,module,Magento_Downloadable
 Canceled,Geannuleerd,module,Magento_Downloadable
 Refunded,Teruggestort,module,Magento_Downloadable
@@ -4164,7 +4164,7 @@ Paid,Betaald,module,Magento_Sales
 "We cannot register an existing invoice","We kunnen geen bestaande factuur registreren",module,Magento_Sales
 "ID required","ID is vereist",module,Magento_Sales
 "Unknown Status","Onbekende status",module,Magento_Sales
-Ordered,Bestelt,module,Magento_Sales
+Ordered,Besteld,module,Magento_Sales
 Shipped,Verzonden,module,Magento_Sales
 Invoiced,Gefactureerd,module,Magento_Sales
 Backordered,"Wordt nageleverd",module,Magento_Sales
@@ -4387,7 +4387,7 @@ Status,status,module,Magento_Sales
 Comment,Commentaar,module,Magento_Sales
 "Notification Not Applicable","notificatie niet van toepassing",module,Magento_Sales
 "Order & Account Information","Bestelling & Account informatie",module,Magento_Sales
-"The order confirmation email was sent","De bevestigingsemail van de bestelling werd verzonden",module,Magento_Sales
+"The order confirmation email was sent","E-mail bestelbevestiging is verzonden",module,Magento_Sales
 "The order confirmation email is not sent","De bevestingingsemail van de bestelling werd niet verzonden",module,Magento_Sales
 "Order Date",Besteldatum,module,Magento_Sales
 "Order Date (%1)","Besteldatum (%1)",module,Magento_Sales
@@ -6421,19 +6421,19 @@ Details,Gegevens,module,Magento_Catalog
 "Allow Guest Checkout","Afrekenen als gast toestaan",module,Magento_Checkout
 "Quote Lifetime (days)","Geldigheid winkelwagen (dagen)",module,Magento_Checkout
 "After Adding a Product Redirect to Shopping Cart","Winkelmandje tonen na toevoegen van een product",module,Magento_Checkout
-"My Cart Link","Link naar winkelwagen",module,Magento_Checkout
-"Display Cart Summary","Beknopte inhoud winkelwagen tonen",module,Magento_Checkout
+"My Cart Link",Winkelwagenlink,module,Magento_Checkout
+"Display Cart Summary","Winkelwagen-samenvatting weergave",module,Magento_Checkout
 "Shopping Cart Sidebar","Zijbalk winkelwagen",module,Magento_Checkout
 "Display Shopping Cart Sidebar","Zijbalk winkelwagen tonen",module,Magento_Checkout
 "Maximum Display Recently Added Item(s)","Maximum aantal recent toegevoegde producten",module,Magento_Checkout
 "Payment Failed Emails","E-mails over mislukte betaling",module,Magento_Checkout
 "Payment Failed Email Sender","Afzender Betaling Mislukt E-mail",module,Magento_Checkout
-"Payment Failed Email Receiver","Ontvanger e-mail bij mislukte betaling",module,Magento_Checkout
-"Payment Failed Template","Sjabloon mislukte betaling",module,Magento_Checkout
+"Payment Failed Email Receiver","Ontvanger Betaling Mislukt E-mail",module,Magento_Checkout
+"Payment Failed Template","Sjabloon Betaling Mislukt",module,Magento_Checkout
 "Email template chosen based on theme fallback when ""Default"" option is selected.","E-mail sjabloon dat gekozen wordt op basis van thema fallback als de optie ""Standaard"" is geselecteerd.",module,Magento_Checkout
-"Send Payment Failed Email Copy To","Bij een mislukte betaling een kopie e-mail sturen aan",module,Magento_Checkout
+"Send Payment Failed Email Copy To","Stuur kopie Betaling Mislukt e-mail aan",module,Magento_Checkout
 "Separate by "","".","Gescheiden door "","".",module,Magento_Checkout
-"Send Payment Failed Email Copy Method","Verstuur kopie e-mail als",module,Magento_Checkout
+"Send Payment Failed Email Copy Method","Verzendmethode voor kopie Betaling Mislukt e-mail",module,Magento_Checkout
 Summary,Samenvatting,module,Magento_Checkout
 "Order Total",Ordertotaal,module,Magento_Checkout
 "We'll send your order confirmation here.","We sturen de bevestiging van de bestelling hiernaar toe.",module,Magento_Checkout
@@ -6540,7 +6540,7 @@ Contacts,Contacten,module,Magento_Contact
 "Use HTTP Only","Alleen HTTP gebruiken",module,Magento_Cookie
 "Cookie Restriction Mode","Cookie restrictiemodus",module,Magento_Cookie
 "Cron (Scheduled Tasks)","Cron (Geplande taken)",module,Magento_Cron
-"For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set. All the times are in minutes.","Om correcte URL's te genereren tijdens cron moet u ervoor zorgen dat Web > Secure en onbeveiligde Base URL's expliciet zijn ingesteld. Alle tijden zijn in minuten.",module,Magento_Cron
+"For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set. All the times are in minutes.","Om correcte URL's te genereren tijdens cron, zorg er voor dat Web > Veilige en onbeveiligde Base URL's expliciet zijn ingesteld. Alle tijden zijn in minuten.",module,Magento_Cron
 "Generate Schedules Every","Maak planningen elke",module,Magento_Cron
 "Schedule Ahead for","Planning vooruit maken voor",module,Magento_Cron
 "Missed if Not Run Within","Gemist als niet uitgevoerd binnen",module,Magento_Cron
