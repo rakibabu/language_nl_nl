@@ -193,7 +193,7 @@ Submit,Bevestig,module,Magento_Backend
 Error,Foutmelding,module,Magento_Backend
 "You need more permissions to do this.","Moet heeft meer bevoegdheden nodig om dit te doen.",module,Magento_Backend
 "No search modules were registered","Er zijn geen zoekmodules geregistreerd.",module,Magento_Backend
-"Please make sure that all global admin search modules are installed and activated.","U moet ervoor zorgen dat alle globale admin zoekmodules zijn geïnstalleerd en geactiveerd.",module,Magento_Backend
+"Please make sure that all global admin search modules are installed and activated.","Zorg er voor dat alle globale admin zoekmodules zijn geïnstalleerd en geactiveerd.",module,Magento_Backend
 "You saved the account.","Het account werd opgeslagen.",module,Magento_Backend
 "An error occurred while saving account.","Er is een fout opgetreden bij het opslaan van dit account",module,Magento_Backend
 "You deleted the design change.","U heeft de design wijziging verwijderd.",module,Magento_Backend
@@ -399,7 +399,7 @@ Name,Naam,module,Magento_Bundle
 "Price Type",Prijstype,module,Magento_Bundle
 "Default Quantity","Standaard aantal",module,Magento_Bundle
 "User Defined","Door de gebruiker gedefinieerd",module,Magento_Bundle
-Ordered,Bestelt,module,Magento_Bundle
+Ordered,Besteld,module,Magento_Bundle
 Invoiced,Gefactureerd,module,Magento_Bundle
 Shipped,Verzonden,module,Magento_Bundle
 Refunded,Teruggestort,module,Magento_Bundle
@@ -1262,6 +1262,7 @@ Change,Verander,module,Magento_Customer
 "Contact Information",Contactgegevens,module,Magento_Customer
 "Change Password","Wachtwoord wijzigen",module,Magento_Customer
 Newsletters,Nieuwsbrieven,module,Magento_Customer
+or,of,module,Magento_Customer
 "Default Addresses","Standaard adres",module,Magento_Customer
 "Change Billing Address","Verander Factuuradres",module,Magento_Customer
 "You have no default billing address in your address book.","U heeft geen standaard betalingsadres in uw adresboek",module,Magento_Customer
@@ -1387,7 +1388,7 @@ From:,Van:,module,Magento_Downloadable
 To:,Tot:,module,Magento_Downloadable
 Message:,Bericht:,module,Magento_Downloadable
 Qty,Aantal,module,Magento_Downloadable
-Ordered,Bestelt,module,Magento_Downloadable
+Ordered,Besteld,module,Magento_Downloadable
 Shipped,Verzonden,module,Magento_Downloadable
 Canceled,Geannuleerd,module,Magento_Downloadable
 Refunded,Teruggestort,module,Magento_Downloadable
@@ -2819,7 +2820,7 @@ Canceled,Geannuleerd,module,Magento_Sales
 Paid,Betaald,module,Magento_Sales
 "We cannot register an existing invoice","We kunnen geen bestaande factuur registreren",module,Magento_Sales
 "Unknown Status","Onbekende status",module,Magento_Sales
-Ordered,Bestelt,module,Magento_Sales
+Ordered,Besteld,module,Magento_Sales
 Shipped,Verzonden,module,Magento_Sales
 Invoiced,Gefactureerd,module,Magento_Sales
 Backordered,"Wordt nageleverd",module,Magento_Sales
@@ -4089,18 +4090,18 @@ Details,Gegevens,module,Magento_Catalog
 "Require Customer To Be Logged In To Checkout","Verlang van de klant om ingelogd te zijn bij het afrekenen.",module,Magento_Checkout
 "Quote Lifetime (days)","Geldigheid winkelwagen (dagen)",module,Magento_Checkout
 "After Adding a Product Redirect to Shopping Cart","Winkelmandje tonen na toevoegen van een product",module,Magento_Checkout
-"My Cart Link","Link naar winkelwagen",module,Magento_Checkout
-"Display Cart Summary","Beknopte inhoud winkelwagen tonen",module,Magento_Checkout
+"My Cart Link",Winkelwagenlink,module,Magento_Checkout
+"Display Cart Summary","Winkelwagen-samenvatting weergave",module,Magento_Checkout
 "Shopping Cart Sidebar","Zijbalk winkelwagen",module,Magento_Checkout
 "Display Shopping Cart Sidebar","Zijbalk winkelwagen tonen",module,Magento_Checkout
 "Maximum Display Recently Added Item(s)","Maximum aantal recent toegevoegde producten",module,Magento_Checkout
 "Payment Failed Emails","E-mails over mislukte betaling",module,Magento_Checkout
 "Payment Failed Email Sender","Afzender Betaling Mislukt E-mail",module,Magento_Checkout
-"Payment Failed Email Receiver","Ontvanger e-mail bij mislukte betaling",module,Magento_Checkout
-"Payment Failed Template","Sjabloon mislukte betaling",module,Magento_Checkout
-"Send Payment Failed Email Copy To","Bij een mislukte betaling een kopie e-mail sturen aan",module,Magento_Checkout
+"Payment Failed Email Receiver","Ontvanger Betaling Mislukt E-mail",module,Magento_Checkout
+"Payment Failed Template","Sjabloon Betaling Mislukt",module,Magento_Checkout
+"Send Payment Failed Email Copy To","Stuur kopie Betaling Mislukt e-mail aan",module,Magento_Checkout
 "Separate by "","".","Gescheiden door "","".",module,Magento_Checkout
-"Send Payment Failed Email Copy Method","Verstuur kopie e-mail als",module,Magento_Checkout
+"Send Payment Failed Email Copy Method","Verzendmethode voor kopie Betaling Mislukt e-mail",module,Magento_Checkout
 "Shipping Address",Bezorgadres,module,Magento_Checkout
 "For delivery questions.","Voor vragen over de aflevering.",module,Magento_Checkout
 "Cart Subtotal","Winkelwagen subtotaal",module,Magento_Checkout
