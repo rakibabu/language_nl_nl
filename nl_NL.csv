@@ -1750,7 +1750,7 @@ Order,Bestelling,module,Magento_Customer
 Purchased,Gekocht,module,Magento_Customer
 "Bill-to Name",Factuurnaam,module,Magento_Customer
 "Ship-to Name",Verzendnaam,module,Magento_Customer
-"Order Total",Ordertotaal,module,Magento_Customer
+"Order Total",Totaal,module,Magento_Customer
 "Purchase Point",Verkooppunt,module,Magento_Customer
 "Customer View",Overzicht,module,Magento_Customer
 "There are no items in customer's shopping cart.","Er zijn geen producten in de winkelwagen van de klant.",module,Magento_Customer
@@ -1987,7 +1987,7 @@ Customer,Klant,module,Magento_Customer
 "Account Created on (%1):","Account aangemaakt op (%1):",module,Magento_Customer
 "Account Created in:","Account gemaakt in:",module,Magento_Customer
 "Customer Group:",Klantgroep:,module,Magento_Customer
-"Default Billing Address","Standaard Facturatie Adres",module,Magento_Customer
+"Default Billing Address","Standaard factuuradres",module,Magento_Customer
 "Sales Statistics",Verkoopstatistiek,module,Magento_Customer
 "Web Site",Website,module,Magento_Customer
 Store,Winkel,module,Magento_Customer
@@ -2005,7 +2005,7 @@ Newsletters,Nieuwsbrieven,module,Magento_Customer
 or,of,module,Magento_Customer
 "Default Addresses","Standaard adres",module,Magento_Customer
 "Change Billing Address","Verander Factuuradres",module,Magento_Customer
-"You have no default billing address in your address book.","U heeft geen standaard betalingsadres in uw adresboek",module,Magento_Customer
+"You have no default billing address in your address book.","U heeft geen standaard factuuradres in uw adresboek.",module,Magento_Customer
 "Change Shipping Address","Verzendadres wijzigen",module,Magento_Customer
 "You have no default shipping address in your address book.","U heeft geen standaard verzendadres in uw adresboek",module,Magento_Customer
 "Additional Address Entries","Additionele Adresgegevens",module,Magento_Customer
@@ -2914,7 +2914,7 @@ Preview,Voorbeeld,module,Magento_Newsletter
 "Template Styles","Template Stijl",module,Magento_Newsletter
 "No Templates Found","Geen sjablonen gevonden",module,Magento_Newsletter
 Added,Toegevoegd,module,Magento_Newsletter
-Updated,Ge-update,module,Magento_Newsletter
+Updated,Bijgewerkt,module,Magento_Newsletter
 Sender,Afzender,module,Magento_Newsletter
 "Template Type","Template soort",module,Magento_Newsletter
 Action,Actie,module,Magento_Newsletter
@@ -3074,7 +3074,7 @@ Email,E-mail,module,Magento_Paypal
 "Reference ID",Referentie-ID,module,Magento_Paypal
 Created,Aangemaakt,module,Magento_Paypal
 N/A,n.v.t.,module,Magento_Paypal
-Updated,Ge-update,module,Magento_Paypal
+Updated,Bijgewerkt,module,Magento_Paypal
 Back,Terug,module,Magento_Paypal
 "Are you sure you want to do this?","Weet u zeker dat u dit wilt doen?",module,Magento_Paypal
 Cancel,Annuleer,module,Magento_Paypal
@@ -3085,7 +3085,7 @@ Order,Bestelling,module,Magento_Paypal
 Purchased,Gekocht,module,Magento_Paypal
 "Bill-to Name",Factuurnaam,module,Magento_Paypal
 "Ship-to Name",Verzendnaam,module,Magento_Paypal
-"Order Total",Ordertotaal,module,Magento_Paypal
+"Order Total",Totaal,module,Magento_Paypal
 "Purchase Point",Verkooppunt,module,Magento_Paypal
 "Billing Agreement View","Bekijk incasso-overeenkomst",module,Magento_Paypal
 "PayPal Settlement Reports","PayPal Overeenstemmings Rapporten",module,Magento_Paypal
@@ -3259,7 +3259,7 @@ Error,Foutmelding,module,Magento_Paypal
 "Please Select",Selecteer,module,Magento_Paypal
 Customer,Klant,module,Magento_Paypal
 "Created At","Aangemaakt Op",module,Magento_Paypal
-"Updated At","Geüpdate op",module,Magento_Paypal
+"Updated At","Bijgewerkt op",module,Magento_Paypal
 ending,"eindigend op",module,Magento_Paypal
 expires,verloopt,module,Magento_Paypal
 here,hier,module,Magento_Paypal
@@ -3500,7 +3500,7 @@ Rate,Ratio,module,Magento_Reports
 Products,Producten,module,Magento_Reports
 Quantity,Aantal,module,Magento_Reports
 "Applied Coupon","Gebruikte kortingsbon",module,Magento_Reports
-Updated,Ge-update,module,Magento_Reports
+Updated,Bijgewerkt,module,Magento_Reports
 "IP Address","IP Adres",module,Magento_Reports
 Customers,Klanten,module,Magento_Reports
 "First Name",Voornaam,module,Magento_Reports
@@ -4303,7 +4303,7 @@ Apply,"Actie type",module,Magento_Sales
 Remove,Verwijder,module,Magento_Sales
 "Address Information","Adres Gegevens",module,Magento_Sales
 "Payment &amp; Shipping Information","Betaling- &amp; Verzending-informatie",module,Magento_Sales
-"Order Total",Ordertotaal,module,Magento_Sales
+"Order Total",Totaal,module,Magento_Sales
 "Order Currency:","Valuta van bestelling",module,Magento_Sales
 "Same As Billing Address","Zelfde als factuuradres",module,Magento_Sales
 "Select from existing customer addresses:","Selecteer uit bestaande klantenadressen",module,Magento_Sales
@@ -4683,7 +4683,7 @@ Action,Actie,module,Magento_Shipping
 "Shipping and Tracking Information","Bezorg en Tracking Informatie",module,Magento_Shipping
 "Track this shipment","Traceer deze bestelling",module,Magento_Shipping
 "Items Shipped","Verzonden producten",module,Magento_Shipping
-"Order Total",Ordertotaal,module,Magento_Shipping
+"Order Total",Totaal,module,Magento_Shipping
 "Shipment History","Levering Geschiedenis",module,Magento_Shipping
 "Qty Shipped","Verzonden aantal",module,Magento_Shipping
 "Print All Shipments","Alle verzendingen printen",module,Magento_Shipping
@@ -6435,7 +6435,7 @@ Details,Gegevens,module,Magento_Catalog
 "Separate by "","".","Gescheiden door "","".",module,Magento_Checkout
 "Send Payment Failed Email Copy Method","Verzendmethode voor kopie Betaling Mislukt e-mail",module,Magento_Checkout
 Summary,Samenvatting,module,Magento_Checkout
-"Order Total",Ordertotaal,module,Magento_Checkout
+"Order Total",Totaal,module,Magento_Checkout
 "We'll send your order confirmation here.","We sturen de bevestiging van de bestelling hiernaar toe.",module,Magento_Checkout
 Payment,Betaling,module,Magento_Checkout
 "Not yet calculated","Nog niet berekend",module,Magento_Checkout
@@ -6711,7 +6711,7 @@ Frequency,Frequentie,module,Magento_Directory
 Communications,Communicatie,module,Magento_Email
 "No Templates Found","Geen sjablonen gevonden",module,Magento_Email
 Added,Toegevoegd,module,Magento_Email
-Updated,Ge-update,module,Magento_Email
+Updated,Bijgewerkt,module,Magento_Email
 Subject,Onderwerp,module,Magento_Email
 "Template Type","Template soort",module,Magento_Email
 Action,Actie,module,Magento_Email
@@ -6779,7 +6779,7 @@ Summary,Samenvatting,module,Magento_ImportExport
 "Change indexer mode","Indexeer modus wijzigen",module,Magento_Indexer
 Description,Omschrijving,module,Magento_Indexer
 Mode,Type,module,Magento_Indexer
-Updated,Ge-update,module,Magento_Indexer
+Updated,Bijgewerkt,module,Magento_Indexer
 Extensions,Uitbreidingen,module,Magento_Integration
 "Cleanup Settings",Opruim-instellingen,module,Magento_Integration
 "Cleanup Probability",Opruim-waarschijlijkheid,module,Magento_Integration
@@ -7056,7 +7056,7 @@ Carts,Winkelwagens,module,Magento_Quote
 "By Customers","Per klant",module,Magento_Reports
 "By Products","Per product",module,Magento_Reports
 Refunds,Terugbetalingen,module,Magento_Reports
-"Order Total",Ordertotaal,module,Magento_Reports
+"Order Total",Totaal,module,Magento_Reports
 "Order Count",Orderaantal,module,Magento_Reports
 New,Nieuw,module,Magento_Reports
 Ordered,Besteld,module,Magento_Reports
@@ -7390,7 +7390,7 @@ Rate,Ratio,module,Magento_Tax
 "(Incl. Tax)","(Incl. BTW)",module,Magento_Tax
 "Order Total Excl. Tax","Totaal (excl. BTW)",module,Magento_Tax
 "Order Total Incl. Tax","Totaal (incl. BTW)",module,Magento_Tax
-"Order Total",Ordertotaal,module,Magento_Tax
+"Order Total",Totaal,module,Magento_Tax
 "Your credit card will be charged for","Uw creditcard zal in rekening gebracht worden voor",module,Magento_Tax
 Empty,Leeg,module,Magento_Theme
 "1 column","1 kolom",module,Magento_Theme
