@@ -2291,7 +2291,7 @@ Reports,Rapportages,module,Magento_Reports
 "Order Total Report","Totale bestelling rapportage",module,Magento_Reports
 "Downloads Report","Downloads verslag",module,Magento_Reports
 "Low Stock","Lage voorraad",module,Magento_Reports
-"Low Stock Report","Lage voorraad rapportage",module,Magento_Reports
+"Low Stock Report","Rapportage weinig voorraad",module,Magento_Reports
 "Ordered Products Report","Bestelde producten rapportage",module,Magento_Reports
 "Products Most Viewed Report","Rapportage meest bekeken producten",module,Magento_Reports
 "Product Views Report","Bekeken producten rapportage",module,Magento_Reports
