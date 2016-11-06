@@ -2115,8 +2115,8 @@ Unlimited,Onbeperkt,module,Magento_Downloadable
 "Something went wrong while getting the requested content.","Er ging iets mis tijdens het opvragen van de inhoud.",module,Magento_Downloadable
 "My Downloadable Products",Downloads,module,Magento_Downloadable
 "We can't find the link you requested.","Wij kunnen de link die u hebt aangevraagd niet vinden.",module,Magento_Downloadable
-"Please sign in to download your product or purchase <a href=""%1"">%2</a>.","Meldt u aan om uw product te downloaden <a href=""%1"">%2</a>.",module,Magento_Downloadable
-"Please sign in to download your product.","Meldt u aan om uw product te downloaden.",module,Magento_Downloadable
+"Please sign in to download your product or purchase <a href=""%1"">%2</a>.","Log in om uw product te downloaden <a href=""%1"">%2</a>.",module,Magento_Downloadable
+"Please sign in to download your product.","Log in om uw product te downloaden.",module,Magento_Downloadable
 "The link has expired.","Deze link is verlopen",module,Magento_Downloadable
 "The link is not available.","Deze link is niet beschikbaar",module,Magento_Downloadable
 "Sorry, there was an error getting requested content. Please contact the store owner.","Er ging iets fout bij het ophalen van de gegevens, neem contact op met de shop eigenaar.",module,Magento_Downloadable
@@ -2789,7 +2789,7 @@ Synchronizing...,Synchroniseren...,module,Magento_MediaStorage
 "Unable to save file: %1","Niet in staat om het bestand op te slaan: %1",module,Magento_MediaStorage
 "To see product price, add this item to your cart. You can always remove it later.","Om de prijs van het product te zien, voeg dit product toe aan uw winkelwagen. U kunt het later altijd verwijderen.",module,Magento_Msrp
 "See price before order confirmation.","Bekijk prijs voor bestelbevestiging.",module,Magento_Msrp
-"On Gesture","Op verzoek",module,Magento_Msrp
+"On Gesture","Op gebaar",module,Magento_Msrp
 "In Cart","In winkelwagen",module,Magento_Msrp
 "Before Order Confirmation","Voorafgaand aan orderbevestiging",module,Magento_Msrp
 "Use config","Gebruik configuratie",module,Magento_Msrp
