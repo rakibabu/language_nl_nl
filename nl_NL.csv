@@ -5396,11 +5396,12 @@ Message,Bericht,module,Magento_Webapi
 "Add Tax","BTW toevoegen",module,Magento_Weee
 "Delete Tax","BTW Verwijderen",module,Magento_Weee
 "All Websites","Alle Websites",module,Magento_Weee
+FPT,Verwijderingsbijdrage,module,Magento_Weee
 "You must set unique country-state combinations within the same fixed product tax","U moet unieke land-staat combinaties instellen in in dezelfde fixed product tax",module,Magento_Weee
-"Including FPT only","Inclusief FPT",module,Magento_Weee
-"Including FPT and FPT description","Inclusief FPT en FPT omschrijving",module,Magento_Weee
-"Excluding FPT. Including FPT description and final price","Exclusief FPT. Met inbegrip van FPT beschrijving en definitieve prijs",module,Magento_Weee
-"Excluding FPT","Exclusief FPT",module,Magento_Weee
+"Including FPT only","Inclusief Verwijderingsbijdrage",module,Magento_Weee
+"Including FPT and FPT description","Inclusief Verwijderingsbijdrage en omschrijving",module,Magento_Weee
+"Excluding FPT. Including FPT description and final price","Exclusief verwijderingsbijdrage. Inclusief beschrijving verwijderingsbijdrage en definitieve prijs",module,Magento_Weee
+"Excluding FPT","Exclusief verwijderingsbijdrage",module,Magento_Weee
 "Fixed Product Tax","Product BTW-toeslagen",module,Magento_Weee
 Country/State,Land/Provincie,module,Magento_Weee
 Tax,BTW,module,Magento_Weee
@@ -5693,11 +5694,11 @@ Delete,Verwijder,module,Magento_GiftMessage
 "Credit memo for your %store_name order","Creditfactuur voor uw %store_name bestelling",module,Magento_Sales
 "Thank you for your order from %store_name.","Bedankt voor uw bestelling bij %store_name.",module,Magento_Sales
 "You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","U kunt de status van uw bestelling controleren door in te <a href=""%account_url"">loggen op uw account</a>.",module,Magento_Sales
-"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>","Indien u vragen heeft over uw bestelling, kan u ons emailen op <a href=""mailto:%store_email"">%store_email</a>",module,Magento_Sales
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>","Indien u vragen heeft over uw bestelling kunt u ons e-mailen op <a href=""mailto:%store_email"">%store_email</a>",module,Magento_Sales
 "or call us at <a href=""tel:%store_phone"">%store_phone</a>","of telefonisch op <a href=""tel:%store_phone"">%store_phone</a>",module,Magento_Sales
 "Our hours are <span class=""no-link"">%store_hours</span>.","Onze openinsuren zijn <span class=""no-link"">%store_hours</span>.",module,Magento_Sales
 "Your Credit Memo #%creditmemo_id for Order #%order_id","Uw creditfactuur #%creditmemo_id voor bestelling #%order_id",module,Magento_Sales
-"Billing Info",Facturering-Info,module,Magento_Sales
+"Billing Info",Factuuradres,module,Magento_Sales
 "Shipping Info",Verzendinformatie,module,Magento_Sales
 "Update to your %store_name credit memo","Update van uw %store_name creditfactuur",module,Magento_Sales
 "Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Uw bestelling #%increment_id werd geupdate met volgende status <strong>%order_status</strong>.",module,Magento_Sales
@@ -5775,10 +5776,10 @@ Password:,Wachtwoord:,theme,frontend/Magento/luma
 "Credit memo for your %store_name order","Creditfactuur voor uw %store_name bestelling",theme,frontend/Magento/luma
 "Thank you for your order from %store_name.","Bedankt voor uw bestelling bij %store_name.",theme,frontend/Magento/luma
 "You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","U kunt de status van uw bestelling controleren door in te <a href=""%account_url"">loggen op uw account</a>.",theme,frontend/Magento/luma
-"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Indien u vragen heeft over uw bestelling, kan u ons email op <a href=""mailto:%store_email"">%store_email</a>.",theme,frontend/Magento/luma
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Indien u vragen heeft over uw bestelling kunt u ons e-mailen op <a href=""mailto:%store_email"">%store_email</a>.",theme,frontend/Magento/luma
 "Your Credit Memo #%creditmemo_id for Order #%order_id","Uw creditfactuur #%creditmemo_id voor bestelling #%order_id",theme,frontend/Magento/luma
-"Billing Info",Facturering-Info,theme,frontend/Magento/luma
-"Shipping Info","Verzending Info",theme,frontend/Magento/luma
+"Billing Info",Factuuradres,theme,frontend/Magento/luma
+"Shipping Info",Verzendadres,theme,frontend/Magento/luma
 "Payment Method",Betaalmethode,theme,frontend/Magento/luma
 "Shipping Method",Verzendmethode,theme,frontend/Magento/luma
 "Update to your %store_name credit memo","Update van uw %store_name creditfactuur",theme,frontend/Magento/luma
@@ -5787,7 +5788,7 @@ Password:,Wachtwoord:,theme,frontend/Magento/luma
 "Your Invoice #%invoice_id for Order #%order_id","Uw factuur #%invoice_id voor bestelling #%order_id",theme,frontend/Magento/luma
 "Update to your %store_name invoice","Update van uw %store_name factuur",theme,frontend/Magento/luma
 "Your %store_name order confirmation","Uw %store_name bestelbevestiging",theme,frontend/Magento/luma
-"Once your package ships we will send you a tracking number.","Zodra we uw pakket verzenden, sturen wij u een tracking en tracing-nummer.",theme,frontend/Magento/luma
+"Once your package ships we will send you a tracking number.","Zodra we uw pakket verzenden sturen wij u een Track- en Tracenummer.",theme,frontend/Magento/luma
 "Your Order <span class=""no-link"">#%increment_id</span>","Uw bestelling <span class=""no-link"">#%increment_id</span>",theme,frontend/Magento/luma
 "Placed on <span class=""no-link"">%created_at</span>","Geplaatst op <span class=""no-link"">%created_at</span>",theme,frontend/Magento/luma
 "Update to your %store_name order","Update van uw %store_name bestelling",theme,frontend/Magento/luma
@@ -7530,12 +7531,12 @@ Name,Naam,module,Magento_Variable
 "Web Services Configuration","Web Services configuratie",module,Magento_Webapi
 "REST and SOAP configurations, generated WSDL file","Door REST en SOAP configuraties gegenereerd WSDL bestand",module,Magento_Webapi
 "Fixed Product Taxes","Product BTW-toeslagen",module,Magento_Weee
-"Enable FPT","Schakel FPT in",module,Magento_Weee
+"Enable FPT","Verwijderingsbijdrage inschakelen",module,Magento_Weee
 "Display Prices In Product Lists","Prijzen tonen in productoverzicht",module,Magento_Weee
 "Display Prices On Product View Page","Prijzen tonen op product pagina",module,Magento_Weee
 "Display Prices In Sales Modules","Prijzen Tonen in verkoop modules",module,Magento_Weee
 "Display Prices In Emails","Toon prijzen in Email",module,Magento_Weee
-"Apply Tax To FPT","BTW toepassen op Product BTW-toeslagen",module,Magento_Weee
+"Apply Tax To FPT","BTW toepassen op Verwijderingsbijdrage",module,Magento_Weee
 "Include FPT In Subtotal","Inclusief FPT in subtotaal",module,Magento_Weee
 "Orders and Returns","Bestellingen en Retouren",module,Magento_Widget
 "Orders and Returns Search Form","Bestellingen en terugsturingen zoekformulier",module,Magento_Widget
