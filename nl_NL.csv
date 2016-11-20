@@ -1526,7 +1526,7 @@ Specified,Gespecificeerd,module,Magento_Config
 %2","Ongeldige XML in het bestand %1:%2",module,Magento_Config
 "some prefix","een voorvoegsel",module,Magento_Config
 "element hint","element tip",module,Magento_Config
-"element comment","element commentaar",module,Magento_Config
+"element comment","element opmerking",module,Magento_Config
 "Add after","Toevoegen na",module,Magento_Config
 Delete,Verwijder,module,Magento_Config
 "Current Configuration Scope:","Scope huidige configuratie",module,Magento_Config
@@ -3786,7 +3786,7 @@ Billing,Facturatie,module,Magento_Sales
 "Edit Order %1 %2 Address","Wijzig bestelling %1 %2 adres",module,Magento_Sales
 "Order Address Information","Bestelling adres-informatie",module,Magento_Sales
 "Please correct the parent block for this block.","Corrigeer het bovenliggend blok van dit blok.",module,Magento_Sales
-"Submit Comment","Bevestig Opmerking",module,Magento_Sales
+"Submit Comment","Opmerking opslaan",module,Magento_Sales
 "Submit Order","Bestelling inboeken",module,Magento_Sales
 "Are you sure you want to cancel this order?","Weet u zeker dat u deze bestelling wilt annuleren?",module,Magento_Sales
 Cancel,Annuleer,module,Magento_Sales
@@ -3914,11 +3914,11 @@ Reorder,"Opnieuw bestellen",module,Magento_Sales
 "Save Gift Message","Kadobericht opslaan",module,Magento_Sales
 "Order Credit Memos","Creditfacturen bij bestelling",module,Magento_Sales
 "Credit memo #%1 created","Creditfactuur #%1 gemaakt",module,Magento_Sales
-"Credit memo #%1 comment added","Creditfactuur #%1 nieuwe reactie",module,Magento_Sales
+"Credit memo #%1 comment added","Creditfactuur #%1 opmerking toegevoegd",module,Magento_Sales
 "Shipment #%1 created","Verzending %1 aangemaakt",module,Magento_Sales
-"Shipment #%1 comment added","Verzending #%1 nieuwe reactie",module,Magento_Sales
+"Shipment #%1 comment added","Verzending #%1 opmerking toegevoegd",module,Magento_Sales
 "Invoice #%1 created","Factuur #%1 aangemaakt",module,Magento_Sales
-"Invoice #%1 comment added","Factuur #%1 nieuwe reactie",module,Magento_Sales
+"Invoice #%1 comment added","Factuur #%1 opmerking toegevoegd",module,Magento_Sales
 "Tracking number %1 for %2 assigned","Tracking nummer %1 voor %2 toegewezen",module,Magento_Sales
 "Comments History",Bestelling-notities,module,Magento_Sales
 "Order History",Bestelgeschiedenis,module,Magento_Sales
@@ -3977,7 +3977,7 @@ Sales,Verkopen,module,Magento_Sales
 "New Order","Nieuwe bestelling",module,Magento_Sales
 "You created the order.","U heeft de order aangemaakt.",module,Magento_Sales
 "Order saving error: %1","Fout tijdens opslaan van order: %1",module,Magento_Sales
-"Cannot add new comment.","Kan geen nieuwe reactie toevoegen",module,Magento_Sales
+"Cannot add new comment.","Kan nieuwe opmerking niet toevoegen.",module,Magento_Sales
 "The credit memo has been canceled.","De creditfactuur is geannuleerd.",module,Magento_Sales
 "Credit memo has not been canceled.","Creditfactuur is niet geannuleerd.",module,Magento_Sales
 "New Memo for #%1","Nieuwe creditfactuur voor #%1",module,Magento_Sales
@@ -4193,7 +4193,7 @@ State/Province,Provincie,module,Magento_Sales
 "Order #%1 created at %2","Bestelling #%1 aangemaakt op %2",module,Magento_Sales
 "Details for %1 #%2","Details voor %1 #%2",module,Magento_Sales
 "Notified Date: %1","Datum kennisgeving: %1",module,Magento_Sales
-"Comment: %1<br/>","Notitie: %1<br />",module,Magento_Sales
+"Comment: %1<br/>","Opmerking: %1<br />",module,Magento_Sales
 "Current Status: %1<br/>","Huidige status: %1<br />",module,Magento_Sales
 "Total: %1<br/>","Totaal: %1 <br/>",module,Magento_Sales
 "Order # %1 Notification(s)","Bestelling # %1 kennisgeving(en)",module,Magento_Sales
@@ -4218,12 +4218,12 @@ New,Nieuw,module,Magento_Sales
 View,Bekijk,module,Magento_Sales
 "Group was removed","Groep is verwijderd",module,Magento_Sales
 "Changing address information will not recalculate shipping, tax or other order amount.","Het wijzigen van adresinformatie zal de afleveringskosten, btw of andere bedragen niet herberekenen.",module,Magento_Sales
-"Comment Text","commentaar tekst",module,Magento_Sales
+"Comment Text","Tekst opmerking",module,Magento_Sales
 "Notify Customer by Email","Bericht klant per email",module,Magento_Sales
 "Visible on Storefront","Zichtbaar in Winkeletalage",module,Magento_Sales
 Customer,Klant,module,Magento_Sales
 Notified,Genotificeerd,module,Magento_Sales
-"Not Notified","Niet genotificeerd",module,Magento_Sales
+"Not Notified","Niet ge-e-maild",module,Magento_Sales
 "No Payment Methods","Geen betaalmethodes",module,Magento_Sales
 "Order Comments",Bestellingsnotities,module,Magento_Sales
 "Apply Coupon Code","Pas kortingscode toe",module,Magento_Sales
@@ -4279,7 +4279,7 @@ Refresh,Vernieuwen,module,Magento_Sales
 "Discount Amount",Korting,module,Magento_Sales
 "Row Total",Rijtotaal,module,Magento_Sales
 "No Items To Refund","Geen artikelen voor terugbetaling",module,Magento_Sales
-"Credit Memo Comments","Notities creditfactuur",module,Magento_Sales
+"Credit Memo Comments","Opmerkingen creditfactuur",module,Magento_Sales
 "Refund Totals","Totaal terugbetalingen",module,Magento_Sales
 "Email Copy of Credit Memo","E-mail kopie van creditfactuur",module,Magento_Sales
 "Please enter a positive number in this field.","Vul een positief getal invullen in dit veld.",module,Magento_Sales
@@ -4300,7 +4300,7 @@ Message:,Bericht:,module,Magento_Sales
 "Invoice and shipment types do not match for some items on this order. You can create a shipment only after creating the invoice.","Er zijn verschillende facuur en verzendingstypes voor bepaalde producten voor deze bestelling. U kan een verzending enkel aanmaken na het aanmaken van de factuur.",module,Magento_Sales
 "Qty to Invoice","Aantal te factureren",module,Magento_Sales
 "Invoice History",Factuur-geschiedenis,module,Magento_Sales
-"Invoice Comments","Notities factuur",module,Magento_Sales
+"Invoice Comments","Opmerkingen factuur",module,Magento_Sales
 "Invoice Totals",Factuur-totalen,module,Magento_Sales
 Amount,Aantal,module,Magento_Sales
 "Capture Online","Betaling door betaalmethode verwerken",module,Magento_Sales
@@ -4313,7 +4313,7 @@ Amount,Aantal,module,Magento_Sales
 "From Name","Van naam",module,Magento_Sales
 "To Name","Aan naam",module,Magento_Sales
 Status,status,module,Magento_Sales
-Comment,Commentaar,module,Magento_Sales
+Comment,Opmerking,module,Magento_Sales
 "Notification Not Applicable","notificatie niet van toepassing",module,Magento_Sales
 "Order & Account Information","Bestelling & Account informatie",module,Magento_Sales
 "The order confirmation email was sent","E-mail bestelbevestiging is verzonden",module,Magento_Sales
@@ -4331,7 +4331,7 @@ Comment,Commentaar,module,Magento_Sales
 "Original Price","Oorspronkelijke prijs",module,Magento_Sales
 "Tax Percent",BTW-percentage,module,Magento_Sales
 "Notes for this Order","Notities voor deze Order",module,Magento_Sales
-"Comment added","Reactie toegevoegd",module,Magento_Sales
+"Comment added","Opmerking toegevoegd",module,Magento_Sales
 "Transaction Data",Transactiedatum,module,Magento_Sales
 "Transaction ID",Transactie-ID,module,Magento_Sales
 "Parent Transaction ID","Bovenliggende transactie-ID",module,Magento_Sales
@@ -4469,7 +4469,7 @@ Add,Toevoegen,module,Magento_Shipping
 "Back to My Orders","Terug naar bestellingsoverzicht",module,Magento_Shipping
 "View Another Order","Bekijk een andere bestelling",module,Magento_Shipping
 "Please enter a comment.","Voer een opmerking in.",module,Magento_Shipping
-"Cannot add new comment.","Kan geen nieuwe reactie toevoegen",module,Magento_Shipping
+"Cannot add new comment.","Kan nieuwe opmerking niet toevoegen.",module,Magento_Shipping
 "Please specify a carrier.","Geef een vervoerder op.",module,Magento_Shipping
 "Please enter a tracking number.","Voer een trackingnummer in.",module,Magento_Shipping
 Shipments,Verzendingen,module,Magento_Shipping
@@ -4538,8 +4538,8 @@ message,bericht,module,Magento_Shipping
 "Qty to Ship","Aantal te verzenden",module,Magento_Shipping
 Ship,Verzenden,module,Magento_Shipping
 "Shipment Total","Verzending totaal",module,Magento_Shipping
-"Shipment Comments","Notities verzending",module,Magento_Shipping
-"Comment Text","commentaar tekst",module,Magento_Shipping
+"Shipment Comments","Opmerkingen verzending",module,Magento_Shipping
+"Comment Text","Tekst opmerking",module,Magento_Shipping
 "Shipment Options","Verzending opties",module,Magento_Shipping
 "Create Shipping Label","Verzendlabel maken",module,Magento_Shipping
 "Append Comments","Opmerkingen bijvoegen",module,Magento_Shipping
@@ -5236,11 +5236,12 @@ Message,Bericht,module,Magento_Webapi
 "Add Tax","BTW toevoegen",module,Magento_Weee
 "Delete Tax","BTW Verwijderen",module,Magento_Weee
 "All Websites","Alle Websites",module,Magento_Weee
+FPT,Verwijderingsbijdrage,module,Magento_Weee
 "We found a duplicate of website, country and state fields for a fixed product tax","We vonden een duplicaat van de website, land en staat velden voor een vaste product belasting",module,Magento_Weee
-"Including FPT only","Inclusief FPT",module,Magento_Weee
-"Including FPT and FPT description","Inclusief FPT en FPT omschrijving",module,Magento_Weee
-"Excluding FPT. Including FPT description and final price","Exclusief FPT. Met inbegrip van FPT beschrijving en definitieve prijs",module,Magento_Weee
-"Excluding FPT","Exclusief FPT",module,Magento_Weee
+"Including FPT only","Inclusief Verwijderingsbijdrage",module,Magento_Weee
+"Including FPT and FPT description","Inclusief Verwijderingsbijdrage en omschrijving",module,Magento_Weee
+"Excluding FPT. Including FPT description and final price","Exclusief verwijderingsbijdrage. Inclusief beschrijving verwijderingsbijdrage en definitieve prijs",module,Magento_Weee
+"Excluding FPT","Exclusief verwijderingsbijdrage",module,Magento_Weee
 "Fixed Product Tax","Product BTW-toeslagen",module,Magento_Weee
 "Excl. Tax","Excl. BTW",module,Magento_Weee
 Total,Totaal,module,Magento_Weee
@@ -5330,7 +5331,7 @@ Page,Pagina,module,Magento_Widget
 "We can't create the Wish List right now.","We kunnen de verlanglijst momenteel niet aanmaken.",module,Magento_Wishlist
 "%1 items","%1 producten",module,Magento_Wishlist
 "1 item","1 product",module,Magento_Wishlist
-Comment,Commentaar,module,Magento_Wishlist
+Comment,Opmerking,module,Magento_Wishlist
 "Display number of items in wish list","Toon aantal items in verlanglijst",module,Magento_Wishlist
 "Display item quantities","Artikel aantallen tonen",module,Magento_Wishlist
 "An item option with code %1 already exists.","Een product optie met code %1 bestaad reeds.",module,Magento_Wishlist
@@ -5435,11 +5436,11 @@ Password:,Wachtwoord:,module,Magento_Customer
 "Product alerts cron warnings","Product notificaties cron waarschuwingen",module,Magento_ProductAlert
 "Thank you for your order from %store_name.","Bedankt voor uw bestelling bij %store_name.",module,Magento_Sales
 "You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","U kunt de status van uw bestelling controleren door in te <a href=""%account_url"">loggen op uw account</a>.",module,Magento_Sales
-"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>","Indien u vragen heeft over uw bestelling, kan u ons emailen op <a href=""mailto:%store_email"">%store_email</a>",module,Magento_Sales
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>","Indien u vragen heeft over uw bestelling kunt u ons e-mailen op <a href=""mailto:%store_email"">%store_email</a>",module,Magento_Sales
 "or call us at <a href=""tel:%store_phone"">%store_phone</a>","of telefonisch op <a href=""tel:%store_phone"">%store_phone</a>",module,Magento_Sales
 "Our hours are <span class=""no-link"">%store_hours</span>.","Onze openinsuren zijn <span class=""no-link"">%store_hours</span>.",module,Magento_Sales
 "Your Credit Memo #%creditmemo_id for Order #%order_id","Uw creditfactuur #%creditmemo_id voor bestelling #%order_id",module,Magento_Sales
-"Billing Info",Facturering-Info,module,Magento_Sales
+"Billing Info",Factuuradres,module,Magento_Sales
 "Shipping Info",Afleveringsinformatie,module,Magento_Sales
 "Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Uw bestelling #%increment_id werd geupdate met volgende status <strong>%order_status</strong>.",module,Magento_Sales
 "Your Invoice #%invoice_id for Order #%order_id","Uw factuur #%invoice_id voor bestelling #%order_id",module,Magento_Sales
@@ -5482,15 +5483,15 @@ Password:,Wachtwoord:,theme,frontend/Magento/luma
 "Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Openingsuren:<br /><span class=""no-link"">%store_hours</span>.",theme,frontend/Magento/luma
 "Thank you for your order from %store_name.","Bedankt voor uw bestelling bij %store_name.",theme,frontend/Magento/luma
 "You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","U kunt de status van uw bestelling controleren door in te <a href=""%account_url"">loggen op uw account</a>.",theme,frontend/Magento/luma
-"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Indien u vragen heeft over uw bestelling, kan u ons email op <a href=""mailto:%store_email"">%store_email</a>.",theme,frontend/Magento/luma
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Indien u vragen heeft over uw bestelling kunt u ons e-mailen op <a href=""mailto:%store_email"">%store_email</a>.",theme,frontend/Magento/luma
 "Your Credit Memo #%creditmemo_id for Order #%order_id","Uw creditfactuur #%creditmemo_id voor bestelling #%order_id",theme,frontend/Magento/luma
-"Billing Info",Facturering-Info,theme,frontend/Magento/luma
-"Shipping Info","Verzending Info",theme,frontend/Magento/luma
+"Billing Info",Factuuradres,theme,frontend/Magento/luma
+"Shipping Info",Verzendadres,theme,frontend/Magento/luma
 "Payment Method",Betaalmethode,theme,frontend/Magento/luma
 "Shipping Method",Verzendmethode,theme,frontend/Magento/luma
 "Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Uw bestelling #%increment_id werd geupdate met volgende status <strong>%order_status</strong>.",theme,frontend/Magento/luma
 "Your Invoice #%invoice_id for Order #%order_id","Uw factuur #%invoice_id voor bestelling #%order_id",theme,frontend/Magento/luma
-"Once your package ships we will send you a tracking number.","Zodra we uw pakket verzenden, sturen wij u een tracking en tracing-nummer.",theme,frontend/Magento/luma
+"Once your package ships we will send you a tracking number.","Zodra we uw pakket verzenden sturen wij u een Track- en Tracenummer.",theme,frontend/Magento/luma
 "Your Order <span class=""no-link"">#%increment_id</span>","Uw bestelling <span class=""no-link"">#%increment_id</span>",theme,frontend/Magento/luma
 "Placed on <span class=""no-link"">%created_at</span>","Geplaatst op <span class=""no-link"">%created_at</span>",theme,frontend/Magento/luma
 "Your shipping confirmation is below. Thank you again for your business.","U vind uw verzendbevestiging hieronder.",theme,frontend/Magento/luma
@@ -6628,7 +6629,7 @@ Enabled,Ingeschakeld,module,Magento_Sales
 Comma-separated,"Komma gescheiden",module,Magento_Sales
 "Send Order Email Copy Method","Manier om kopie van bestelling te mailen",module,Magento_Sales
 "Order Comment Email Sender","Afzender Bestelling Opmerking E-mail",module,Magento_Sales
-"Order Comment Email Template","Sjabloon e-mail met bestellingsnotitie",module,Magento_Sales
+"Order Comment Email Template","Bestelling opmerking E-mailtemplate",module,Magento_Sales
 "Order Comment Email Template for Guest","Sjabloon e-mail met bestellingsnotitie voor gast",module,Magento_Sales
 "Send Order Comment Email Copy To","Kopie van bestellingsnotitie mailen aan",module,Magento_Sales
 "Send Order Comments Email Copy Method","Stuur bestel-opmerkingen e-mail kopie methode",module,Magento_Sales
@@ -6638,7 +6639,7 @@ Comma-separated,"Komma gescheiden",module,Magento_Sales
 "Send Invoice Email Copy To","Kopie van factuur mailen aan",module,Magento_Sales
 "Send Invoice Email Copy Method","Stuur factuur-opmerkingen e-mail methode",module,Magento_Sales
 "Invoice Comment Email Sender","Afzender Factuur Opmerking E-mail",module,Magento_Sales
-"Invoice Comment Email Template","E-mail-sjabloon van factuuurnotitie",module,Magento_Sales
+"Invoice Comment Email Template","Factuur-opmerking e-mailtemplate",module,Magento_Sales
 "Invoice Comment Email Template for Guest","E-mail-sjabloon factuurnotitie voor gast",module,Magento_Sales
 "Send Invoice Comment Email Copy To","Kopie van factuurnotitie mailen aan",module,Magento_Sales
 "Send Invoice Comments Email Copy Method","Stuur factuur-opmerkingen e-mail kopie methode",module,Magento_Sales
@@ -6648,7 +6649,7 @@ Shipment,Verzending,module,Magento_Sales
 "Shipment Email Template for Guest","Sjabloon e-mail verzending voor gast",module,Magento_Sales
 "Send Shipment Email Copy To","Kopie verzending mailen aan",module,Magento_Sales
 "Send Shipment Email Copy Method","Stuur verzending e-mail kopie methode",module,Magento_Sales
-"Shipment Comments","Notities verzending",module,Magento_Sales
+"Shipment Comments","Opmerkingen verzending",module,Magento_Sales
 "Shipment Comment Email Sender","Afzender Verzending Opmerking E-mail",module,Magento_Sales
 "Shipment Comment Email Template","Sjabloon e-mail verzendnotitie",module,Magento_Sales
 "Shipment Comment Email Template for Guest","Sjabloon e-mail verzendnotitie voor gast",module,Magento_Sales
@@ -6925,12 +6926,12 @@ Name,Naam,module,Magento_Variable
 "Web Services Configuration","Web Services configuratie",module,Magento_Webapi
 "REST and SOAP configurations, generated WSDL file.","REST en SOAP configuraties, gegenereerd WSDL bestand.",module,Magento_Webapi
 "Fixed Product Taxes","Product BTW-toeslagen",module,Magento_Weee
-"Enable FPT","Schakel FPT in",module,Magento_Weee
+"Enable FPT","Verwijderingsbijdrage inschakelen",module,Magento_Weee
 "Display Prices In Product Lists","Prijzen tonen in productoverzicht",module,Magento_Weee
 "Display Prices On Product View Page","Prijzen tonen op product pagina",module,Magento_Weee
 "Display Prices In Sales Modules","Prijzen Tonen in verkoop modules",module,Magento_Weee
 "Display Prices In Emails","Toon prijzen in Email",module,Magento_Weee
-"Apply Tax To FPT","BTW toepassen op Product BTW-toeslagen",module,Magento_Weee
+"Apply Tax To FPT","BTW toepassen op Verwijderingsbijdrage",module,Magento_Weee
 "Include FPT In Subtotal","Inclusief FPT in subtotaal",module,Magento_Weee
 "Orders and Returns","Bestellingen en Retouren",module,Magento_Widget
 "Orders and Returns Search Form","Bestellingen en terugsturingen zoekformulier",module,Magento_Widget
