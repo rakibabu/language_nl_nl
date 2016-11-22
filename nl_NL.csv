@@ -331,6 +331,7 @@ Country,Land,module,Magento_Braintree
 "Credit card type is not allowed for this payment method.","Deze creditcard is niet toegestaan voor deze betaalwijze.",module,Magento_Braintree
 "Selected payment type is not allowed for billing country.","Geselecteerde betaalmethode is niet toegestaan voor het land geselecteerd bij het factuuradres.",module,Magento_Braintree
 "Please try again later","Probeer later opnieuw",module,Magento_Braintree
+"This refund is for a partial amount but the Transaction has not settled.","Deze terugstorting betreft een gedeeltelijk bedrag, maar de transactie is nog niet geheel afgehandeld.",module,Magento_Braintree
 "Please wait 24 hours before trying to issue a partial refund.","Wacht 24 uur voordat u een gedeeltelijke terugbetaling aanvraagt.",module,Magento_Braintree
 "Some transactions are already settled or voided and cannot be voided.","Enkele transacties zijn al verrekend of vervallen en kunnen dus niet worden ongeldig worden gemaakt.",module,Magento_Braintree
 "Invalid Customer ID provided","Ongeldige klant ID verstrekt",module,Magento_Braintree
