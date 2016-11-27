@@ -5444,7 +5444,7 @@ Password:,Wachtwoord:,module,Magento_Customer
 "Shipping Info",Afleveringsinformatie,module,Magento_Sales
 "Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Uw bestelling #%increment_id werd geupdate met volgende status <strong>%order_status</strong>.",module,Magento_Sales
 "Your Invoice #%invoice_id for Order #%order_id","Uw factuur #%invoice_id voor bestelling #%order_id",module,Magento_Sales
-"Once your package ships we will send you a tracking number.","Zodra we uw pakket verzenden, sturen wij u een tracking en tracing-nummer.",module,Magento_Sales
+"Once your package ships we will send you a tracking number.","Zodra we uw pakket verzenden, sturen wij u een Track- en Tracenummer.",module,Magento_Sales
 "Your Order <span class=""no-link"">#%increment_id</span>","Uw bestelling <span class=""no-link"">#%increment_id</span>",module,Magento_Sales
 "Placed on <span class=""no-link"">%created_at</span>","Geplaatst op <span class=""no-link"">%created_at</span>",module,Magento_Sales
 "Once your package ships we will send an email with a link to track your order.","Zodra uw pakket verstuurd is sturen we een email met een link om uw bestelling te volgen.",module,Magento_Sales
