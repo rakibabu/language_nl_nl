@@ -4418,8 +4418,8 @@ Comment,Opmerking,module,Magento_Sales
 "Billing ZIP Code","Factuur postcode",module,Magento_Sales
 Continue,Doorgaan,module,Magento_Sales
 "Print All Refunds","Alle terugbetalingen printen",module,Magento_Sales
-"Refund #","Terugbetaling #",module,Magento_Sales
-"Print Refund","Terugbetaling printen",module,Magento_Sales
+"Refund #","Restitutie #",module,Magento_Sales
+"Print Refund","Restitutie printen",module,Magento_Sales
 "Product Name",Productnaam,module,Magento_Sales
 "Order #","Bestelling nummer",module,Magento_Sales
 Date,Datum,module,Magento_Sales
@@ -6209,7 +6209,7 @@ Select...,Selecteer...,module,Magento_Braintree
 Amount,Aantal,module,Magento_Braintree
 "Settlement Code",Betalingscode,module,Magento_Braintree
 "Settlement Response Text",Betalingsreactietekst,module,Magento_Braintree
-"Refund Ids","Terugbetaling Ids",module,Magento_Braintree
+"Refund Ids","Restitutie Ids",module,Magento_Braintree
 "Settlement Batch ID","Betalings batch ID",module,Magento_Braintree
 Currency,Valuta,module,Magento_Braintree
 Select...,Selecteer...,module,Magento_Bundle
