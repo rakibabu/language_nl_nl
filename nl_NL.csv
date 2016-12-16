@@ -2154,7 +2154,7 @@ No,Nee,module,Magento_Downloadable
 "Use config","Gebruik configuratie",module,Magento_Downloadable
 "Upload File","Bestand uploaden",module,Magento_Downloadable
 attachment,bijlage,module,Magento_Downloadable
-Pending,"In behandeling",module,Magento_Downloadable
+Pending,"In afwachting",module,Magento_Downloadable
 Invoiced,Gefactureerd,module,Magento_Downloadable
 "To enable the option set the weight to no","Om de optie in te schakelen, stel het gewicht in op nee",module,Magento_Downloadable
 "Is this downloadable Product?","Is dit een downloadable product?",module,Magento_Downloadable
@@ -2173,7 +2173,7 @@ sample,voorbeeld,module,Magento_Downloadable
 "Add links to your product files here.","Voeg links naar uw productbestanden hier toe.",module,Magento_Downloadable
 "[STORE VIEW]",[WINKELAANZICHT],module,Magento_Downloadable
 [GLOBAL],[GLOBAAL],module,Magento_Downloadable
-"Sort Order","Sorteer Bestelling",module,Magento_Downloadable
+"Sort Order",Sorteervolgorde,module,Magento_Downloadable
 "Attach File or Enter Link","Bestand toevoegen of voer link in",module,Magento_Downloadable
 "Sort Variations","Sorteer variaties",module,Magento_Downloadable
 "Browse Files...","Blader door bestanden...",module,Magento_Downloadable
@@ -3251,7 +3251,7 @@ Daily,Dagelijks,module,Magento_Paypal
 "Yes (PayPal recommends this option)","Ja (PayPal raadt deze optie aan)",module,Magento_Paypal
 "Created billing agreement #%1.","Incasso-overeenkomst #%1.",module,Magento_Paypal
 "We can't create a billing agreement for this order.","We kunnen voor deze order geen facturingsovereenkomst maken.",module,Magento_Paypal
-"Pending PayPal","In Behandeling Bij PayPal",module,Magento_Paypal
+"Pending PayPal","In afwachting bij PayPal",module,Magento_Paypal
 "PayPal Reversed","PayPal omgekeerd",module,Magento_Paypal
 "PayPal Canceled Reversal","PayPal geannuleerde de omkering",module,Magento_Paypal
 Error,Foutmelding,module,Magento_Paypal
@@ -3607,7 +3607,7 @@ Delete,Verwijder,module,Magento_Review
 "Update Status","Status bijwerken",module,Magento_Review
 Customer,Klant,module,Magento_Review
 "Pending Reviews of Customer `%1`","Pending reviews van klanten '%1'",module,Magento_Review
-"Pending Reviews","Te modereren reviews",module,Magento_Review
+"Pending Reviews","Te beoordelen reviews",module,Magento_Review
 "All Reviews of Customer `%1`","Alle reviews van klant '%1'",module,Magento_Review
 "All Reviews of Product `%1`","Alle reviews van Product '%1'",module,Magento_Review
 "All Reviews","Alle reviews",module,Magento_Review
@@ -3625,7 +3625,7 @@ Quantity,Aantal,module,Magento_Review
 "Default Value",Standaardwaarde,module,Magento_Review
 "Rating Visibility","Zichtbaarheid scores",module,Magento_Review
 "Is Active","is actief",module,Magento_Review
-"Sort Order","Sorteer Bestelling",module,Magento_Review
+"Sort Order",Sorteervolgorde,module,Magento_Review
 "Rating Information","Informatie waardering",module,Magento_Review
 "Product Reviews",Productreviews,module,Magento_Review
 "Summary of review: %1 <br/>","Samenvatting van review: %1<br/>",module,Magento_Review
@@ -3655,7 +3655,7 @@ Ratings,Waarderingen,module,Magento_Review
 "We can't post your review right now.","Wij kunnen uw beoordeling nu niet plaatsen.",module,Magento_Review
 "Storage key was not set","Opslag sleutel is niet ingesteld",module,Magento_Review
 Approved,Akkoord,module,Magento_Review
-Pending,"In behandeling",module,Magento_Review
+Pending,"In afwachting",module,Magento_Review
 "Not Approved","Niet Akkoord",module,Magento_Review
 "Please enter a review summary.","Voer een review samenvatting in.",module,Magento_Review
 "Please enter a nickname.","Voer een bijnaam in.",module,Magento_Review
@@ -4151,7 +4151,7 @@ Guest,Bezoeker,module,Magento_Sales
 "Requested entity doesn't exist","De opgevraagde entiteit bestaat niet",module,Magento_Sales
 "Could not delete order address","Kan het adres van bestelling niet verwijderen",module,Magento_Sales
 "Could not save order address","Kan het adres van de bestelling niet opslaan",module,Magento_Sales
-Pending,"In behandeling",module,Magento_Sales
+Pending,"In afwachting",module,Magento_Sales
 Refunded,Teruggestort,module,Magento_Sales
 Canceled,Geannuleerd,module,Magento_Sales
 "Unknown State","Onbekende staat",module,Magento_Sales
@@ -4276,7 +4276,7 @@ State/Province,Provincie,module,Magento_Sales
 "The Order State ""%1"" must not be set manually.","De bestellingsstatus ""%1"" mag niet handmatig ingesteld worden.",module,Magento_Sales
 "VAT Request Identifier","BTW-nummer identifier",module,Magento_Sales
 "VAT Request Date","BTW-nummer validatie aanvraag-datum",module,Magento_Sales
-"Pending Payment","Betaling in behandeling",module,Magento_Sales
+"Pending Payment","In afwachting van de betaling",module,Magento_Sales
 Processing,"Bezig met verwerken",module,Magento_Sales
 "On Hold","Wordt vastgehouden",module,Magento_Sales
 Complete,Voltooid,module,Magento_Sales
@@ -4849,7 +4849,7 @@ Name,Naam,module,Magento_Tax
 Priority,Prioriteit,module,Magento_Tax
 "Tax rates at the same priority are added, others are compounded.","BTW-tarieven met dezelfde prioriteit worden opgeteld, andere worden gecombineerd.",module,Magento_Tax
 "Calculate Off Subtotal Only","Enkel subtotaal berekenen",module,Magento_Tax
-"Sort Order","Sorteer Bestelling",module,Magento_Tax
+"Sort Order",Sorteervolgorde,module,Magento_Tax
 "Do you really want to delete this tax class?","Wil u deze BTW-tariefgroep verwijderen?",module,Magento_Tax
 "Add New Tax Class","Nieuwe BTW-tariefgroep",module,Magento_Tax
 "Shipping Incl. Tax (%1)","Verzendkosten incl. BTW (%1)",module,Magento_Tax
@@ -5428,7 +5428,7 @@ Close,Sluiten,module,Magento_Widget
 "Design Package/Theme","Ontwerp Pakket/Thema",module,Magento_Widget
 "Widget Title","Widget titel",module,Magento_Widget
 "Assign to Store Views","Koppel aan Winkelaanzichten",module,Magento_Widget
-"Sort Order","Sorteer Bestelling",module,Magento_Widget
+"Sort Order",Sorteervolgorde,module,Magento_Widget
 "Sort Order of widget instances in the same container","Sorteervolgorde van widgets in dezelfde container",module,Magento_Widget
 "Layout Updates","Lay-out update",module,Magento_Widget
 Categories,Categorieën,module,Magento_Widget
@@ -5997,7 +5997,7 @@ Debug,"Fouten opsporen in programma",module,Magento_Authorizenet
 "Payment from Specific Countries","Betaling van Specifieke Landen",module,Magento_Authorizenet
 "Minimum Order Total","Minimale bestelwaarde",module,Magento_Authorizenet
 "Maximum Order Total","Maximale bestelwaarde",module,Magento_Authorizenet
-"Sort Order","Sorteer Bestelling",module,Magento_Authorizenet
+"Sort Order",Sorteervolgorde,module,Magento_Authorizenet
 "Allow everything","Alles toestaan",module,Magento_Backend
 "Magento Admin","Magento Site-beheer",module,Magento_Backend
 "Global Search","Globale zoektocht",module,Magento_Backend
@@ -6184,7 +6184,7 @@ Environment,Omgeving,module,Magento_Braintree
 Debug,"Fouten opsporen in programma",module,Magento_Braintree
 "CVV Verification","CVV verificatie",module,Magento_Braintree
 "Credit Card Types",Creditcard-maatschappij,module,Magento_Braintree
-"Sort Order","Sorteer Bestelling",module,Magento_Braintree
+"Sort Order",Sorteervolgorde,module,Magento_Braintree
 "Country Specific Settings","Land specifieke instellingen",module,Magento_Braintree
 "Payment from Applicable Countries","Betaling van Geëigende Landen",module,Magento_Braintree
 "Payment from Specific Countries","Betaling van Specifieke Landen",module,Magento_Braintree
@@ -6644,7 +6644,7 @@ ZIP,Postcode,module,Magento_Customer
 Addresses,Adressen,module,Magento_Customer
 "Are you sure you want to delete this item?","Weet u zeker dat u dit artikel wil verwijderen?",module,Magento_Customer
 "Account Dashboard",Accountoverzicht,module,Magento_Customer
-"Edit Account Information","Bewerk rekening informatie",module,Magento_Customer
+"Edit Account Information","Bewerk account gegevens",module,Magento_Customer
 "Password forgotten","Wachtwoord vergeten",module,Magento_Customer
 "My Dashboard",Overzicht,module,Magento_Customer
 "You are signed out","U bent afgemeld",module,Magento_Customer
@@ -6675,7 +6675,7 @@ Size,Grootte,module,Magento_Dhl
 "Ship to Applicable Countries","Verzenden naar landen die van toepassing zijn",module,Magento_Dhl
 "Ship to Specific Countries","Verzenden naar bepaalde landen",module,Magento_Dhl
 "Show Method if Not Applicable","Laat verzendmethode zien indien niet van toepassing",module,Magento_Dhl
-"Sort Order","Sorteer Bestelling",module,Magento_Dhl
+"Sort Order",Sorteervolgorde,module,Magento_Dhl
 Debug,"Fouten opsporen in programma",module,Magento_Dhl
 "Currency Setup",Valuta-instellingen,module,Magento_Directory
 "Currency Options",Valuta-opties,module,Magento_Directory
@@ -6752,7 +6752,7 @@ Dropoff,Dropshipment,module,Magento_Fedex
 "Ship to Specific Countries","Verzenden naar bepaalde landen",module,Magento_Fedex
 Debug,"Fouten opsporen in programma",module,Magento_Fedex
 "Show Method if Not Applicable","Laat verzendmethode zien indien niet van toepassing",module,Magento_Fedex
-"Sort Order","Sorteer Bestelling",module,Magento_Fedex
+"Sort Order",Sorteervolgorde,module,Magento_Fedex
 "Allow Gift Messages on Order Level","Cadeau-berichten toestaan op orderniveau",module,Magento_GiftMessage
 "Allow Gift Messages for Order Items","Cadeau-berichten toestaan op orderniveau",module,Magento_GiftMessage
 Enable,Activeer,module,Magento_GoogleAdwords
@@ -6872,7 +6872,7 @@ Store,Winkel,module,Magento_Newsletter
 "Check / Money Order","Betaling door middel van Overboeking",module,Magento_OfflinePayments
 Enabled,Ingeschakeld,module,Magento_OfflinePayments
 "New Order Status","Status nieuwe bestelling",module,Magento_OfflinePayments
-"Sort Order","Sorteer Bestelling",module,Magento_OfflinePayments
+"Sort Order",Sorteervolgorde,module,Magento_OfflinePayments
 Title,Titel,module,Magento_OfflinePayments
 "Payment from Applicable Countries","Betaling van Geëigende Landen",module,Magento_OfflinePayments
 "Payment from Specific Countries","Betaling van Specifieke Landen",module,Magento_OfflinePayments
@@ -6891,7 +6891,7 @@ Enabled,Ingeschakeld,module,Magento_OfflineShipping
 Price,Prijs,module,Magento_OfflineShipping
 "Calculate Handling Fee","Verzendkosten berekenen",module,Magento_OfflineShipping
 "Handling Fee",Verwerkingskosten,module,Magento_OfflineShipping
-"Sort Order","Sorteer Bestelling",module,Magento_OfflineShipping
+"Sort Order",Sorteervolgorde,module,Magento_OfflineShipping
 Title,Titel,module,Magento_OfflineShipping
 "Ship to Applicable Countries","Verzenden naar landen die van toepassing zijn",module,Magento_OfflineShipping
 "Ship to Specific Countries","Verzenden naar bepaalde landen",module,Magento_OfflineShipping
@@ -6961,7 +6961,7 @@ Size,Grootte,module,Magento_Paypal
 "Basic Settings - PayPal Express Checkout","Basisinstellingen - PayPal Express Checkout",module,Magento_Paypal
 Title,Titel,module,Magento_Paypal
 "It is recommended to set this value to ""PayPal"" per store views.","Wij raden aan om deze waarde op ""PayPal"" in te stellen per winkelaanzicht.",module,Magento_Paypal
-"Sort Order","Sorteer Bestelling",module,Magento_Paypal
+"Sort Order",Sorteervolgorde,module,Magento_Paypal
 "Payment Action",Betaling,module,Magento_Paypal
 "Display on Product Details Page","Weergave op Product Details pagina",module,Magento_Paypal
 "Advanced Settings","Geavanceerde Instellingen",module,Magento_Paypal
@@ -7458,7 +7458,7 @@ Action,Actie,module,Magento_Ui
 "Origin of the Shipment","Oorsprong van verzending",module,Magento_Ups
 Password,Wachtwoord,module,Magento_Ups
 "Pickup Method",Afhaalwijze,module,Magento_Ups
-"Sort Order","Sorteer Bestelling",module,Magento_Ups
+"Sort Order",Sorteervolgorde,module,Magento_Ups
 Title,Titel,module,Magento_Ups
 "Tracking XML URL","XML traceer URL",module,Magento_Ups
 "UPS Type","UPS type",module,Magento_Ups
@@ -7515,7 +7515,7 @@ Machinable,Machinaal,module,Magento_Usps
 "Ship to Specific Countries","Verzenden naar bepaalde landen",module,Magento_Usps
 Debug,"Fouten opsporen in programma",module,Magento_Usps
 "Show Method if Not Applicable","Laat verzendmethode zien indien niet van toepassing",module,Magento_Usps
-"Sort Order","Sorteer Bestelling",module,Magento_Usps
+"Sort Order",Sorteervolgorde,module,Magento_Usps
 "Variable ID","Variabele ID",module,Magento_Variable
 Name,Naam,module,Magento_Variable
 "Web API Security","Web API beveiliging",module,Magento_WebapiSecurity
