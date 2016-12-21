@@ -5640,18 +5640,18 @@ Password:,Wachtwoord:,module,Magento_Customer
 "To sign in to our site and set a password, click on the <a href=""%create_password_url"">link</a>:","Om in te loggen op onze website en een wachtwoord in te stellen, klik op deze <a href=""%create_password_url"">link</a>:",module,Magento_Customer
 "Your %store_name email has been changed","Uw %store_name e-mail is veranderd",module,Magento_Customer
 "Hello,","Hallo,",module,Magento_Customer
-"We have received a request to change the following information associated with your account at %store_name: email.","Wij hebben een verzoek ontvangen om het wijzigen van de volgende informatie in verband met uw account op %store_name: email.",module,Magento_Customer
+"We have received a request to change the following information associated with your account at %store_name: email.","Wij hebben een verzoek ontvangen om de volgende informatie gekoppeld aan uw account op %store_name te wijzigen: e-mail.",module,Magento_Customer
 "If you have not authorized this action, please contact us immediately at <a href=""mailto:%store_email"">%store_email</a>","Als u geen toestemming voor deze actie gegeven hebt, neem onmiddellijk contact met ons op <a href=""mailto:%store_email"">%store_email</a>",module,Magento_Customer
 "or call us at <a href=""tel:%store_phone"">%store_phone</a>","of telefonish op <a href=""tel:%store_phone"">%store_phone</a>",module,Magento_Customer
 "Thanks,<br>%store_name","Dank u, <br>%store_name",module,Magento_Customer
 "Your %store_name email and password has been changed","Uw %store_name e-mail en wachtwoord is veranderd",module,Magento_Customer
-"We have received a request to change the following information associated with your account at %store_name: email, password.","Wij hebben een verzoek ontvangen om het wijzigen van de volgende informatie in verband met uw account op %store_name: email, password.",module,Magento_Customer
+"We have received a request to change the following information associated with your account at %store_name: email, password.","Wij hebben een verzoek ontvangen om de volgende informatie gekoppeld aan uw account op %store_name te wijzigen: e-mail, wachtwoord.",module,Magento_Customer
 "Reset your %store_name password","Uw %store_name wachtwoord resetten",module,Magento_Customer
 "There was recently a request to change the password for your account.","Er was onlangs een aanvraag om het wachtwoord van uw account te wijzigen.",module,Magento_Customer
 "If you requested this change, set a new password here:","Indien u deze wijziging heeft aangevraagd, kan u hier een nieuw wachtwoord instellen:",module,Magento_Customer
 "If you did not make this request, you can ignore this email and your password will remain the same.","Indien u deze aanvraag niet heeft ingediend, kan u deze email negeren en uw wachtwoord zal ongewijzigd blijven.",module,Magento_Customer
 "Your %store_name password has been changed","Uw %store_name wachtwoord is veranderd",module,Magento_Customer
-"We have received a request to change the following information associated with your account at %store_name: password.","Wij hebben een verzoek ontvangen om het wijzigen van de volgende informatie in verband met uw account op %store_name: wachtwoord.",module,Magento_Customer
+"We have received a request to change the following information associated with your account at %store_name: password.","Wij hebben een verzoek ontvangen om de volgende informatie gekoppeld aan uw account op %store_name te wijzigen: wachtwoord.",module,Magento_Customer
 "Checkout out as a new customer","Afrekenen als een nieuwe klant",module,Magento_Customer
 "Creating an account has many benefits:","Het aanmaken van een account heeft vele voordelen:",module,Magento_Customer
 "See order and shipping status","Bekijk bestelling en verzendstatus",module,Magento_Customer
@@ -5745,7 +5745,7 @@ selected,geselecteerd,module,Magento_Ui
 "Thank you,","Bedankt,",module,Magento_User
 "New %changes for %user_name","Nieuwe %changes voor %user_name",module,Magento_User
 "Hello,","Hallo,",module,Magento_User
-"We have received a request to change the following information associated with your account at %store_name: %changes.","Wij hebben een verzoek ontvangen om het wijzigen van de volgende informatie in verband met uw account op %store_name: %changes.",module,Magento_User
+"We have received a request to change the following information associated with your account at %store_name: %changes.","Wij hebben een verzoek ontvangen om de volgende informatie gekoppeld aan uw account op %store_name te wijzigen: %changes.",module,Magento_User
 "If you have not authorized this action, please contact us immediately at %store_email","Als u geen toestemming voor deze actie gegeven hebt, neem onmiddellijk contact met ons op %store_email",module,Magento_User
 "or call us at %store_phone","of bel ons op %store_phone",module,Magento_User
 "Thanks,","Bedankt,",module,Magento_User
