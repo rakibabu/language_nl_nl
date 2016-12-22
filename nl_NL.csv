@@ -1985,9 +1985,9 @@ or,of,module,Magento_Customer
 "* Required Fields","* Verplichte velden",module,Magento_Customer
 Company,Bedrijfsnaam,module,Magento_Customer
 "Phone Number",Telefoonnummer,module,Magento_Customer
-Address,Straat,module,Magento_Customer
+Address,Adres,module,Magento_Customer
 "Street Address",Adres,module,Magento_Customer
-"Street Address %1","Straat en huisnummer %1",module,Magento_Customer
+"Street Address %1","Adresregel %1",module,Magento_Customer
 "VAT Number","BTW nummer",module,Magento_Customer
 City,Plaats,module,Magento_Customer
 State/Province,Staat/Provincie,module,Magento_Customer
@@ -2349,8 +2349,8 @@ Country,Land,module,Magento_Email
 Region/State,Provincie,module,Magento_Email
 "Zip/Postal Code",Postcode,module,Magento_Email
 City,Plaats,module,Magento_Email
-"Street Address 1","Straat en huisnummer 1",module,Magento_Email
-"Street Address 2","Straat en huisnummer 2",module,Magento_Email
+"Street Address 1","Adresregel 1",module,Magento_Email
+"Street Address 2","Adresregel 1",module,Magento_Email
 "Store Contact Information",Contactinformatie,module,Magento_Email
 "Template Variables",Templatevariabelen,module,Magento_Email
 "Please enter a template name.","Voer een sjabloonnaam in.",module,Magento_Email
@@ -6601,7 +6601,7 @@ General,Algemeen,module,Magento_Sales
 "Invoice and Packing Slip Design","Factuur- en pakbon-ontwerp",module,Magento_Sales
 "Logo for PDF Print-outs (200x50)","Logo voor PDF afdrukken (200x50)",module,Magento_Sales
 "Logo for HTML Print View","Logo voor HTML afdruk-preview",module,Magento_Sales
-Address,Straat,module,Magento_Sales
+Address,Adres,module,Magento_Sales
 "Minimum Order Amount","Minimum bestelbedrag",module,Magento_Sales
 Enable,Activeer,module,Magento_Sales
 "Minimum Amount","Minimum aantal",module,Magento_Sales
