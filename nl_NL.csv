@@ -1873,7 +1873,7 @@ Customers,Klanten,module,Magento_Customer
 Global,Systeem,module,Magento_Customer
 "Per Website","Per website",module,Magento_Customer
 "We can't share customer accounts globally when the accounts share identical email addresses on more than one website.","We kunnen geen klanten accounts wereldwijd verspreiden indien de accounts identieke email adressen bevatten op meerdere websites.",module,Magento_Customer
-"Billing Address","Factuur adres",module,Magento_Customer
+"Billing Address",Factuuradres,module,Magento_Customer
 "Shipping Address",Bezorgadres,module,Magento_Customer
 "-- Please Select --","-- Selecteer Alstublieft --",module,Magento_Customer
 "Please enter a first name.","Voer een voornaam in.",module,Magento_Customer
@@ -2778,7 +2778,7 @@ Actions,acties,module,Magento_Multishipping
 "Update Qty &amp; Addresses","Aantallen en adressen bijwerken",module,Magento_Multishipping
 "Enter a New Address","Voer een nieuw adres in",module,Magento_Multishipping
 "Back to Shopping Cart","Terug naar winkelwagen",module,Magento_Multishipping
-"Billing Address","Factuur adres",module,Magento_Multishipping
+"Billing Address",Factuuradres,module,Magento_Multishipping
 Change,Verander,module,Magento_Multishipping
 "Payment Method",Betaalmethode,module,Magento_Multishipping
 "Go to Review Your Order","Ga naar Vallideer uw bestelling",module,Magento_Multishipping
@@ -3790,7 +3790,7 @@ Billing,Facturatie,module,Magento_Sales
 "Submit Order","Bestelling inboeken",module,Magento_Sales
 "Are you sure you want to cancel this order?","Weet u zeker dat u deze bestelling wilt annuleren?",module,Magento_Sales
 Cancel,Annuleer,module,Magento_Sales
-"Billing Address","Factuur adres",module,Magento_Sales
+"Billing Address",Factuuradres,module,Magento_Sales
 "Payment Method",Betaalmethode,module,Magento_Sales
 "Order Comment","Notities bestelling",module,Magento_Sales
 Coupons,Kortingsbonnen,module,Magento_Sales
@@ -4558,7 +4558,7 @@ Save,Opslaan,module,Magento_Shipping
 in,inch,module,Magento_Shipping
 "Delete Package","Verwijder pakket",module,Magento_Shipping
 Explanation,Uitleg,module,Magento_Shipping
-Carrier,drager,module,Magento_Shipping
+Carrier,Vervoerder,module,Magento_Shipping
 Title,Titel,module,Magento_Shipping
 Number,Nummer,module,Magento_Shipping
 Action,Actie,module,Magento_Shipping
@@ -4778,7 +4778,7 @@ Tax,BTW,module,Magento_Tax
 "Custom price if available","Aangepaste prijs als deze beschikbaar is",module,Magento_Tax
 "Original price only","Alleen oorspronkelijke prijs",module,Magento_Tax
 "Shipping Address",Bezorgadres,module,Magento_Tax
-"Billing Address","Factuur adres",module,Magento_Tax
+"Billing Address",Factuuradres,module,Magento_Tax
 "Shipping Origin","Plaats van verzending",module,Magento_Tax
 "No (price without tax)","Nee (prijs excl. BTW)",module,Magento_Tax
 "Yes (only price with tax)","Ja (alleen prijzen incl. BTW)",module,Magento_Tax
