@@ -2377,7 +2377,7 @@ Quantity,Aantal,module,Magento_Review
 "Rating Title","Titel waarding",module,Magento_Review
 "Default Value",Standaardwaarde,module,Magento_Review
 "Rating Visibility","Zichtbaarheid scores",module,Magento_Review
-"Is Active","is actief",module,Magento_Review
+"Is Active","Is actief",module,Magento_Review
 "Sort Order",Sorteervolgorde,module,Magento_Review
 "Rating Information","Informatie waardering",module,Magento_Review
 "Product Reviews",Productreviews,module,Magento_Review
@@ -3389,7 +3389,7 @@ Remove,Verwijder,module,Magento_Theme
 "Local Storage seems to be disabled in your browser.","Lokale opslag lijkt te zijn uitgeschakeld in uw browser.",module,Magento_Theme
 "Items %1 to %2 of %3 total","Producten %1 tot %2 van %3 in totaal",module,Magento_Theme
 "%1 Item","%1 product",module,Magento_Theme
-"%1 Item(s)","%1 artikel(en)",module,Magento_Theme
+"%1 Item(s)","%1 producten(en)",module,Magento_Theme
 Page,Pagina,module,Magento_Theme
 Previous,Vorige,module,Magento_Theme
 Next,Volgende,module,Magento_Theme
@@ -4217,7 +4217,7 @@ ZIP,Postcode,module,Magento_Customer
 "Customer Information",Klantgegevens,module,Magento_Customer
 "Send Welcome Email From","Verzend welkom e-mail vanuit",module,Magento_Customer
 Addresses,Adressen,module,Magento_Customer
-"Edit Account Information","Bewerk account gegevens",module,Magento_Customer
+"Edit Account Information","Bewerk accountgegevens",module,Magento_Customer
 "Password forgotten","Wachtwoord vergeten",module,Magento_Customer
 "My Dashboard",Overzicht,module,Magento_Customer
 "Front-end development workflow","Front-end ontwikkeling workflow",module,Magento_Developer
@@ -4763,7 +4763,7 @@ Empty,Leeg,module,Magento_Theme
 "Allowed file types: ICO, PNG, GIF, JPG, JPEG, APNG, SVG. Not all browsers support all these formats!","Toegestande bestandstypen: ICO, PNG, GIF, JPG, JPEG, APNG, SVG. Niet alle browsers ondersteunen al deze formaten!",module,Magento_Theme
 "Default Title",Standaardtitel,module,Magento_Theme
 "Title Prefix","Titel-prefix (voor de naam)",module,Magento_Theme
-"Title Suffix","Titel-suffix (achter de naam)",module,Magento_Theme
+"Title Suffix","Titel achtervoegsel",module,Magento_Theme
 "Default Description",Standaard-omschrijving,module,Magento_Theme
 "Default Keywords",Standaard-keywords,module,Magento_Theme
 "Miscellaneous Scripts","Diverse scripts",module,Magento_Theme
