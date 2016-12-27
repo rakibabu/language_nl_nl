@@ -1061,7 +1061,7 @@ Disabled,Uitgeschakeld,module,Magento_Catalog
 "%1 doesn't extends \Magento\Catalog\Model\Product\Option\Type\DefaultType","%1 breidt \Magento\Catalog\Model\Product\Option\Type\DefaultType niet uit",module,Magento_Catalog
 "The file options format is not valid.","De bestandsindeling van de opties is niet geldig.",module,Magento_Catalog
 "The file '%1' for '%2' has an invalid extension.","Het bestand '%1' voor '%2' heeft een ongeldige extensie.",module,Magento_Catalog
-"The maximum allowed image size for '%1' is %2x%3 px.","De maximaal toegestane afbeelding grootte voor '%1' is %2x%3 px.",module,Magento_Catalog
+"The maximum allowed image size for '%1' is %2x%3 px.","Maximum allowed image size for '%1' is %2x%3 px.",module,Magento_Catalog
 "The file '%1' you uploaded is larger than the %2 megabytes allowed by our server.","Het bestand '%1', dat u heeft geüpload, is groter dan de %2 megabytes toegestaan door onze server.",module,Magento_Catalog
 "The file '%1' is empty. Please choose another one","Het bestand '%1' is leeg. Kies een andere",module,Magento_Catalog
 "The file '%1' is invalid. Please choose another one","Het bestand '%1' is ongeldig. Kies een andere",module,Magento_Catalog
@@ -1612,7 +1612,7 @@ Quantity,Aantal,module,Magento_ConfigurableProduct
 "Configurable products allow customers to choose options (Ex: shirt color).
             You need to create a simple product for each configuration (Ex: a product for each color).","Configureerbare producten klanten toestaan om te kiezen van de opties (Ex: shirt kleur).             
 U moet een een simpel product aanmaken voor elke configuratie (Ex: een product voor elke kleur).",module,Magento_ConfigurableProduct
-"Edit Configurations","Bewerken van configuraties",module,Magento_ConfigurableProduct
+"Edit Configurations","Configuraties bewerken",module,Magento_ConfigurableProduct
 "Create Configurations","Configuraties aanmaken",module,Magento_ConfigurableProduct
 "Add Products Manually","Handmatig toevoegen van producten",module,Magento_ConfigurableProduct
 "Current Variations","Huidige Variaties",module,Magento_ConfigurableProduct
@@ -3533,10 +3533,11 @@ Quantity,Aantal,module,Magento_Review
 "Rating Title","Titel waarding",module,Magento_Review
 "Default Value",Standaardwaarde,module,Magento_Review
 "Rating Visibility","Zichtbaarheid scores",module,Magento_Review
-"Is Active","is actief",module,Magento_Review
+"Is Active","Is actief",module,Magento_Review
 "Sort Order",Sorteervolgorde,module,Magento_Review
 "Rating Information","Informatie waardering",module,Magento_Review
 "Product Reviews",Productreviews,module,Magento_Review
+"Pending product review(s)","Te beoordelen productreview(s)",module,Magento_Review
 "Summary of review: %1 <br/>","Samenvatting van review: %1<br/>",module,Magento_Review
 "Store: %1 <br/>","Winkel: %s<br />",module,Magento_Review
 "Click <a href=""%1"">here</a> to see the review.","<a href=""%1"">Bekijk review</a>.",module,Magento_Review
@@ -3969,7 +3970,7 @@ Sales,Verkopen,module,Magento_Sales
 "We can't update the order address right now.","Bijwerken van bestellingadres niet gelukt.",module,Magento_Sales
 "You have not canceled the item.","U hebt het artikel niet geannuleerd.",module,Magento_Sales
 "You canceled the order.","U hebt de bestelling geannuleerd.",module,Magento_Sales
-"""%1"" coupon code was not applied. Do not apply discount is selected for item(s)","""%1"" kortingscode is niet toegepast. Pas geen korting toe is ingeschakeld voor de product(en)",module,Magento_Sales
+"""%1"" coupon code was not applied. Do not apply discount is selected for item(s)","""%1"" kortingscode is niet toegepast. Pas geen korting toe is ingeschakeld voor de geselecteerde product(en)",module,Magento_Sales
 """%1"" coupon code is not valid.","""%1"" kortingscode is niet geldig.",module,Magento_Sales
 "The coupon code has been accepted.","De couponcode is geaccepteerd",module,Magento_Sales
 "Quote item id is not received.","Quote item id is niet ontvangen.",module,Magento_Sales
@@ -4914,7 +4915,7 @@ Remove,Verwijder,module,Magento_Theme
 "This is demo store. No orders will be fulfilled.","Dit is een demo winkel. Er zullen geen bestellingen worden uitgevoerd.",module,Magento_Theme
 "Items %1 to %2 of %3 total","Producten %1 tot %2 van %3 in totaal",module,Magento_Theme
 "%1 Item","%1 product",module,Magento_Theme
-"%1 Item(s)","%1 artikel(en)",module,Magento_Theme
+"%1 Item(s)","%1 producten(en)",module,Magento_Theme
 Page,Pagina,module,Magento_Theme
 Previous,Vorige,module,Magento_Theme
 "You're currently reading page","U lees momenteel pagina",module,Magento_Theme
@@ -5015,8 +5016,8 @@ Custom,Aangepast,module,Magento_UrlRewrite
 "Something went wrong while saving URL Rewrite.","Er ging iets fout tijdens het opslaan van de URL Rewrite.",module,Magento_UrlRewrite
 "Do not use two or more consecutive slashes in the request path.","Gebruik niet meer dan twee opeenvolgende schuine strepen in het path van de aanvraag.",module,Magento_UrlRewrite
 "Anchor symbol (#) is not supported in request path.","Ankersymbool (#) wordt niet ondersteund in het opgevraagde pad.",module,Magento_UrlRewrite
-"Do not use two or more consecutive slashes in the url rewrite suffix.","Gebruik niet meer dan twee opeenvolgende schuine strepen in het achtervoegsel van de url rewrite.",module,Magento_UrlRewrite
-"Anchor symbol (#) is not supported in url rewrite suffix.","Ankersymbool (#) wordt niet ondersteund in achtervoegsel van url rewrite.",module,Magento_UrlRewrite
+"Do not use two or more consecutive slashes in the url rewrite suffix.","Gebruik niet meer dan twee opeenvolgende slashes in het URL rewrite achtervoegsel.",module,Magento_UrlRewrite
+"Anchor symbol (#) is not supported in url rewrite suffix.","Ankersymbool (#) wordt niet ondersteund in URL rewrite achtervoegsel.",module,Magento_UrlRewrite
 No,Nee,module,Magento_UrlRewrite
 "Temporary (302)","Tijdelijk (302)",module,Magento_UrlRewrite
 "Request Path for Specified Store","Pad opvragen voor gespecificeerde winkel",module,Magento_UrlRewrite
@@ -5868,9 +5869,9 @@ End,Einde,module,Magento_CatalogRule
 "Minimal Query Length","Minimale lengte zoekopdracht",module,Magento_CatalogSearch
 "Maximum Query Length","Maximale lengte zoekopdracht",module,Magento_CatalogSearch
 "Rebuild Catalog product fulltext search index","Product 'fulltext' zoekindex",module,Magento_CatalogSearch
-"Category URL Suffix","Categorie URL toevoeging",module,Magento_CatalogUrlRewrite
+"Category URL Suffix","Categorie URL achtervoegsel",module,Magento_CatalogUrlRewrite
 "You need to refresh the cache.","U moet de cache vernieuwen.",module,Magento_CatalogUrlRewrite
-"Product URL Suffix","Achtervoegsel product-URL",module,Magento_CatalogUrlRewrite
+"Product URL Suffix","Product URL achtervoegsel",module,Magento_CatalogUrlRewrite
 "Use Categories Path for Product URLs","Categorieënpad voor product-URL’s gebruiken",module,Magento_CatalogUrlRewrite
 "Create Permanent Redirect for URLs if URL Key Changed","Maak een permanente URL-verwijzing aan voor URLs als de URL-key veranderd",module,Magento_CatalogUrlRewrite
 "Catalog Products List","Catalogus Producten lijst",module,Magento_CatalogWidget
@@ -6167,7 +6168,7 @@ ZIP,Postcode,module,Magento_Customer
 Addresses,Adressen,module,Magento_Customer
 "Are you sure you want to delete this item?","Weet u zeker dat u dit artikel wil verwijderen?",module,Magento_Customer
 "Account Dashboard",Accountoverzicht,module,Magento_Customer
-"Edit Account Information","Bewerk account gegevens",module,Magento_Customer
+"Edit Account Information","Bewerk accountgegevens",module,Magento_Customer
 "Password forgotten","Wachtwoord vergeten",module,Magento_Customer
 "My Dashboard",Overzicht,module,Magento_Customer
 "You are signed out.","U bent afgemeld.",module,Magento_Customer
@@ -6317,7 +6318,7 @@ Updated,Bijgewerkt,module,Magento_Indexer
 "After selecting a new media storage location, press the Synchronize button to transfer all media to that location. Media will not be available in the new location until the synchronization process is complete.","Na het selecteren van de nieuwe media opslaglocatie, drukt u op de synchronizeren knop om alle media naar de nieuwe locatie over te brengen. De media zal niet beschikbaar zijn op de nieuwe locatie totdat het synchronisatieproces voltooid is.",module,Magento_MediaStorage
 "Environment Update Time","Update tijd",module,Magento_MediaStorage
 "Minimum Advertised Price","Minimum geadverteerde verkoopprijs",module,Magento_Msrp
-"Enable MAP","Activeer minimum geadverteerde verkoopprijs",module,Magento_Msrp
+"Enable MAP","MAP (minimaal geadverteerde prijs) inschakelen",module,Magento_Msrp
 "Display Actual Price","Toon werkelijke prijs",module,Magento_Msrp
 "Default Popup Text Message","Standaard popup bericht",module,Magento_Msrp
 "Default \"What's This\" Text Message","Standaard \"Wat is dit?\" bericht",module,Magento_Msrp
@@ -6814,7 +6815,7 @@ Empty,Leeg,module,Magento_Theme
 "Allowed file types: ICO, PNG, GIF, JPG, JPEG, APNG, SVG. Not all browsers support all these formats!","Toegestande bestandstypen: ICO, PNG, GIF, JPG, JPEG, APNG, SVG. Niet alle browsers ondersteunen al deze formaten!",module,Magento_Theme
 "Default Title",Standaardtitel,module,Magento_Theme
 "Title Prefix","Titel-prefix (voor de naam)",module,Magento_Theme
-"Title Suffix","Titel-suffix (achter de naam)",module,Magento_Theme
+"Title Suffix","Titel achtervoegsel",module,Magento_Theme
 "Default Description",Standaard-omschrijving,module,Magento_Theme
 "Default Keywords",Standaard-keywords,module,Magento_Theme
 "Miscellaneous Scripts","Diverse scripts",module,Magento_Theme
