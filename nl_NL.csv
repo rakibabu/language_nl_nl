@@ -3141,7 +3141,7 @@ Delete,Verwijder,module,Magento_Shipping
 "Create Packages","Nieuw pakket aanmaken",module,Magento_Shipping
 Cancel,Annuleer,module,Magento_Shipping
 "Add Package","Voeg pakket toe",module,Magento_Shipping
-"Add Selected Product(s) to Package","Voeg geselecteerde pakketten toe aan product",module,Magento_Shipping
+"Add Selected Product(s) to Package","Voeg geselecteerde product(en) toe aan pakket",module,Magento_Shipping
 in,inch,module,Magento_Shipping
 "Delete Package","Verwijder pakket",module,Magento_Shipping
 Explanation,Uitleg,module,Magento_Shipping
