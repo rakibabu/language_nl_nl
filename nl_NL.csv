@@ -1297,7 +1297,7 @@ Login,"Log in",module,Magento_Customer
 "Forgot Your Password?","Wachtwoord vergeten?",module,Magento_Customer
 "Subscription option",Abonnementoptie,module,Magento_Customer
 "General Subscription","Algemene inschrijving",module,Magento_Customer
-"Sign Up for Newsletter","Inschrijven op de nieuwsbrief",module,Magento_Customer
+"Sign Up for Newsletter","Aanmelden voor de nieuwsbrief",module,Magento_Customer
 "Address Information","Adres Gegevens",module,Magento_Customer
 "Confirm Password","Bevestig wachtwoord",module,Magento_Customer
 "New Customers","Nieuwe klanten",module,Magento_Customer
