@@ -5636,7 +5636,6 @@ Title,Titel,module,Magento_Authorizenet
 "Gateway URL","Betaalplatform URL",module,Magento_Authorizenet
 "Transaction Details URL","Transactie Details Url",module,Magento_Authorizenet
 "Accepted Currency","Toegestane valuta",module,Magento_Authorizenet
-Debug,"Fouten opsporen in programma",module,Magento_Authorizenet
 "Email Customer","E-mail klant",module,Magento_Authorizenet
 "Merchant's Email","Handelaar E-mail",module,Magento_Authorizenet
 "Credit Card Types",Creditcard-maatschappij,module,Magento_Authorizenet
@@ -5670,7 +5669,6 @@ Pagination,Paginering,module,Magento_Backend
 "Anchor Text for Next","Tekst voor 'Volgende'",module,Magento_Backend
 "Alternative text for next link in pagination menu. If empty, default arrow image will used.","Alternatieve tekst voor volgende link in pagineringsmenu. Wanneer u deze leeg laat, wordt de standaard pijl getoond.",module,Magento_Backend
 Developer,Ontwikkelaar,module,Magento_Backend
-Debug,"Fouten opsporen in programma",module,Magento_Backend
 "Enabled Template Path Hints for Storefront","Hints ingeschakeld voor sjabloon paden op winkelaanzicht",module,Magento_Backend
 "Enabled Template Path Hints for Admin","Template pad Hints ingeschakeld voor Admin",module,Magento_Backend
 "Add Block Names to Hints","Bloknamen aan Hints toevoegen",module,Magento_Backend
@@ -5801,7 +5799,6 @@ Environment,Omgeving,module,Magento_Braintree
 "Public Key","Openbare sleutel",module,Magento_Braintree
 "Private Key","Persoonlijke sleutel",module,Magento_Braintree
 "Advanced Braintree Settings","Geavanceerde Braintree instellingen",module,Magento_Braintree
-Debug,"Fouten opsporen in programma",module,Magento_Braintree
 "Capture action","Leg actie vast",module,Magento_Braintree
 "New Order Status","Status nieuwe bestelling",module,Magento_Braintree
 "Use Vault","Gebruik Vault",module,Magento_Braintree
@@ -6199,7 +6196,6 @@ Size,Grootte,module,Magento_Dhl
 "Ship to Specific Countries","Verzenden naar bepaalde landen",module,Magento_Dhl
 "Show Method if Not Applicable","Laat verzendmethode zien indien niet van toepassing",module,Magento_Dhl
 "Sort Order",Sorteervolgorde,module,Magento_Dhl
-Debug,"Fouten opsporen in programma",module,Magento_Dhl
 "Currency Setup",Valuta-instellingen,module,Magento_Directory
 "Currency Options",Valuta-opties,module,Magento_Directory
 "Base Currency",Basis-valuta,module,Magento_Directory
@@ -6269,7 +6265,6 @@ Dropoff,Dropshipment,module,Magento_Fedex
 "Displayed Error Message","Weergeven foutbericht",module,Magento_Fedex
 "Ship to Applicable Countries","Verzenden naar landen die van toepassing zijn",module,Magento_Fedex
 "Ship to Specific Countries","Verzenden naar bepaalde landen",module,Magento_Fedex
-Debug,"Fouten opsporen in programma",module,Magento_Fedex
 "Show Method if Not Applicable","Laat verzendmethode zien indien niet van toepassing",module,Magento_Fedex
 "Sort Order",Sorteervolgorde,module,Magento_Fedex
 "Allow Gift Messages on Order Level","Cadeau-berichten toestaan op orderniveau",module,Magento_GiftMessage
@@ -6462,7 +6457,7 @@ Title,Titel,module,Magento_Paypal
 "Advanced Settings","Geavanceerde Instellingen",module,Magento_Paypal
 "Display on Shopping Cart","Toon in Winkelwagen",module,Magento_Paypal
 "Also affects mini-shopping cart.","Ook van invloed op de mini-winkelwagen.",module,Magento_Paypal
-"Debug Mode","Debug modues",module,Magento_Paypal
+"Debug Mode",Debugmodus,module,Magento_Paypal
 "Enable SSL verification","SSL-verificatie inschakelen",module,Magento_Paypal
 "If this option is enabled, customer can change shipping address and shipping method on PayPal website. In live mode works via HTTPS protocol only.","Indien deze optie aan staat kan de klant zijn verzendadres en verzendmethode aanpassen op de PayPal website. Dit werkt enkel via het HTTPS protocol.",module,Magento_Paypal
 "Ability for buyer to purchase without PayPal account.","Koper kan zonder een PayPal account ook afrekenen (PayPal account is niet verplicht)",module,Magento_Paypal
@@ -6880,7 +6875,6 @@ Title,Titel,module,Magento_Ups
 "Displayed Error Message","Weergeven foutbericht",module,Magento_Ups
 Mode,Type,module,Magento_Ups
 "This enables or disables SSL verification of the Magento server by UPS.","Dit schakelt SSL verificatie van de Magento server in of uit bij UPS.",module,Magento_Ups
-Debug,"Fouten opsporen in programma",module,Magento_Ups
 Action,Actie,module,Magento_UrlRewrite
 Edit,Bewerken,module,Magento_UrlRewrite
 "Reset Password Template","Reset wachtwoord sjabloon",module,Magento_User
@@ -6916,7 +6910,6 @@ Machinable,Machinaal,module,Magento_Usps
 "Displayed Error Message","Weergeven foutbericht",module,Magento_Usps
 "Ship to Applicable Countries","Verzenden naar landen die van toepassing zijn",module,Magento_Usps
 "Ship to Specific Countries","Verzenden naar bepaalde landen",module,Magento_Usps
-Debug,"Fouten opsporen in programma",module,Magento_Usps
 "Show Method if Not Applicable","Laat verzendmethode zien indien niet van toepassing",module,Magento_Usps
 "Sort Order",Sorteervolgorde,module,Magento_Usps
 "Variable ID","Variabele ID",module,Magento_Variable
