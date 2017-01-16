@@ -4223,6 +4223,7 @@ Title,Titel,module,Magento_Sales
 Number,Nummer,module,Magento_Sales
 "We found an invalid renderer model.","We vonden een ongeldig renderer model.",module,Magento_Sales
 "Please define the PDF object before using.","Definieer PDF objecten voor gebruik.",module,Magento_Sales
+"We don't recognize the draw line data. Please define the ""lines"" array.","We konden de tekenlijnen niet herkennen. Definieer de ""lijnen"" matrix.",module,Magento_Sales
 Products,Producten,module,Magento_Sales
 "Total (ex)","Totaal (ex)",module,Magento_Sales
 Qty,Aantal,module,Magento_Sales
