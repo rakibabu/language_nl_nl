@@ -4446,7 +4446,7 @@ Close,Sluiten,module,Magento_Sales
 "View All","Bekijk alles",module,Magento_Sales
 "Gift Message for This Order","Kadobericht voor deze bestelling",module,Magento_Sales
 "Recently Ordered","Recent besteld",module,Magento_Sales
-"Add to Cart","In Winkelwagen",module,Magento_Sales
+"Add to Cart","In winkelwagen",module,Magento_Sales
 Search,Zoek,module,Magento_Sales
 "Search Term",Zoekterm,module,Magento_Search
 Results,Resultaten,module,Magento_Search
