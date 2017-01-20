@@ -3046,7 +3046,7 @@ Close,Sluiten,module,Magento_Sales
 "Recent Orders","Recente orders",module,Magento_Sales
 "View All","Bekijk alles",module,Magento_Sales
 "Gift Message for This Order","Kadobericht voor deze bestelling",module,Magento_Sales
-"Add to Cart","In Winkelwagen",module,Magento_Sales
+"Add to Cart","In winkelwagen",module,Magento_Sales
 "The link to a friend was sent.","De link is naar een vriend verzonden.",module,Magento_SendFriend
 "We found some problems with the data.","Er waren enkele problemen met de gegevens.",module,Magento_SendFriend
 "Some emails were not sent.","Sommige e-mails zijn niet verzonden.",module,Magento_SendFriend
