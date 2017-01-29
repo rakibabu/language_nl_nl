@@ -1083,7 +1083,7 @@ Search,Zoek,module,Magento_Catalog
 "A product type is not defined for the indexer.","Een producttype is niet opgegeven",module,Magento_Catalog
 "%1 doesn't extend \Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\DefaultPrice","%1 breidt \Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\DefaultPrice niet uit",module,Magento_Catalog
 "Product with SKU %1 is not linked to product with SKU %2","Product met SKU %1 is niet gekoppeld aan product met SKU %2",module,Magento_Catalog
-"Multiple Select","Multiple Selecteer",module,Magento_Catalog
+"Multiple Select","Meervoudige selectie",module,Magento_Catalog
 "%1 doesn't extend \Magento\Framework\Filter\Template","%1 breidt \Magento\Framework\Filter\Template niet uit",module,Magento_Catalog
 "As low as",Slechts,module,Magento_Catalog
 message,bericht,module,Magento_Catalog
