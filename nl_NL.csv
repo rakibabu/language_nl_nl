@@ -785,7 +785,7 @@ Disabled,Uitgeschakeld,module,Magento_Catalog
 Search,Zoek,module,Magento_Catalog
 "Catalog, Search","Catalogus, zoeken",module,Magento_Catalog
 "A product type is not defined for the indexer.","Een producttype is niet opgegeven",module,Magento_Catalog
-"Multiple Select","Multiple Selecteer",module,Magento_Catalog
+"Multiple Select","Meervoudige selectie",module,Magento_Catalog
 "Are you sure you want to delete this category?","Weet u zeker dat u deze categorie wilt verwijderen?",module,Magento_Catalog
 "Set root category for this store in the <a href=""%1"">configuration</a>.","Stel de hoofdcategorie in voor deze winkel in de <a href=""%1"">configuratie</a>.",module,Magento_Catalog
 "Collapse All","Alles uitklappen",module,Magento_Catalog
