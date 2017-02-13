@@ -438,7 +438,7 @@ Invoice,Factuur,module,Magento_Braintree
 Shipment,Verzending,module,Magento_Braintree
 Authorize,Autoriseer,module,Magento_Braintree
 "Authorize and Capture","Authoriseer en Capture",module,Magento_Braintree
-"--Please Select--","--Maak een keuze--",module,Magento_Braintree
+"--Please Select--","-- Selecteer --",module,Magento_Braintree
 "Invalid Customer ID provided","Ongeldige klant ID verstrekt",module,Magento_Braintree
 "some error","een fout",module,Magento_Braintree
 "Something went wrong while processing.","Er is een fout opgetreden tijdens de verwerking.",module,Magento_Braintree
@@ -886,7 +886,7 @@ Hidden,Verborgen,module,Magento_Catalog
 "Subscribe to RSS Feed","Abonneren op RSS-feed",module,Magento_Catalog
 "Products Comparison List","Product vergelijk-lijst",module,Magento_Catalog
 N/A,n.v.t.,module,Magento_Catalog
-"-- Please Select --","-- Selecteer Alstublieft --",module,Magento_Catalog
+"-- Please Select --","-- Selecteer --",module,Magento_Catalog
 None,Geen,module,Magento_Catalog
 "New Products from %1","Nieuwe producten sinds %1",module,Magento_Catalog
 "New Products","Nieuwe producten",module,Magento_Catalog
@@ -1383,7 +1383,7 @@ Layout,Lay-out,module,Magento_Cms
 "Custom Design","Eigen ontwerp",module,Magento_Cms
 "Custom Design From","Custom design vanaf datum",module,Magento_Cms
 "Custom Design To","Custom design tot datum",module,Magento_Cms
-"-- Please Select --","-- Selecteer Alstublieft --",module,Magento_Cms
+"-- Please Select --","-- Selecteer --",module,Magento_Cms
 "Custom Theme","Eigen Thema",module,Magento_Cms
 "Custom Layout","Custom lay-out",module,Magento_Cms
 "Custom Layout Update XML","Custom XML lay-out update",module,Magento_Cms
@@ -1875,7 +1875,7 @@ Global,Systeem,module,Magento_Customer
 "We can't share customer accounts globally when the accounts share identical email addresses on more than one website.","We kunnen geen klanten accounts wereldwijd verspreiden indien de accounts identieke email adressen bevatten op meerdere websites.",module,Magento_Customer
 "Billing Address",Factuuradres,module,Magento_Customer
 "Shipping Address",Bezorgadres,module,Magento_Customer
-"-- Please Select --","-- Selecteer Alstublieft --",module,Magento_Customer
+"-- Please Select --","-- Selecteer --",module,Magento_Customer
 "Please enter a first name.","Voer een voornaam in.",module,Magento_Customer
 "Please enter a last name.","Voer een achternaam in.",module,Magento_Customer
 "Please correct this email address: ""%1"".","Corrigeer het e-mailadres: ""%1"".",module,Magento_Customer
@@ -2051,7 +2051,7 @@ Regular,Normaal,module,Magento_Dhl
 "Unable to retrieve shipping label","Onmogelijk om verzendlabel op te halen",module,Magento_Dhl
 None,Geen,module,Magento_Dhl
 State/Province,Provincie,module,Magento_Directory
-"--Please Select--","--Maak een keuze--",module,Magento_Directory
+"--Please Select--","-- Selecteer --",module,Magento_Directory
 kgs,kg.,module,Magento_Directory
 "Requested country is not available.","Opgevraagde land is niet beschikbaar.",module,Magento_Directory
 "Please correct the target currency.","Corrigeer de doel-munt.",module,Magento_Directory
@@ -2556,7 +2556,7 @@ History,Geschiedenis,module,Magento_ImportExport
 "ImportExport: Import Data validation - Validation strategy not found","ImportExport: Gegevens importeren validatie - validatie strategie niet gevonden",module,Magento_ImportExport
 "Cannot get autoincrement value","Kan geen autoincrement waarde ophalen",module,Magento_ImportExport
 "Error in data structure: %1 values are mixed","Fout in datastructuur: %1 waarden zijn gemengd",module,Magento_ImportExport
-"-- Please Select --","-- Selecteer Alstublieft --",module,Magento_ImportExport
+"-- Please Select --","-- Selecteer --",module,Magento_ImportExport
 Add/Update,Toevoegen/bijwerken,module,Magento_ImportExport
 Replace,Vervangen,module,Magento_ImportExport
 Delete,Verwijder,module,Magento_ImportExport
@@ -2988,7 +2988,7 @@ No,Nee,module,Magento_Payment
 "Start Date",begindatum,module,Magento_Payment
 "Please Select",Selecteer,module,Magento_Payment
 "We'll ask for your payment details before you place an order.","Wij zullen vragen om uw betalingsgegevens voordat u een bestelling plaatst.",module,Magento_Payment
-"--Please Select--","--Maak een keuze--",module,Magento_Payment
+"--Please Select--","-- Selecteer --",module,Magento_Payment
 "Card Verification Number Visual Reference","Visuele referentie Kaartverificatienummer",module,Magento_Payment
 "What is this?","Wat is dit?",module,Magento_Payment
 "Credit Card Information",Creditcard-informatie,module,Magento_Payment
@@ -3164,7 +3164,7 @@ Void,"Nietig verklaard",module,Magento_Paypal
 "Header (center)","Koptekst (midden)",module,Magento_Paypal
 "Sidebar (right)","Sidebar (rechts)",module,Magento_Paypal
 "Near PayPal Credit checkout button","In de buurt van PayPal Credit checkout-knop",module,Magento_Paypal
-"--Please Select--","--Maak een keuze--",module,Magento_Paypal
+"--Please Select--","-- Selecteer --",module,Magento_Paypal
 Daily,Dagelijks,module,Magento_Paypal
 "No Logo","Geen logo",module,Magento_Paypal
 "Yes (PayPal recommends this option)","Ja (PayPal raadt deze optie aan)",module,Magento_Paypal
@@ -3201,7 +3201,7 @@ View,Bekijk,module,Magento_Paypal
 "There are no billing agreements yet.","Er zijn (nog) geen incasso-overeenkomsten.",module,Magento_Paypal
 "New Billing Agreement","Nieuwe incasso-overeenkomst",module,Magento_Paypal
 "You will be redirected to the payment system website.","U wordt doorgestuurd naar de beveiligde betaalomgeving.",module,Magento_Paypal
-"-- Please Select --","-- Selecteer Alstublieft --",module,Magento_Paypal
+"-- Please Select --","-- Selecteer --",module,Magento_Paypal
 Create...,Aanmaken...,module,Magento_Paypal
 "Your credit card will be charged for","Uw creditcard zal in rekening gebracht worden voor",module,Magento_Paypal
 "Shipping Method",Verzendmethode,module,Magento_Paypal
@@ -3795,7 +3795,7 @@ Cancel,Annuleer,module,Magento_Sales
 "Payment Method",Betaalmethode,module,Magento_Sales
 "Order Comment","Notities bestelling",module,Magento_Sales
 Coupons,Kortingsbonnen,module,Magento_Sales
-"Please select a customer","Selecteer een klant a.u.b",module,Magento_Sales
+"Please select a customer","Selecteer een klant",module,Magento_Sales
 "Create New Customer","Nieuwe klant aanmaken",module,Magento_Sales
 "Account Information","Account Gegevens",module,Magento_Sales
 From,Van,module,Magento_Sales
@@ -3835,7 +3835,7 @@ Quantity,Aantal,module,Magento_Sales
 "Last Ordered Items","Laatst bestelde artikelen",module,Magento_Sales
 "Recently Viewed","Recent bekeken",module,Magento_Sales
 "Wish List",Verlanglijst,module,Magento_Sales
-"Please select a store","Selecteer een winkel a.u.b",module,Magento_Sales
+"Please select a store","Selecteer een winkel",module,Magento_Sales
 "Order Totals",Bestelling-totalen,module,Magento_Sales
 "Shipping Incl. Tax (%1)","Afleverkosten incl. BTW (%1)",module,Magento_Sales
 "Shipping Excl. Tax (%1)","Afleverkosten excl. BTW (%1)",module,Magento_Sales
@@ -4885,7 +4885,7 @@ Theme,Thema,module,Magento_Theme
 "Invalid type","Ongeldig type",module,Magento_Theme
 "Exception does not contain field '%1'","Fout bevat geen veld '%1'",module,Magento_Theme
 "Invalid regular expression: ""%1"".","Ongeldige reguliere expressie: ""%1"".",module,Magento_Theme
-"-- Please Select --","-- Selecteer Alstublieft --",module,Magento_Theme
+"-- Please Select --","-- Selecteer --",module,Magento_Theme
 "The start date can't follow the end date.","De begindatum moet eerder zijn dan de einddatum.",module,Magento_Theme
 "The date range for this design change overlaps another design change for the specified store.","Het datumbereik voor deze layout wijziging overlapt een andere layout wijziging voor de opgegeven winkel.",module,Magento_Theme
 Copy,Kopieer,module,Magento_Theme
@@ -5512,7 +5512,7 @@ Submit,Bevestig,module,Magento_Catalog
 "Please add rows to option.","Voeg rijen toe aan optie.",module,Magento_Catalog
 "New Option","Nieuwe optie",module,Magento_Catalog
 "Select Product","Selecteer Product",module,Magento_Catalog
-"Please select items.","Selecteer artikelen.",module,Magento_Catalog
+"Please select items.","Selecteer producten.",module,Magento_Catalog
 "Choose existing category.","Kies bestaande categorie.",module,Magento_Catalog
 "Create Category","Categorie Aanmaken",module,Magento_Catalog
 "Image Detail","Afbeelding details",module,Magento_Catalog
