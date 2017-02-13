@@ -662,7 +662,7 @@ Hidden,Verborgen,module,Magento_Catalog
 "Go to Home Page","Ga naar homepagina",module,Magento_Catalog
 "Products Comparison List","Product vergelijk-lijst",module,Magento_Catalog
 N/A,n.v.t.,module,Magento_Catalog
-"-- Please Select --","-- Selecteer Alstublieft --",module,Magento_Catalog
+"-- Please Select --","-- Selecteer --",module,Magento_Catalog
 None,Geen,module,Magento_Catalog
 "New Products","Nieuwe producten",module,Magento_Catalog
 "Click for price","Klik voor de prijs",module,Magento_Catalog
@@ -988,7 +988,7 @@ Layout,Lay-out,module,Magento_Cms
 "Custom Design","Eigen ontwerp",module,Magento_Cms
 "Custom Design From","Custom design vanaf datum",module,Magento_Cms
 "Custom Design To","Custom design tot datum",module,Magento_Cms
-"-- Please Select --","-- Selecteer Alstublieft --",module,Magento_Cms
+"-- Please Select --","-- Selecteer --",module,Magento_Cms
 "Custom Theme","Eigen Thema",module,Magento_Cms
 "Custom Layout","Custom lay-out",module,Magento_Cms
 "Custom Layout Update XML","Custom XML lay-out update",module,Magento_Cms
@@ -1209,7 +1209,7 @@ Global,Systeem,module,Magento_Customer
 "Per Website","Per website",module,Magento_Customer
 "Billing Address",Factuuradres,module,Magento_Customer
 "Shipping Address",Bezorgadres,module,Magento_Customer
-"-- Please Select --","-- Selecteer Alstublieft --",module,Magento_Customer
+"-- Please Select --","-- Selecteer --",module,Magento_Customer
 "Please correct this email address: ""%1"".","Corrigeer het e-mailadres: ""%1"".",module,Magento_Customer
 "The password can not begin or end with a space.","Het wachtwoord kan niet beginnen of eindigen met een spatie.",module,Magento_Customer
 Admin,Beheerder,module,Magento_Customer
@@ -1324,7 +1324,7 @@ Regular,Normaal,module,Magento_Dhl
 "Response is in the wrong format","Antwoord is in het onjuiste formaat",module,Magento_Dhl
 None,Geen,module,Magento_Dhl
 State/Province,Provincie,module,Magento_Directory
-"--Please Select--","--Maak een keuze--",module,Magento_Directory
+"--Please Select--","-- Selecteer --",module,Magento_Directory
 "Please correct the target currency.","Corrigeer de doel-munt.",module,Magento_Directory
 "Undefined rate from ""%1-%2"".","Onbepaald tarief van ""%1-%2"".",module,Magento_Directory
 "FATAL ERROR:","FATALE FOUT:",module,Magento_Directory
@@ -1641,7 +1641,7 @@ Import/Export,Importeren/Exporteren,module,Magento_ImportExport
 "Please specify a source.","Geef een bron op.",module,Magento_ImportExport
 "Cannot get autoincrement value","Kan geen autoincrement waarde ophalen",module,Magento_ImportExport
 "Error in data structure: %1 values are mixed","Fout in datastructuur: %1 waarden zijn gemengd",module,Magento_ImportExport
-"-- Please Select --","-- Selecteer Alstublieft --",module,Magento_ImportExport
+"-- Please Select --","-- Selecteer --",module,Magento_ImportExport
 Add/Update,Toevoegen/bijwerken,module,Magento_ImportExport
 "Add/Update Complex Data","Complexe gegevens toevoegen/bijwerken",module,Magento_ImportExport
 "Delete Entities","Verwijder entiteiten",module,Magento_ImportExport
@@ -1955,7 +1955,7 @@ No,Nee,module,Magento_Payment
 "Switch/Solo/Maestro Only","Uitsluitend Switch/Solo/Maestro",module,Magento_Payment
 "Issue Number",Uitgiftenummer,module,Magento_Payment
 "Start Date",begindatum,module,Magento_Payment
-"--Please Select--","--Maak een keuze--",module,Magento_Payment
+"--Please Select--","-- Selecteer --",module,Magento_Payment
 "Card Verification Number Visual Reference","Visuele referentie Kaartverificatienummer",module,Magento_Payment
 "What is this?","Wat is dit?",module,Magento_Payment
 "Billing Agreements",Incasso-overeenkomsten,module,Magento_Paypal
@@ -2090,7 +2090,7 @@ Void,"Nietig verklaard",module,Magento_Paypal
 "Header (center)","Koptekst (midden)",module,Magento_Paypal
 "Sidebar (right)","Sidebar (rechts)",module,Magento_Paypal
 "Near PayPal Credit checkout button","In de buurt van PayPal Credit checkout-knop",module,Magento_Paypal
-"--Please Select--","--Maak een keuze--",module,Magento_Paypal
+"--Please Select--","-- Selecteer --",module,Magento_Paypal
 Daily,Dagelijks,module,Magento_Paypal
 "No Logo","Geen logo",module,Magento_Paypal
 "Created billing agreement #%1.","Incasso-overeenkomst #%1.",module,Magento_Paypal
@@ -2122,7 +2122,7 @@ View,Bekijk,module,Magento_Paypal
 "There are no billing agreements yet.","Er zijn (nog) geen incasso-overeenkomsten.",module,Magento_Paypal
 "New Billing Agreement","Nieuwe incasso-overeenkomst",module,Magento_Paypal
 "You will be redirected to the payment system website.","U wordt doorgestuurd naar de beveiligde betaalomgeving.",module,Magento_Paypal
-"-- Please Select --","-- Selecteer Alstublieft --",module,Magento_Paypal
+"-- Please Select --","-- Selecteer --",module,Magento_Paypal
 Create...,Aanmaken...,module,Magento_Paypal
 "Shipping Method",Verzendmethode,module,Magento_Paypal
 "Please select a shipping method...","Selecteer een verzendmethode",module,Magento_Paypal
@@ -2595,7 +2595,7 @@ Cancel,Annuleer,module,Magento_Sales
 "Payment Method",Betaalmethode,module,Magento_Sales
 "Order Comment","Notities bestelling",module,Magento_Sales
 Coupons,Kortingsbonnen,module,Magento_Sales
-"Please select a customer","Selecteer een klant a.u.b",module,Magento_Sales
+"Please select a customer","Selecteer een klant",module,Magento_Sales
 "Create New Customer","Nieuwe klant aanmaken",module,Magento_Sales
 "Account Information","Account Gegevens",module,Magento_Sales
 From,Van,module,Magento_Sales
@@ -3373,7 +3373,7 @@ Theme,Thema,module,Magento_Theme
 "You saved the theme.","U heeft het thema opgeslagen.",module,Magento_Theme
 "We cannot find a theme with id ""%1"".","We kunnen geen thema vinden met id ""%1"".",module,Magento_Theme
 "Invalid regular expression: ""%1"".","Ongeldige reguliere expressie: ""%1"".",module,Magento_Theme
-"-- Please Select --","-- Selecteer Alstublieft --",module,Magento_Theme
+"-- Please Select --","-- Selecteer --",module,Magento_Theme
 Copy,Kopieer,module,Magento_Theme
 "Circular-reference in theme inheritance detected for ""%1""","Kringverwijzing in thema overerving waargenomen voor ""%1""",module,Magento_Theme
 "The CSS file must be less than %1M.","Het CSS bestand moet kleiner zijn dan %1M.",module,Magento_Theme
@@ -3756,7 +3756,7 @@ Cancel,Annuleer,module,Magento_Catalog
 "Please add rows to option.","Voeg rijen toe aan optie.",module,Magento_Catalog
 "New Option","Nieuwe optie",module,Magento_Catalog
 "Select Product","Selecteer Product",module,Magento_Catalog
-"Please select items.","Selecteer artikelen.",module,Magento_Catalog
+"Please select items.","Selecteer producten.",module,Magento_Catalog
 "Choose existing category.","Kies bestaande categorie.",module,Magento_Catalog
 "Create Category","Categorie Aanmaken",module,Magento_Catalog
 "unselect all","alles deselecteren",module,Magento_Catalog
