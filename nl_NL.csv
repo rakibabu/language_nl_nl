@@ -3668,7 +3668,7 @@ Close,Sluiten,module,Magento_Widget
 "Page Layouts",Pagina-indelingen,module,Magento_Widget
 "Please Select Container First","Selecteer eerst een container",module,Magento_Widget
 "Design Package/Theme","Ontwerp Pakket/Thema",module,Magento_Widget
-"Assign to Store Views","Koppel aan Winkelaanzichten",module,Magento_Widget
+"Assign to Store Views","Aan Winkelaanzichten toewijzen",module,Magento_Widget
 "Sort Order",Sorteervolgorde,module,Magento_Widget
 "Sort Order of widget instances in the same container","Sorteervolgorde van widgets in dezelfde container",module,Magento_Widget
 "Layout Updates","Lay-out update",module,Magento_Widget
