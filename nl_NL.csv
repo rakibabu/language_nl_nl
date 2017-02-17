@@ -412,26 +412,6 @@ Authorize,Autoriseer,module,Magento_Braintree
 "Authorize and Capture","Authoriseer en Capture",module,Magento_Braintree
 "--Please Select--","-- Selecteer --",module,Magento_Braintree
 "Please agree to all the terms and conditions before placing the order.","Accepteer onze Algemene Voorwaarden voordat u de bestelling plaatst.",module,Magento_Braintree
-"Paypal account",PayPal-account,module,Magento_Braintree
-"Europe bank account","Europese bankrekening",module,Magento_Braintree
-"Credit card",Creditcard,module,Magento_Braintree
-"Apple pay card","Apple pay kaart",module,Magento_Braintree
-"Android pay card","Android pay kaart",module,Magento_Braintree
-"Authorization expired","Autorisatie verlopen",module,Magento_Braintree
-Authorizing,Autoriseren,module,Magento_Braintree
-Authorized,Geauthoriseerd,module,Magento_Braintree
-"Gateway rejected","Gateway geweigerd",module,Magento_Braintree
-Failed,Mislukt,module,Magento_Braintree
-Settled,Afgewikkeld,module,Magento_Braintree
-Settling,Afwikkeling,module,Magento_Braintree
-"Submitted for settlement","Ingediend voor afwikkeling",module,Magento_Braintree
-Voided,"Nietig verklaard",module,Magento_Braintree
-Unrecognized,"Niet herkend",module,Magento_Braintree
-"Settlement declined","Afwikkeling afgewezen",module,Magento_Braintree
-"Settlement pending","Afwikkeling in afwachting",module,Magento_Braintree
-"Settlement confirmed","Afwikkeling bevestigd",module,Magento_Braintree
-Sale,Verkoop,module,Magento_Braintree
-Credit,Krediet,module,Magento_Braintree
 "Credit Card Type",Creditcard-maatschappij,module,Magento_Braintree
 "Credit Card Number",Creditcard-nummer,module,Magento_Braintree
 "Please, enter valid Credit Card Number","Vul een geldig creditcard-nummer in",module,Magento_Braintree
@@ -1570,7 +1550,6 @@ Summary,Samenvatting,module,Magento_ConfigurableProduct
 "You need to choose options for your item.","Er zijn verplichte optie keuzes voor dit product.",module,Magento_ConfigurableProduct
 "Some product variations fields are not valid.","Sommige product variaties velden zijn niet geldig.",module,Magento_ConfigurableProduct
 "Configuration must have specified attributes","De configuratie moet specifieke attributen hebben",module,Magento_ConfigurableProduct
-"Configurable product ""%1"" does not have sub-products","Configureerbaar product ""%1"" heeft geen sub-producten",module,Magento_ConfigurableProduct
 "Type %1 is not an instance of %2","Type %1 is niet een instantie van %2",module,Magento_ConfigurableProduct
 "Choose Affected Attribute Set","Kies getroffen Attributenset",module,Magento_ConfigurableProduct
 "Add configurable attributes to the current Attribute Set","Configureerbare attributen toevoegen aan de huidige Attributenset",module,Magento_ConfigurableProduct
@@ -4159,6 +4138,7 @@ Canceled,Geannuleerd,module,Magento_Sales
 "Unknown State","Onbekende staat",module,Magento_Sales
 "We found an invalid quantity to refund item ""%1"".","Ongeldig aantal gevonden om terug te betalen voor product ""%1"".",module,Magento_Sales
 "Maximum shipping amount allowed to refund is: %1","Maximale afleverbedrag voor terugbetaling is: %1",module,Magento_Sales
+"The most money available to refund is %1.","Het meeste geld beschikbaar voor terugbetaling is %1.",module,Magento_Sales
 "Could not delete credit memo","Kan creditfactuur niet verwijderen",module,Magento_Sales
 "Could not save credit memo","Creditnota kon niet worden opgeslagen",module,Magento_Sales
 "This order already has associated customer account","Deze bestelling heeft al een koppeling met een klanten account",module,Magento_Sales
@@ -4194,13 +4174,9 @@ Mixed,Gemengd,module,Magento_Sales
 "The payment method you requested is not available.","De betalingsmethode die u hebt aangevraagd, is niet beschikbaar.",module,Magento_Sales
 "The payment disallows storing objects.","De betaling verbiedt objecten op te slaan.",module,Magento_Sales
 "The transaction ""%1"" cannot be captured yet.","De betaling van de transactie '%1' kan niet bevestigd worden.",module,Magento_Sales
-"We will authorize %1 after the payment is approved at the payment gateway.","We zullen %1 toestaan nadat de betaling is goedgekeurd via de betaalgateway.",module,Magento_Sales
-"Order is suspended as its authorizing amount %1 is suspected to be fraudulent.","Order is geschorst omdat het te authoriseren bedrag %1 als frauduleus gemarkeerd is.",module,Magento_Sales
-"Authorized amount of %1","Autorisatiewaarde %1",module,Magento_Sales
-"An amount of %1 will be captured after being approved at the payment gateway.","Een bedrag van %1 zal worden vastgelegd nadat het is goedgekeurd via de betaalgateway.",module,Magento_Sales
-"Captured amount of %1 online","Bedrag van %1 via betaalplatform geregistreerd",module,Magento_Sales
 "The order amount of %1 is pending approval on the payment gateway.","Het bestelde aantal van %1 wacht op goedkeuring van de betaal gateway.",module,Magento_Sales
 "Ordered amount of %1","Besteld totaal van %1",module,Magento_Sales
+"An amount of %1 will be captured after being approved at the payment gateway.","Een bedrag van %1 zal worden vastgelegd nadat het is goedgekeurd via de betaalgateway.",module,Magento_Sales
 "Registered notification about captured amount of %1.","Notificatie ontvangen: Betaling vastgelegd voor %1.",module,Magento_Sales
 "Order is suspended as its capture amount %1 is suspected to be fraudulent.","Bestelling is uitgesteld aangezienhet geïnde bedrag %1 frauduleus lijkt.",module,Magento_Sales
 "The parent transaction ID must have a transaction ID.","Bovenliggende transactie ID moet een transactie ID hebben.",module,Magento_Sales
@@ -4239,7 +4215,6 @@ Tax,BTW,module,Magento_Sales
 title,titel,module,Magento_Sales
 "The PDF total model %1 must be or extend \Magento\Sales\Model\Order\Pdf\Total\DefaultTotal.","Het PDF totaal model %1 moet of moet een uitbreiding zijn op \Magento\Sales\Model\Order\Pdf\Total\DefaultTotal.",module,Magento_Sales
 "We cannot register an existing shipment","We kunnen geen bestaande verzending registreren",module,Magento_Sales
-"We found an invalid quantity to ship for item ""%1"".","We vonden een ongeldig aantal om te verzenden voor product ""%1"".",module,Magento_Sales
 "Parent shipment cannot be loaded for track object.","Bovenliggende verzending kan niet worden geladen voor track-object.",module,Magento_Sales
 "Please enter a tracking number.","Voer een trackingnummer in.",module,Magento_Sales
 "Could not delete shipment","Kan de verzending niet verwijderen",module,Magento_Sales
@@ -4274,7 +4249,6 @@ State/Province,Provincie,module,Magento_Sales
 "You can not cancel Credit Memo","Creditfactuur kan niet geannuleerd worden",module,Magento_Sales
 "Could not cancel creditmemo","Creditfactuur kan niet geannuleerd worden",module,Magento_Sales
 "We cannot register an existing credit memo.","Kan een bestaande creditfactuur niet inboeken.",module,Magento_Sales
-"The most money available to refund is %1.","Het meeste geld beschikbaar voor terugbetaling is %1.",module,Magento_Sales
 "We found an invalid quantity to invoice item ""%1"".","We vonden een ongeldig aantal om te factureren voor product ""%1"".",module,Magento_Sales
 "The Order State ""%1"" must not be set manually.","De bestellingsstatus ""%1"" mag niet handmatig ingesteld worden.",module,Magento_Sales
 "VAT Request Identifier","BTW-nummer identifier",module,Magento_Sales
@@ -4289,6 +4263,8 @@ Closed,gesloten,module,Magento_Sales
 New,Nieuw,module,Magento_Sales
 "test message",testbericht,module,Magento_Sales
 "Email has not been sent","E-mail is niet verzonden",module,Magento_Sales
+"We will authorize %1 after the payment is approved at the payment gateway.","We zullen %1 toestaan nadat de betaling is goedgekeurd via de betaalgateway.",module,Magento_Sales
+"Authorized amount of %1","Autorisatiewaarde %1",module,Magento_Sales
 View,Bekijk,module,Magento_Sales
 "Group was removed","Groep is verwijderd",module,Magento_Sales
 "Changing address information will not recalculate shipping, tax or other order amount.","Het wijzigen van adresinformatie zal de verzending, BTW of andere bestelling-bedragen niet herberekenen.",module,Magento_Sales
@@ -4702,22 +4678,16 @@ Error:,Fout:,module,Magento_Shipping
 "contact us","neem contact op",module,Magento_Shipping
 Info:,Informatie:,module,Magento_Shipping
 Track:,Tracking:,module,Magento_Shipping
-Status:,Status,module,Magento_Shipping
 "Delivered on:","Afgeleverd op:",module,Magento_Shipping
-"Signed by:","Getekend door",module,Magento_Shipping
-"Delivered to:","Afgeleverd aan:",module,Magento_Shipping
-"Shipped or billed on:","Verzonden of betaald op:",module,Magento_Shipping
-"Service Type:",Servicetype,module,Magento_Shipping
-Weight:,Gewicht:,module,Magento_Shipping
 N/A,n.v.t.,module,Magento_Shipping
+"There is no tracking available for this shipment.","Er is geen tracking beschikbaar voor deze verzending.",module,Magento_Shipping
+"There is no tracking available.","Er is geen tracking beschikbaar.",module,Magento_Shipping
+"Close Window","sluit venster",module,Magento_Shipping
 "Track history","Geschiedenis bijhouden",module,Magento_Shipping
 Location,Plaats,module,Magento_Shipping
 Date,Datum,module,Magento_Shipping
 "Local Time","Lokale tijd",module,Magento_Shipping
 Description,Beschrijving,module,Magento_Shipping
-"There is no tracking available for this shipment.","Er is geen tracking beschikbaar voor deze verzending.",module,Magento_Shipping
-"There is no tracking available.","Er is geen tracking beschikbaar.",module,Magento_Shipping
-"Close Window","sluit venster",module,Magento_Shipping
 "Save & Generate","Opslaan & genereren",module,Magento_Sitemap
 "Edit Sitemap","Sitemap bewerken",module,Magento_Sitemap
 "New Sitemap","Nieuwe sitemap",module,Magento_Sitemap
@@ -4761,7 +4731,6 @@ All,Alle,module,Magento_Sitemap
 "Requested store is inactive","Opgevraagde winkel is niet actief",module,Magento_Store
 "Requested store is not found","Opgevraagde winkel werd niet gevonden",module,Magento_Store
 "Environment emulation nesting is not allowed.","Emulation nesting omgeving is niet toegestaan.",module,Magento_Store
-"Only default scope allowed","Enkel standaard scope is toegelaten",module,Magento_Store
 "Invalid scope object","Ongeldige scope-object",module,Magento_Store
 "Store with the same code","Opslaan met dezelfde code",module,Magento_Store
 "Website with the same code","Website met dezelfde code",module,Magento_Store
@@ -4773,8 +4742,8 @@ All,Alle,module,Magento_Sitemap
 "All Store Views","Alle Winkelaanzichten",module,Magento_Store
 "-- Please Select --","-- Selecteer --",module,Magento_Store
 Admin,Beheerder,module,Magento_Store
-"More than one default website is defined","Meer dan een standaardwebsite is gedefinieerd",module,Magento_Store
 "Default website is not defined","Standaardwebsite is niet gedefinieerd",module,Magento_Store
+"More than one default website is defined","Meer dan een standaardwebsite is gedefinieerd",module,Magento_Store
 "no such entity exception","geen dergelijke entiteitsuitzondering",module,Magento_Store
 "Your Language:","Uw taal:",module,Magento_Store
 "Your Language","Uw taal",module,Magento_Store
@@ -5374,12 +5343,9 @@ Yes,Ja,module,Magento_Variable
 "No token found.","Geen token gevonden.",module,Magento_Vault
 "Wrong request.","Verkeerd verzoek.",module,Magento_Vault
 "Deletion failure. Please try again.","Verwijderen mislukt. Probeer het opnieuw.",module,Magento_Vault
-"Credit Card was successfully removed","Creditkaart is succesvol verwijderd",module,Magento_Vault
-"My Credit Cards",Creditcards,module,Magento_Vault
 "Card Number",Kaartnummer,module,Magento_Vault
 "Expiration Date",Vervaldatum,module,Magento_Vault
 Type,Soort,module,Magento_Vault
-"You have no credit cards.","U heeft geen Creditkaarten.",module,Magento_Vault
 ending,einde,module,Magento_Vault
 Actions,Acties,module,Magento_Vault
 Delete,Verwijder,module,Magento_Vault
@@ -5597,7 +5563,6 @@ items,producten,module,Magento_Checkout
 "Options Details","Optie Details",module,Magento_Checkout
 Remove,Verwijder,module,Magento_Checkout
 "Cart Subtotal","Winkelwagen subtotaal",module,Magento_Checkout
-"No Payment Methods","Geen betaalmethodes",module,Magento_Checkout
 "Payment Information",Betaalgegevens,module,Magento_Checkout
 "No Payment method available.","Geen betaalmethode beschikbaar.",module,Magento_Checkout
 "You can track your order status by creating an account.","Door het aanmaken van een account, kunt u de status van uw bestelling bijhouden.",module,Magento_Checkout
@@ -6170,7 +6135,6 @@ Download,Downloads,module,Magento_Backup
 Action,Actie,module,Magento_Backup
 "Enable this Solution","Inschakelen van deze oplossing",module,Magento_Braintree
 "Enable PayPal through Braintree","PayPal ingeschakeld via Braintree",module,Magento_Braintree
-"Vault enabled","Kluis ingeschakeld",module,Magento_Braintree
 "Basic Braintree Settings","Basis Braintree instellingen",module,Magento_Braintree
 Title,Titel,module,Magento_Braintree
 Environment,Omgeving,module,Magento_Braintree
@@ -6201,11 +6165,11 @@ Environment,Omgeving,module,Magento_Braintree
 "Apply filters in order to get results. Only first 100 records will be displayed in the grid, you will be able to download full version of the report in .csv format.","Pas filters toe om resultaten te krijgen. Alleen de eerste 100 records worden weergegeven in de tabel. U kunt de volledige versie van het rapport als .csv bestand downloaden.",module,Magento_Braintree
 Select...,Selecteer...,module,Magento_Braintree
 "Transaction Type",Transactietype,module,Magento_Braintree
+"Payment Type",Betalingstype,module,Magento_Braintree
 "PayPal Payment ID","Paypal-betaling ID",module,Magento_Braintree
+"Created At","Aangemaakt op",module,Magento_Braintree
 "Transaction ID",Transactie-ID,module,Magento_Braintree
 "Order ID","Bestelling ID",module,Magento_Braintree
-"Payment Type",Betalingstype,module,Magento_Braintree
-"Created At","Aangemaakt op",module,Magento_Braintree
 Amount,Aantal,module,Magento_Braintree
 "Settlement Code",Betalingscode,module,Magento_Braintree
 "Settlement Response Text",Betalingsreactietekst,module,Magento_Braintree
@@ -6925,18 +6889,16 @@ Manage,Beheren,module,Magento_Paypal
 "Merchant Location","Merchant locatie",module,Magento_Paypal
 "Merchant Country","Land webwinkel",module,Magento_Paypal
 "If not specified, Default Country from General Config will be used","Indien niet opgegeven, zal het standaard land in de basisconfiguratie gebruikt worden.",module,Magento_Paypal
+"Add another payment method to your existing solution or as a stand-alone option.","Voeg een andere betalingsmethode toe aan uw bestaande oplossing of als een aparte oplossing.",module,Magento_Paypal
 "Choose a secure bundled payment solution for your business.","Kies een beveiligde gebundelde betalingsoplossing voor uw bedrijf.",module,Magento_Paypal
 "Payments Pro and Express Checkout","Payments Pro and Express kassa",module,Magento_Paypal
 "Basic Settings - PayPal Payments Pro","Basisinstellingen - PayPal Pro betalingen",module,Magento_Paypal
-"PayPal Payment Gateways","PayPal betalingsgateways",module,Magento_Paypal
-"Process payments using your own internet merchant account.","Verwerk betalingen met behulp van uw eigen internet merchant account.",module,Magento_Paypal
-"Add another payment method to your existing solution or as a stand-alone option.","Voeg een andere betalingsmethode toe aan uw bestaande oplossing of als een aparte oplossing.",module,Magento_Paypal
-1,één,module,Magento_Paypal
+"PayPal All-in-One Payment Solutions&nbsp;&nbsp;<i>Accept and process credit cards and PayPal payments.</i>","PayPal alles-in-één betaaloplossingen&nbsp;&nbsp;<i>Accepteer en verwerk kredietkaarten en PayPal betalingen.</i>",module,Magento_Paypal
 "Accept payments with a completely customizable checkout page.","Acccepteer betalingen met een volledig aanpasbare afrekeningspagina.",module,Magento_Paypal
-"PayPal Payment Solutions",PayPal-betaaloplossingen,module,Magento_Paypal
+"Process payments using your own internet merchant account.","Verwerk betalingen met behulp van uw eigen internet merchant account.",module,Magento_Paypal
 "Add PayPal as an additional payment method to your checkout page.","Voeg PayPal toe aan uw kassa pagina als een bijkomende betalingsmethode.",module,Magento_Paypal
 "Required PayPal Settings","Vereiste PayPal-instellingen",module,Magento_Paypal
-"Email Associated with PayPal Merchant Account","E-mail gekoppeld aan PayPal Merchant Account",module,Magento_Paypal
+"Email Associated with PayPal Merchant Account (Optional)","E-mailadres gekoppeld aan PayPal Merchant Account (optioneel)",module,Magento_Paypal
 "API Username","API gebruikersnaam",module,Magento_Paypal
 "API Password","API wachtwoord",module,Magento_Paypal
 "API Uses Proxy","API gebruikt Proxy",module,Magento_Paypal
@@ -6980,8 +6942,6 @@ Password,Wachtwoord,module,Magento_Paypal
 Schedule,Rooster,module,Magento_Paypal
 "Page Style",Paginastijl,module,Magento_Paypal
 "Page Background Color",Pagina-achtergrondkleur,module,Magento_Paypal
-"Payments Advanced (Includes Express Checkout)","Geavanceerde betalingen (inclusief Express Checkout)",module,Magento_Paypal
-"Accept payments with a PCI-compliant checkout that keeps customers on your site.","Accepteer betalingen met een PCI-compatibele checkout die klanten op uw site houdt.",module,Magento_Paypal
 "Payments Advanced and Express Checkout","Geavanceerde betalingen en Express Checkout",module,Magento_Paypal
 Vendor,Verkoper,module,Magento_Paypal
 User,Gebruiker,module,Magento_Paypal
@@ -6994,21 +6954,15 @@ User,Gebruiker,module,Magento_Paypal
 "CVV Entry is Editable","CVV vermelding is bewerkbaar",module,Magento_Paypal
 "Send Email Confirmation","Verzenden van e-mailbevestiging",module,Magento_Paypal
 "URL method for Cancel URL and Return URL","URL methode voor annuleer-URL en retour-URL",module,Magento_Paypal
-"Payflow Link (Includes Express Checkout)","Payflow Link (inclusief Express Checkout)",module,Magento_Paypal
-"Connect your merchant account with a PCI-compliant gateway that lets customers pay without leaving your site.","Koppel uw merchant account met een compatibele PCI gatewway waardoor klanten kunnen betalen zonder uw site te verlaten.",module,Magento_Paypal
 "Payflow Link and Express Checkout","Payflow Link en Express Checkout",module,Magento_Paypal
-"Email Associated with PayPal Merchant Account (Optional)","E-mailadres gekoppeld aan PayPal Merchant Account (optioneel)",module,Magento_Paypal
 "If you do not have multiple users set up on your account, please re-enter your Vendor/Merchant Login here.","Als u nog geen meerdere gebruikers heeft ingesteld op uw account, voer dan opnieuw uw leverancier/merchant login hier in.",module,Magento_Paypal
 "Enable Payflow Link","Payflow Link inschakelen",module,Magento_Paypal
 "Enable Express Checkout","Express Checkout inschakelen",module,Magento_Paypal
 "Basic Settings - PayPal Payflow Link","Basisinstellingen - PayPal Payflow Link",module,Magento_Paypal
-"Accept payments with a PCI compliant checkout that keeps customers on your site.","Accepteer betalingen met een PCI compatibele checkout die klanten op uw site houdt.",module,Magento_Paypal
 "Payments Pro Hosted Solution","Gehoste Betalingen Pro oplossing",module,Magento_Paypal
 "Basic Settings - PayPal Payments Pro Hosted Solution","Basisinstellingen - Gehoste PayPal Payments Pro oplossing",module,Magento_Paypal
 "Website Payments Pro Hosted Solution and Express Checkout","Hosted Website Payments Pro en Express kassa",module,Magento_Paypal
 "Basic Settings - PayPal Website Payments Pro Hosted Solution","Basisinstellingen - gehoste PayPal Website Payments Pro oplossing",module,Magento_Paypal
-"Connect your merchant account with a fully customizable gateway that lets customers pay without leaving your site.","Sluit uw merchant account op een volledig aanpasbare gateway aan, waarmee uw klanten betalen zonder uw site te verlaten.",module,Magento_Paypal
-"Vault enabled","Kluis ingeschakeld",module,Magento_Paypal
 "Basic Settings - PayPal Payflow Pro","Basisinstellingen - PayPal Payflow Pro",module,Magento_Paypal
 "Vault Title","Titel Kluis",module,Magento_Paypal
 "Allowed Credit Card Types","Toegestane credit card typen",module,Magento_Paypal
@@ -7018,7 +6972,6 @@ User,Gebruiker,module,Magento_Paypal
 "AVS Zip Does Not Match","AVS Postcode komt niet overeen",module,Magento_Paypal
 "International AVS Indicator Does Not Match","Internationale AVS Indicator komt niet overeen",module,Magento_Paypal
 "Card Security Code Does Not Match","Card Security Code komt niet overeen",module,Magento_Paypal
-"Payflow Pro (Includes Express Checkout)","Payflow Pro (inclusief Express Checkout)",module,Magento_Paypal
 "Payflow Pro and Express Checkout","Payflow Pro en Express Checkout",module,Magento_Paypal
 "Persistent Shopping Cart","Winkelwagen volgen",module,Magento_Persistent
 "General Options","Algemene opties",module,Magento_Persistent
