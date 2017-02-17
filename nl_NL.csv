@@ -6648,7 +6648,7 @@ Addresses,Adressen,module,Magento_Customer
 "Password forgotten","Wachtwoord vergeten",module,Magento_Customer
 "My Dashboard",Overzicht,module,Magento_Customer
 "You are signed out","U bent afgemeld",module,Magento_Customer
-"Frontend Development Workflow","Front-end Development workflow",module,Magento_Developer
+"Frontend Development Workflow","Frontend Development workflow",module,Magento_Developer
 "Workflow type","Type werkstroom",module,Magento_Developer
 "Not available in production mode","Niet beschikbaar in productie mode",module,Magento_Developer
 "Developer Client Restrictions","Beperk bewerkingen in omgeving o.b.v. IP adres",module,Magento_Developer
