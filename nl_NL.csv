@@ -501,7 +501,7 @@ Promo,Promotie,module,Magento_CatalogRule
 "Product Attribute",Product-attribuut,module,Magento_CatalogRule
 "Go to Home Page","Ga naar homepagina",module,Magento_CatalogSearch
 "Catalog Advanced Search","Catalogus geavanceerd zoeken",module,Magento_CatalogSearch
-All,Allen,module,Magento_CatalogSearch
+All,Alle,module,Magento_CatalogSearch
 Yes,Ja,module,Magento_CatalogSearch
 No,Nee,module,Magento_CatalogSearch
 Results,Resultaten,module,Magento_CatalogSearch
@@ -712,7 +712,7 @@ Products,Producten,module,Magento_Catalog
 "Invalid attribute %1","Ongeldig attribuut %1",module,Magento_Catalog
 Grid,Foto-tabel,module,Magento_Catalog
 List,Lijst,module,Magento_Catalog
-All,Allen,module,Magento_Catalog
+All,Alle,module,Magento_Catalog
 "Bad controller interface for showing product","Verkeerde controller interface voor het weergeven van product",module,Magento_Catalog
 "The value of attribute ""%1"" must be unique.","De waarde van attribuut ""%1"" moet uniek zijn.",module,Magento_Catalog
 "Default Product Listing Sort by does not exist in Available Product Listing Sort By.","Standaard product sortering komt niet voor niet in de beschikbare-product-sorteringen-lijst",module,Magento_Catalog
@@ -3551,7 +3551,7 @@ Forced,Gedwongen,module,Magento_User
 "Roles Resources","Rollen bronnen",module,Magento_User
 "Resource Access","Toegang tot bron",module,Magento_User
 Custom,Aangepast,module,Magento_User
-All,Allen,module,Magento_User
+All,Alle,module,Magento_User
 Resources,Bronnen,module,Magento_User
 "Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?","Waarschuwin:\r\nDeze actie verwijderd de gebruik van de reeds toegekende rollen\r\nBent u zeker?",module,Magento_User
 "Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?","Waarschuwin:\r\nDeze actie verwijderd de gebruikers van de reeds toegekende rollen\r\nBent u zeker?",module,Magento_User
@@ -3695,7 +3695,7 @@ Widgets,Widget,module,Magento_Widget
 name,naam,module,Magento_Widget
 description,omschrijving,module,Magento_Widget
 "We cannot create the widget instance because it is missing required information.","We kunnen het widget niet aanmaken omdat het verplichte informatie mist.",module,Magento_Widget
-All,Allen,module,Magento_Widget
+All,Alle,module,Magento_Widget
 "Specific %1","Specifieke %1",module,Magento_Widget
 "Open Chooser","Kiezer openen",module,Magento_Widget
 Apply,"Actie type",module,Magento_Widget
