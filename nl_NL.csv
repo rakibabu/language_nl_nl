@@ -689,7 +689,7 @@ Promo,Promotie,module,Magento_CatalogRule
 "You disabled %1 Catalog Price Rules based on ""%2"" attribute.","%1 catalogus prijsregel is uitgeschakeld op basis van attribuut ""%2"".",module,Magento_CatalogRule
 "Go to Home Page","Ga naar homepagina",module,Magento_CatalogSearch
 "Catalog Advanced Search","Catalogus geavanceerd zoeken",module,Magento_CatalogSearch
-All,Allen,module,Magento_CatalogSearch
+All,Alle,module,Magento_CatalogSearch
 Yes,Ja,module,Magento_CatalogSearch
 No,Nee,module,Magento_CatalogSearch
 Results,Resultaten,module,Magento_CatalogSearch
@@ -957,7 +957,7 @@ Products,Producten,module,Magento_Catalog
 "Invalid attribute %1","Ongeldig attribuut %1",module,Magento_Catalog
 Grid,Foto-tabel,module,Magento_Catalog
 List,Lijst,module,Magento_Catalog
-All,Allen,module,Magento_Catalog
+All,Alle,module,Magento_Catalog
 "Bad controller interface for showing product","Verkeerde controller interface voor het weergeven van product",module,Magento_Catalog
 "Make sure the To Date is later than or the same as the From Date.","Zorg ervoor dat de t/m datum is hoger dan of gelijk aan de datum van.",module,Magento_Catalog
 "Sorry, but we can't find the new parent category you selected.","Geselecteerde nieuwe bovenliggende categorie niet gevonden.",module,Magento_Catalog
@@ -2672,7 +2672,7 @@ Active,Actief,module,Magento_Integration
 "Available APIs","Beschikbare API 's",module,Magento_Integration
 "Resource Access","Toegang tot bron",module,Magento_Integration
 Custom,Aangepast,module,Magento_Integration
-All,Allen,module,Magento_Integration
+All,Alle,module,Magento_Integration
 Resources,Bronnen,module,Magento_Integration
 "Filterable (with results)","Filterbaar (met resultaten)",module,Magento_LayeredNavigation
 "Filterable (no results)","Filterbaar (geen resultaten)",module,Magento_LayeredNavigation
@@ -5121,7 +5121,7 @@ Forced,Gedwongen,module,Magento_User
 "Roles Resources","Rollen bronnen",module,Magento_User
 "Resource Access","Toegang tot bron",module,Magento_User
 Custom,Aangepast,module,Magento_User
-All,Allen,module,Magento_User
+All,Alle,module,Magento_User
 Resources,Bronnen,module,Magento_User
 "Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?","Waarschuwin:\r\nDeze actie verwijderd de gebruik van de reeds toegekende rollen\r\nBent u zeker?",module,Magento_User
 "Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?","Waarschuwin:\r\nDeze actie verwijderd de gebruikers van de reeds toegekende rollen\r\nBent u zeker?",module,Magento_User
@@ -5296,7 +5296,7 @@ name,naam,module,Magento_Widget
 description,omschrijving,module,Magento_Widget
 "We cannot create the widget instance because it is missing required information.","We kunnen het widget niet aanmaken omdat het verplichte informatie mist.",module,Magento_Widget
 None,Geen,module,Magento_Widget
-All,Allen,module,Magento_Widget
+All,Alle,module,Magento_Widget
 "Specific %1","Specifieke %1",module,Magento_Widget
 "Open Chooser","Kiezer openen",module,Magento_Widget
 Apply,"Actie type",module,Magento_Widget
