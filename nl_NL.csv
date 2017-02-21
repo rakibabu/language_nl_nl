@@ -3678,7 +3678,7 @@ Summary,Samenvatting,module,Magento_Review
 "Page not found.","Pagina niet gevonden.",module,Magento_Rss
 "Miscellaneous Feeds","Diverse Feeds",module,Magento_Rss
 "Get Feed","Feed opvragen",module,Magento_Rss
-Apply,"Actie type",module,Magento_Rule
+Apply,Toepassen,module,Magento_Rule
 "Please choose a valid discount amount.","Kies een geldig kortingsbedrag.",module,Magento_Rule
 "End Date must follow Start Date.","Einddatum moet later zijn dan begindatum.",module,Magento_Rule
 "Please specify a website.","Geef een website op.",module,Magento_Rule
@@ -4277,7 +4277,7 @@ Notified,Genotificeerd,module,Magento_Sales
 "No Payment Methods","Geen betaalmethodes",module,Magento_Sales
 "Order Comments",Bestellingsnotities,module,Magento_Sales
 "Apply Coupon Code","Pas kortingscode toe",module,Magento_Sales
-Apply,"Actie type",module,Magento_Sales
+Apply,Toepassen,module,Magento_Sales
 "Remove Coupon Code","Verwijder kortingscode",module,Magento_Sales
 Remove,Verwijder,module,Magento_Sales
 "Address Information","Adres Gegevens",module,Magento_Sales
@@ -5427,7 +5427,7 @@ None,Geen,module,Magento_Widget
 All,Alle,module,Magento_Widget
 "Specific %1","Specifieke %1",module,Magento_Widget
 "Open Chooser","Kiezer openen",module,Magento_Widget
-Apply,"Actie type",module,Magento_Widget
+Apply,Toepassen,module,Magento_Widget
 Page,Pagina,module,Magento_Widget
 "Wish List",Verlanglijst,module,Magento_Wishlist
 "Wish List Sharing","Verlanglijst Delen",module,Magento_Wishlist
@@ -7083,7 +7083,7 @@ Coupon,Tegoedbon,module,Magento_SalesRule
 From,Van,module,Magento_SalesRule
 To,Aan,module,Magento_SalesRule
 "Public In RSS Feed","Publiceren in RSS-feed",module,Magento_SalesRule
-Apply,"Actie type",module,Magento_SalesRule
+Apply,Toepassen,module,Magento_SalesRule
 "Discount Amount",Korting,module,Magento_SalesRule
 "Maximum Qty Discount is Applied To","Maximaal aantal waarop korting is toegepast (per product)",module,Magento_SalesRule
 "Discount Qty Step (Buy X)","Koop X-aantal (aantal dat klant moet kopen voordat hij Y-aantal gratis krijgt)",module,Magento_SalesRule
