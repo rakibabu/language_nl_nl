@@ -462,7 +462,7 @@ Qty,Aantal,module,Magento_CatalogInventory
 "New Rule","Nieuwe regel",module,Magento_CatalogRule
 "Rule Information","Regel Informatie",module,Magento_CatalogRule
 Actions,acties,module,Magento_CatalogRule
-Apply,"Actie type",module,Magento_CatalogRule
+Apply,Toepassen,module,Magento_CatalogRule
 "Discount Amount",Korting,module,Magento_CatalogRule
 "Subproduct discounts","Subproduct kortingen",module,Magento_CatalogRule
 No,Nee,module,Magento_CatalogRule
@@ -2427,7 +2427,7 @@ Summary,Samenvatting,module,Magento_Review
 "Back to Product Reviews","Terug naar productreviews",module,Magento_Review
 "Miscellaneous Feeds","Diverse Feeds",module,Magento_Rss
 "Get Feed","Feed opvragen",module,Magento_Rss
-Apply,"Actie type",module,Magento_Rule
+Apply,Toepassen,module,Magento_Rule
 "End Date must follow Start Date.","Einddatum moet later zijn dan begindatum.",module,Magento_Rule
 to,naar,module,Magento_Rule
 by,door,module,Magento_Rule
@@ -2462,7 +2462,7 @@ Category,Categorie,module,Magento_Rule
 "New Rule","Nieuwe regel",module,Magento_SalesRule
 "Rule Information","Regel Informatie",module,Magento_SalesRule
 Actions,Acties,module,Magento_SalesRule
-Apply,"Actie type",module,Magento_SalesRule
+Apply,Toepassen,module,Magento_SalesRule
 "Percent of product price discount","Korting (percentage van productprijs)",module,Magento_SalesRule
 "Fixed amount discount","Vast kortingsbedrag",module,Magento_SalesRule
 "Fixed amount discount for whole cart","Vast kortingsbedrag voor hele winkelwagen",module,Magento_SalesRule
@@ -2919,7 +2919,7 @@ Notified,Genotificeerd,module,Magento_Sales
 "No Payment Methods","Geen betaalmethodes",module,Magento_Sales
 "Order Comments",Bestellingsnotities,module,Magento_Sales
 "Apply Coupon Code","Pas kortingscode toe",module,Magento_Sales
-Apply,"Actie type",module,Magento_Sales
+Apply,Toepassen,module,Magento_Sales
 "Remove Coupon Code","Verwijder kortingscode",module,Magento_Sales
 Remove,Verwijder,module,Magento_Sales
 "Order Total",Totaal,module,Magento_Sales
@@ -3698,7 +3698,7 @@ description,omschrijving,module,Magento_Widget
 All,Alle,module,Magento_Widget
 "Specific %1","Specifieke %1",module,Magento_Widget
 "Open Chooser","Kiezer openen",module,Magento_Widget
-Apply,"Actie type",module,Magento_Widget
+Apply,Toepassen,module,Magento_Widget
 Page,Pagina,module,Magento_Widget
 "Wish List",Verlanglijst,module,Magento_Wishlist
 "Wish List Sharing","Verlanglijst Delen",module,Magento_Wishlist
