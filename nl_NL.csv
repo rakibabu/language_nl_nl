@@ -32,7 +32,7 @@ Close,Sluiten,module,Magento_AdminNotification
 "Critical System Messages","Kritische Systeemberichten",module,Magento_AdminNotification
 "Major System Messages","Belangrijke Systeemberichten",module,Magento_AdminNotification
 "System messages",Systeemberichten,module,Magento_AdminNotification
-"You created the order.","U heeft de order aangemaakt.",module,Magento_Authorizenet
+"You created the order.","Bestelling is aangemaakt.",module,Magento_Authorizenet
 "Order saving error: %1","Fout tijdens opslaan van order: %1",module,Magento_Authorizenet
 "Please choose a payment method.","Kies een betaalwijze.",module,Magento_Authorizenet
 "Credit Card: xxxx-%1","Creditcard: xxxx-%1",module,Magento_Authorizenet
