@@ -347,7 +347,6 @@ Loading...,"Bezig met laden...",module,Magento_Backend
 "You need more free space to create a backup.","Onvoldoende opslagruimte voor het maken van een back-up.",module,Magento_Backup
 "You need more permissions to create a backup.","U heeft meer bevoegdheden nodig om een back-up te maken.",module,Magento_Backup
 "We can't create the backup right now.","We kunnen de back-up nu niet maken.",module,Magento_Backup
-System,systeem,module,Magento_Backup
 Tools,Instellingen,module,Magento_Backup
 "We can't delete one or more backups.","Wij kunnen een of meerdere back-ups niet verwijderen.",module,Magento_Backup
 "You deleted the selected backup(s).","U heeft de geselecteerde back-up(s) verwijderd.",module,Magento_Backup
@@ -1348,7 +1347,7 @@ Edit,Bewerken,module,Magento_Checkout
 "Estimate Shipping and Tax","Bekijk verzendkosten en BTW",module,Magento_Checkout
 "Excl. Tax","Excl. BTW",module,Magento_Checkout
 Loading...,"Bezig met laden...",module,Magento_Checkout
-"Order #","Bestelling #",module,Magento_Checkout
+"Order #",Ordernr.,module,Magento_Checkout
 "Proceed to Checkout","Ga door naar afrekenen",module,Magento_Checkout
 "Product Name",Productnaam,module,Magento_Checkout
 "Incl. Tax","Incl. BTW",module,Magento_Checkout
@@ -2143,7 +2142,7 @@ Availability,Beschikbaarheid,module,Magento_Downloadable
 "Out of stock","Niet op voorraad",module,Magento_Downloadable
 "Go to <a href=""%1"">My Downloadable Products</a>","Ga naar <a href=""%1"">Downloads</a>",module,Magento_Downloadable
 "Downloadable Products",Download-producten,module,Magento_Downloadable
-"Order #","Bestelling #",module,Magento_Downloadable
+"Order #",Ordernr.,module,Magento_Downloadable
 Date,Datum,module,Magento_Downloadable
 "Remaining Downloads","Resterende downloads",module,Magento_Downloadable
 "View Order","Bestelling bekijken",module,Magento_Downloadable
@@ -3190,7 +3189,7 @@ Status:,Status,module,Magento_Paypal
 Created:,Gemaakt:,module,Magento_Paypal
 Updated:,Bijgewerkt:,module,Magento_Paypal
 "Payment Method:",Betaalmethode:,module,Magento_Paypal
-"Order #","Bestelling #",module,Magento_Paypal
+"Order #",Ordernr.,module,Magento_Paypal
 Date,Datum,module,Magento_Paypal
 "Ship To","Verzenden aan",module,Magento_Paypal
 "Order Status","Bestelling Status",module,Magento_Paypal
@@ -4354,7 +4353,7 @@ Continue,Doorgaan,module,Magento_Sales
 "Refund #","Restitutie #",module,Magento_Sales
 "Print Refund","Restitutie printen",module,Magento_Sales
 "Product Name",Productnaam,module,Magento_Sales
-"Order #","Bestelling nummer",module,Magento_Sales
+"Order #",Ordernr.,module,Magento_Sales
 Date,Datum,module,Magento_Sales
 "Ship To","Verzenden aan",module,Magento_Sales
 Actions,acties,module,Magento_Sales
@@ -5010,7 +5009,7 @@ Custom,Aangepast,module,Magento_UrlRewrite
 "Create URL Rewrite:","URL Rewrite aanmaken:",module,Magento_UrlRewrite
 "You deleted the URL rewrite.","U heeft de URL rewrite verwijderd.",module,Magento_UrlRewrite
 "We can't delete URL Rewrite right now.","We kunnen de URL Rewrite momenteel niet verwijderen.",module,Magento_UrlRewrite
-"The product you chose is not associated with the selected store or category.","Het product dat u koos is niet gekoppeld met de geselecteerde winkel of categorie.",module,Magento_UrlRewrite
+"The product you chose is not associated with the selected store or category.","Het gekozen product is niet gekoppeld aan de gekozen winkel of categorie.",module,Magento_UrlRewrite
 "The category you chose is not associated with the selected store.","De gekozen categorie is niet gekoppeld met de geselecteerde winkel.",module,Magento_UrlRewrite
 "The URL Rewrite has been saved.","De URL Rewrite is opgeslagen.",module,Magento_UrlRewrite
 "Something went wrong while saving URL Rewrite.","Er ging iets fout tijdens het opslaan van de URL Rewrite.",module,Magento_UrlRewrite
@@ -5734,7 +5733,7 @@ Admin,Beheerder,module,Magento_Backend
 "Make sure that base URL ends with '/' (slash), e.g. http://yourdomain/magento/","Let erop dat de URL eindigt met een '/' (slash). Het aanpassen van dit is niet zonder risico's.",module,Magento_Backend
 "Use Custom Admin Path","Gebruik aangepast admin-pad (URI)",module,Magento_Backend
 "Custom Admin Path","Custom Admin-pad",module,Magento_Backend
-"You will have to sign in after you save your custom admin path.","U zult opnieuw moeten inloggen als u het custom admin-pad aanpast.",module,Magento_Backend
+"You will have to sign in after you save your custom admin path.","U moet opnieuw moeten inloggen als u het custom admin-pad aanpast.",module,Magento_Backend
 Security,Beveiliging,module,Magento_Backend
 "Add Secret Key to URLs","Voeg geheime sleutel toe aan URLs",module,Magento_Backend
 "Login is Case Sensitive","Wachtwoord is hoofdlettergevoelig",module,Magento_Backend
@@ -6174,7 +6173,7 @@ Addresses,Adressen,module,Magento_Customer
 "Not available in production mode","Niet beschikbaar in productie mode",module,Magento_Developer
 "Developer Client Restrictions","Beperk bewerkingen in omgeving o.b.v. IP adres",module,Magento_Developer
 "Allowed IPs (comma separated)","Toegestane IP's (door komma's gescheiden)",module,Magento_Developer
-"Leave empty for access from any location.","Indien het veld leeg is, zal deze functionaliteit voor iedereen zichtbaar zijn",module,Magento_Developer
+"Leave empty for access from any location.","Indien het veld leeg is, zal deze functionaliteit voor iedereen toegankelijk zijn.",module,Magento_Developer
 "Enabled for Checkout","Ingeschakeld bij Afrekenen",module,Magento_Dhl
 "Gateway URL","Betaalplatform URL",module,Magento_Dhl
 Title,Titel,module,Magento_Dhl
@@ -6310,8 +6309,8 @@ Updated,Bijgewerkt,module,Magento_Indexer
 "Storage Configuration for Media","Opslaglocatie voor mediabestanden",module,Magento_MediaStorage
 "Media Storage","Media opslag",module,Magento_MediaStorage
 "Select Media Database","Selecteer mediadatabase",module,Magento_MediaStorage
-"After selecting a new media storage location, press the Synchronize button to transfer all media to that location. Media will not be available in the new location until the synchronization process is complete.","Na het selecteren van de nieuwe media opslaglocatie, drukt u op de synchronizeren knop om alle media naar de nieuwe locatie over te brengen. De media zal niet beschikbaar zijn op de nieuwe locatie totdat het synchronisatieproces voltooid is.",module,Magento_MediaStorage
-"Environment Update Time","Update tijd",module,Magento_MediaStorage
+"After selecting a new media storage location, press the Synchronize button to transfer all media to that location. Media will not be available in the new location until the synchronization process is complete.","Na het selecteren van de nieuwe media opslaglocatie, drukt u op de synchroniseren knop om alle media naar de nieuwe locatie over te brengen. De media zal niet beschikbaar zijn op de nieuwe locatie totdat het synchronisatieproces voltooid is.",module,Magento_MediaStorage
+"Environment Update Time","Updatetijd omgeving",module,Magento_MediaStorage
 "Minimum Advertised Price","Minimum geadverteerde verkoopprijs",module,Magento_Msrp
 "Enable MAP","MAP (minimaal geadverteerde prijs) inschakelen",module,Magento_Msrp
 "Display Actual Price","Toon werkelijke prijs",module,Magento_Msrp
