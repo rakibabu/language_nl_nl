@@ -284,8 +284,12 @@ Loading...,"Bezig met laden...",module,Magento_Backend
 "You need more permissions to activate maintenance mode right now.","U heeft meer bevoegdheden nodig om de onderhoudsmodus te activeren.",module,Magento_Backup
 "You need more free space to create a backup.","Onvoldoende opslagruimte voor het maken van een back-up.",module,Magento_Backup
 "You need more permissions to create a backup.","U heeft meer bevoegdheden nodig om een back-up te maken.",module,Magento_Backup
-System,systeem,module,Magento_Backup
+Backups,Back-ups,module,Magento_Backup
+System,Systeem,module,Magento_Backup
 Tools,Instellingen,module,Magento_Backup
+Backup,Back-up,module,Magento_Backup
+failed,mislukt,module,Magento_Backup
+successful,gelukt,module,Magento_Backup
 "Please correct the password.","Corrigeer het wachtwoord.",module,Magento_Backup
 "Database and Media","Database en media",module,Magento_Backup
 "System (excluding Media)","Systeem (exclusief media)",module,Magento_Backup
@@ -956,7 +960,7 @@ Edit,Bewerken,module,Magento_Checkout
 "Estimate Shipping and Tax","Bekijk verzendkosten en BTW",module,Magento_Checkout
 "Excl. Tax","Excl. BTW",module,Magento_Checkout
 Loading...,"Bezig met laden...",module,Magento_Checkout
-"Order #","Bestelling #",module,Magento_Checkout
+"Order #",Ordernr.,module,Magento_Checkout
 "Proceed to Checkout","Ga door naar afrekenen",module,Magento_Checkout
 "Product Name",Productnaam,module,Magento_Checkout
 "Incl. Tax","Incl. BTW",module,Magento_Checkout
@@ -1376,7 +1380,7 @@ Availability,Beschikbaarheid,module,Magento_Downloadable
 "Out of stock","Niet op voorraad",module,Magento_Downloadable
 "Go to <a href=""%1"">My Downloadable Products</a>","Ga naar <a href=""%1"">Downloads</a>",module,Magento_Downloadable
 "Downloadable Products",Download-producten,module,Magento_Downloadable
-"Order #","Bestelling #",module,Magento_Downloadable
+"Order #",Ordernr.,module,Magento_Downloadable
 Date,Datum,module,Magento_Downloadable
 "Remaining Downloads","Resterende downloads",module,Magento_Downloadable
 "View Order","Bestelling bekijken",module,Magento_Downloadable
@@ -2111,7 +2115,7 @@ Status:,Status,module,Magento_Paypal
 Created:,Gemaakt:,module,Magento_Paypal
 Updated:,Bijgewerkt:,module,Magento_Paypal
 "Payment Method:",Betaalmethode:,module,Magento_Paypal
-"Order #","Bestelling #",module,Magento_Paypal
+"Order #",Ordernr.,module,Magento_Paypal
 Date,Datum,module,Magento_Paypal
 "Ship To","Verzenden aan",module,Magento_Paypal
 "Order Status","Bestelling Status",module,Magento_Paypal
@@ -3026,7 +3030,7 @@ Continue,Doorgaan,module,Magento_Sales
 "Refund #","Restitutie #",module,Magento_Sales
 "Print Refund","Restitutie printen",module,Magento_Sales
 "Product Name",Productnaam,module,Magento_Sales
-"Order #","Bestelling #",module,Magento_Sales
+"Order #",Ordernr.,module,Magento_Sales
 Date,Datum,module,Magento_Sales
 "Ship To","Verzenden aan",module,Magento_Sales
 "View Order","Bestelling bekijken",module,Magento_Sales
@@ -4222,7 +4226,7 @@ Addresses,Adressen,module,Magento_Customer
 "Not available in production mode","Niet beschikbaar in productie mode",module,Magento_Developer
 "Developer Client Restrictions","Beperk bewerkingen in omgeving o.b.v. IP adres",module,Magento_Developer
 "Allowed IPs (comma separated)","Toegestane IP's (door komma's gescheiden)",module,Magento_Developer
-"Leave empty for access from any location.","Indien het veld leeg is, zal deze functionaliteit voor iedereen zichtbaar zijn",module,Magento_Developer
+"Leave empty for access from any location.","Indien het veld leeg is, zal deze functionaliteit voor iedereen toegankelijk zijn.",module,Magento_Developer
 "Enabled for Checkout","Ingeschakeld bij Afrekenen",module,Magento_Dhl
 "Gateway URL","Betaalplatform URL",module,Magento_Dhl
 Title,Titel,module,Magento_Dhl
