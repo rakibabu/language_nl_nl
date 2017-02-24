@@ -47,6 +47,7 @@ Close,Sluiten,module,Magento_AdminNotification
 "Order saving error: %1","Fout tijdens opslaan van order: %1",module,Magento_Authorizenet
 "Please choose a payment method.","Kies een betaalwijze.",module,Magento_Authorizenet
 "We can't process your order right now. Please try again later.","We kunnen uw bestelling nu niet verwerken. Probeer het later nog eens.",module,Magento_Authorizenet
+"An error occurred on the server. Please try to place the order again.","Er is een fout opgetreden op de server. Probeer het opnieuw plaatsen van de bestelling.",module,Magento_Authorizenet
 "Credit Card: xxxx-%1","Creditcard: xxxx-%1",module,Magento_Authorizenet
 "amount %1","bedrag %1",module,Magento_Authorizenet
 failed.,mislukt.,module,Magento_Authorizenet
