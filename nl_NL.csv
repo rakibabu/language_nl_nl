@@ -5758,7 +5758,7 @@ Added,Toegevoegd,module,Magento_Catalog
 Close,Sluiten,module,Magento_CheckoutAgreements
 "Provided Zip/Postal Code seems to be invalid.","Opgegeven postcode lijkt ongeldig.",module,Magento_Checkout
 "If you believe it is the right one you can ignore this notice.","Als u gelooft dat het de juiste is, kunt u dit bericht negeren.",module,Magento_Checkout
-"Review & Payments","Controleer & Afrekenen",module,Magento_Checkout
+"Review & Payments","Overzicht & betalen",module,Magento_Checkout
 Shipping,Aflevering,module,Magento_Checkout
 "Save Address","Adres opslaan",module,Magento_Checkout
 "We could not detect a size.","We kunnen geen grootte detecteren.",module,Magento_Cms
