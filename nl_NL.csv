@@ -191,7 +191,7 @@ Submit,Bevestig,module,Magento_Backend
 "see error log for details","bekijk het error logboek voor details",module,Magento_Backend
 "Service unavailable: %1","Service niet beschikbaar: %1",module,Magento_Backend
 Error,Foutmelding,module,Magento_Backend
-"You need more permissions to do this.","Moet heeft meer bevoegdheden nodig om dit te doen.",module,Magento_Backend
+"You need more permissions to do this.","U heeft meer bevoegdheden nodig om dit te doen.",module,Magento_Backend
 "No search modules were registered","Er zijn geen zoekmodules geregistreerd.",module,Magento_Backend
 "Please make sure that all global admin search modules are installed and activated.","Zorg er voor dat alle globale admin zoekmodules zijn geïnstalleerd en geactiveerd.",module,Magento_Backend
 "You saved the account.","Het account werd opgeslagen.",module,Magento_Backend
