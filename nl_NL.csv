@@ -354,6 +354,7 @@ Loading...,"Bezig met laden...",module,Magento_Backend
 "We can't create the backup right now.","We kunnen de back-up nu niet maken.",module,Magento_Backup
 Tools,Instellingen,module,Magento_Backup
 "We can't delete one or more backups.","Wij kunnen een of meerdere back-ups niet verwijderen.",module,Magento_Backup
+successful,geslaagd,module,Magento_Backup
 "You deleted the selected backup(s).","U heeft de geselecteerde back-up(s) verwijderd.",module,Magento_Backup
 "Can't load snapshot archive","Kan momentopname (snapshot) niet laden",module,Magento_Backup
 "Please correct the password.","Corrigeer het wachtwoord.",module,Magento_Backup
@@ -420,6 +421,7 @@ Authorize,Autoriseer,module,Magento_Braintree
 "Please, enter valid Card Verification Number","Vul een geldige Creditcard Verificatie Nummer in",module,Magento_Braintree
 ending,einde,module,Magento_Braintree
 expires,verloopt,module,Magento_Braintree
+"PayPal Account",PayPal-account,module,Magento_Braintree
 Actions,acties,module,Magento_Braintree
 Delete,Verwijder,module,Magento_Braintree
 "Percent Discount",Kortingspercentage,module,Magento_Bundle
@@ -1498,6 +1500,8 @@ Yes,Ja,module,Magento_Config
 Specified,Gespecificeerd,module,Magento_Config
 "Config form fieldset clone model required to be able to clone fields","Configuratie form fieldset clone model verplicht om velden te kunnen kopieren.",module,Magento_Config
 "Invalid XML in file %1:\n%2","Ongeldige XML in bestand %1:\n%2",module,Magento_Config
+"'There is no defined type ' .","'Er is geen gedefinieerd type'.",module,Magento_Config
+"'Object is not instance of ' .","'Object is geen exemplaar van'.",module,Magento_Config
 "some prefix","een voorvoegsel",module,Magento_Config
 "element hint","element tip",module,Magento_Config
 "element comment","element opmerking",module,Magento_Config
@@ -1523,6 +1527,8 @@ Summary,Samenvatting,module,Magento_ConfigurableProduct
 "Choose an Option...","Kies een optie...",module,Magento_ConfigurableProduct
 "This attribute is used in configurable products.","Deze attribuut wordt gebruikt in configureerbare producten.",module,Magento_ConfigurableProduct
 "Product has been already attached","Product is al gekoppeld",module,Magento_ConfigurableProduct
+"Parent product does not have configurable product options","Bovenliggend product heeft geen configureerbare productopties",module,Magento_ConfigurableProduct
+"Child product does not have attribute value %1","Onderliggend product heeft geen attribuut waarde %1",module,Magento_ConfigurableProduct
 "Product with specified sku: %1 is not a configurable product","Product met opgegeven art.nr.: %1 is geen configureerbaar product",module,Magento_ConfigurableProduct
 "Requested option doesn't exist","Gevraagde optie bestaat niet",module,Magento_ConfigurableProduct
 "Requested option doesn't exist: %1","Gevraagde optie bestaat niet: %1",module,Magento_ConfigurableProduct
@@ -3692,6 +3698,8 @@ Category,Categorie,module,Magento_Rule
 "Open Chooser","Kiezer openen",module,Magento_Rule
 "Unknown condition operator","Onbekende condition operator",module,Magento_Rule
 "There is no information about associated entity type ""%1"".","Er is geen informatie over de geassocieerde entiteit-typen ""%1"".",module,Magento_Rule
+"The ""%1"" product is not part of the current creditmemo.","Het product ""%1"" is geen onderdeel van de huidige creditmemo.",module,Magento_SalesInventory
+"The return to stock argument contains product item that is not part of the original order.","De terugkeer naar voorraad argument bevat product-item dat geen deel uitmaakt van de oorspronkelijke order.",module,Magento_SalesInventory
 "Cart Price Rules","Winkelwagen prijs regels",module,Magento_SalesRule
 "Add New Rule","Voeg nieuwe regel toe",module,Magento_SalesRule
 Delete,Verwijder,module,Magento_SalesRule
@@ -5320,6 +5328,9 @@ Yes,Ja,module,Magento_Variable
 "No token found.","Geen token gevonden.",module,Magento_Vault
 "Wrong request.","Verkeerd verzoek.",module,Magento_Vault
 "Deletion failure. Please try again.","Verwijderen mislukt. Probeer het opnieuw.",module,Magento_Vault
+"Stored Payment Method was successfully removed","Opgeslagen betalingsmethode werd met succes verwijderd",module,Magento_Vault
+"Stored Payment Methods","Opgeslagen betalingsmethoden",module,Magento_Vault
+"No available payment tokens for specified order payment.","Geen beschikbare betaaltokens voor opgegeven volgorde betaling.",module,Magento_Vault
 "Card Number",Kaartnummer,module,Magento_Vault
 "Expiration Date",Vervaldatum,module,Magento_Vault
 Type,Soort,module,Magento_Vault
@@ -5796,6 +5807,11 @@ Allow,Toestaan,module,Magento_Integration
 Done,Klaar,module,Magento_Integration
 "We can't complete your order because you don't have a payment method set up.","We kunnen uw bestelling niet voltooien omdat u geen bestalingsmethode heeft ingesteld.",module,Magento_Multishipping
 "Please choose a payment method.","Kies een betaalwijze.",module,Magento_Multishipping
+"Please enter a valid credit card type number.","Geef a. u. b. een geldig creditcard-nummer op.",module,Magento_Payment
+"Please enter a valid credit card number.","Geef a. u. b. een geldig creditcard-nummer op.",module,Magento_Payment
+"Incorrect credit card expiration month.","Onjuiste vervalmaand van creditcard.",module,Magento_Payment
+"Incorrect credit card expiration year.","Onjuist vervaljaar van creditcard.",module,Magento_Payment
+"An error occurred on the server. Please try to place the order again.","Er is een fout opgetreden op de server. Probeer het opnieuw plaatsen van de bestelling.",module,Magento_Payment
 "Sorry, something went wrong.","Er ging iets mis.",module,Magento_Paypal
 "Sorry, something went wrong. Please try again later.","Er ging iets mis. Probeer het later opnieuw.",module,Magento_Paypal
 "Video Error","Fout in video",module,Magento_ProductVideo
@@ -6133,6 +6149,7 @@ Environment,Omgeving,module,Magento_Braintree
 "Threshold Amount","Drempel bedrag",module,Magento_Braintree
 "Verify for Applicable Countries","Controleer voor landen die van toepassing zijn",module,Magento_Braintree
 "Verify for Specific Countries","Controleer voor bepaalde landen",module,Magento_Braintree
+Phone,Telefoonnummer,module,Magento_Braintree
 "Apply filters in order to get results. Only first 100 records will be displayed in the grid, you will be able to download full version of the report in .csv format.","Pas filters toe om resultaten te krijgen. Alleen de eerste 100 records worden weergegeven in de tabel. U kunt de volledige versie van het rapport als .csv bestand downloaden.",module,Magento_Braintree
 Select...,Selecteer...,module,Magento_Braintree
 "Transaction Type",Transactietype,module,Magento_Braintree
