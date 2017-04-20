@@ -5543,6 +5543,7 @@ Cancel,Annuleer,module,Magento_Checkout
 Login,"Log in",module,Magento_Checkout
 item,product,module,Magento_Checkout
 items,producten,module,Magento_Checkout
+"Go to Checkout","Ga naar afrekenen",module,Magento_Checkout
 "See Details","Bekijk details",module,Magento_Checkout
 "Options Details","Optie Details",module,Magento_Checkout
 Remove,Verwijder,module,Magento_Checkout
