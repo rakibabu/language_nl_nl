@@ -347,7 +347,10 @@ Loading...,"Bezig met laden...",module,Magento_Backend
 "You need more free space to create a backup.","Onvoldoende opslagruimte voor het maken van een back-up.",module,Magento_Backup
 "You need more permissions to create a backup.","U heeft meer bevoegdheden nodig om een back-up te maken.",module,Magento_Backup
 "We can't create the backup right now.","We kunnen de back-up nu niet maken.",module,Magento_Backup
+Backups,Back-ups,module,Magento_Backup
+System,Systeem,module,Magento_Backup
 Tools,Instellingen,module,Magento_Backup
+Backup,Back-up,module,Magento_Backup
 "We can't delete one or more backups.","Wij kunnen een of meerdere back-ups niet verwijderen.",module,Magento_Backup
 successful,geslaagd,module,Magento_Backup
 "You deleted the selected backup(s).","U heeft de geselecteerde back-up(s) verwijderd.",module,Magento_Backup
@@ -2112,7 +2115,7 @@ attachment,bijlage,module,Magento_Downloadable
 Pending,"In afwachting",module,Magento_Downloadable
 Invoiced,Gefactureerd,module,Magento_Downloadable
 sample,voorbeeld,module,Magento_Downloadable
-"Is this downloadable Product?","Is dit een downloadable product?",module,Magento_Downloadable
+"Is this downloadable Product?","Is dit een downloadbaar product?",module,Magento_Downloadable
 "Add links to your product files here.","Voeg links naar uw productbestanden hier toe.",module,Magento_Downloadable
 "[STORE VIEW]",[WINKELAANZICHT],module,Magento_Downloadable
 Title,Titel,module,Magento_Downloadable
