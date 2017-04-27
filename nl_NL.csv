@@ -352,7 +352,10 @@ Loading...,"Bezig met laden...",module,Magento_Backend
 "You need more free space to create a backup.","Onvoldoende opslagruimte voor het maken van een back-up.",module,Magento_Backup
 "You need more permissions to create a backup.","U heeft meer bevoegdheden nodig om een back-up te maken.",module,Magento_Backup
 "We can't create the backup right now.","We kunnen de back-up nu niet maken.",module,Magento_Backup
+Backups,Back-ups,module,Magento_Backup
+System,Systeem,module,Magento_Backup
 Tools,Instellingen,module,Magento_Backup
+Backup,Back-up,module,Magento_Backup
 "We can't delete one or more backups.","Wij kunnen een of meerdere back-ups niet verwijderen.",module,Magento_Backup
 successful,geslaagd,module,Magento_Backup
 "You deleted the selected backup(s).","U heeft de geselecteerde back-up(s) verwijderd.",module,Magento_Backup
@@ -2125,7 +2128,7 @@ attachment,bijlage,module,Magento_Downloadable
 Pending,"In afwachting",module,Magento_Downloadable
 Invoiced,Gefactureerd,module,Magento_Downloadable
 "To enable the option set the weight to no","Om de optie in te schakelen, stel het gewicht in op nee",module,Magento_Downloadable
-"Is this downloadable Product?","Is dit een downloadable product?",module,Magento_Downloadable
+"Is this downloadable Product?","Is dit een downloadbaar product?",module,Magento_Downloadable
 Title,Titel,module,Magento_Downloadable
 "Links can be purchased separately","Links kunnen afzonderlijk worden gekocht",module,Magento_Downloadable
 "Alphanumeric, dash and underscore characters are recommended for filenames. Improper characters are replaced with '_'.","Alfanumeriek- (a-z en A-Z), streepje- (-) en underscore- (_) karakters zijn aanbevolen voor bestandnamen. Ongeldige karakters worden vervangen door een underscore (_).",module,Magento_Downloadable
@@ -3318,6 +3321,7 @@ Description,Beschrijving,module,Magento_ProductVideo
 Role,Rol,module,Magento_ProductVideo
 "YouTube and Vimeo supported.","Youtube en Vimeo ondersteund.",module,Magento_ProductVideo
 "Vimeo supported.<br />To add YouTube video, please <a href=""%1"">enter YouTube API Key</a> first.","Vimeo ondersteund.<br />Om een YouTube video toe te voegen, gelieve eerst<a href=""%1"">uw YouTube API Key in te vullen</a>.",module,Magento_ProductVideo
+"Protocol isn't allowed","Protocol is niet toegestaan",module,Magento_ProductVideo
 "Could not get preview image information. Please check your connection and try again.","Kan afbeelding voorvertoning niet ophalen. Controleer uw verbinding en probeer het opnieuw.",module,Magento_ProductVideo
 "Add Video","Video toevoegen",module,Magento_ProductVideo
 "Browse to find or drag image here","Bladeren om de afbeelding te vinden of sleep de afbeelding hierheen",module,Magento_ProductVideo
@@ -5334,6 +5338,7 @@ Yes,Ja,module,Magento_Variable
 "Card Number",Kaartnummer,module,Magento_Vault
 "Expiration Date",Vervaldatum,module,Magento_Vault
 Type,Soort,module,Magento_Vault
+"You have no stored payment methods.","U hebt geen opgeslagen betaalmethoden.",module,Magento_Vault
 ending,einde,module,Magento_Vault
 Actions,Acties,module,Magento_Vault
 Delete,Verwijder,module,Magento_Vault
