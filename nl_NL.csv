@@ -5573,6 +5573,7 @@ Next,Volgende,module,Magento_Checkout
 "Sorry, no quotes are available for this order at this time","Er zijn op dit moment geen offertes beschikbaar voor deze order",module,Magento_Checkout
 "Order Summary","Overzicht van bestelling",module,Magento_Checkout
 "Item in Cart","Product in winkelwagen",module,Magento_Checkout
+"Items in Cart","Producten in winkelwagen",module,Magento_Checkout
 "View Details","Bekijk details",module,Magento_Checkout
 "Contact Form",Contactformulier,module,Magento_Contact
 "Name: %name","Naam: %name",module,Magento_Contact
