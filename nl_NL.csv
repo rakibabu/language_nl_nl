@@ -352,6 +352,7 @@ System,Systeem,module,Magento_Backup
 Tools,Instellingen,module,Magento_Backup
 Backup,Back-up,module,Magento_Backup
 "We can't delete one or more backups.","Wij kunnen een of meerdere back-ups niet verwijderen.",module,Magento_Backup
+failed,mislukt,module,Magento_Backup
 successful,geslaagd,module,Magento_Backup
 "You deleted the selected backup(s).","U heeft de geselecteerde back-up(s) verwijderd.",module,Magento_Backup
 "Can't load snapshot archive","Kan momentopname (snapshot) niet laden",module,Magento_Backup
