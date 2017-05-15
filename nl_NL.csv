@@ -835,7 +835,7 @@ Empty,Leeg,module,Magento_Catalog
 "Save & Close","Opslaan en sluiten",module,Magento_Catalog
 Attributes,Attributen,module,Magento_Catalog
 Change,Verander,module,Magento_Catalog
-"Advanced Inventory","Geavanceerd voorraadbeheer",module,Magento_Catalog
+"Advanced Inventory","Geavanceerd assortimentsbeheer",module,Magento_Catalog
 "Products Information","Gegevens producten",module,Magento_Catalog
 "Category Name","Categorie naam",module,Magento_Catalog
 "Parent Category","Hogere categorie",module,Magento_Catalog
@@ -5838,7 +5838,7 @@ Forms,Formulieren,module,Magento_Captcha
 "Case Sensitive","Hoofdletter gevoelig",module,Magento_Captcha
 "Enable CAPTCHA on Storefront","CAPTCHA op Storefront inschakelen",module,Magento_Captcha
 "CAPTCHA for ""Create user"" and ""Forgot password"" forms is always enabled if chosen.","CAPTCHA voor ""Account aanmaken"" en ""Wachtwoord vergeten"" altijd ingeschakeld indien gekozen.",module,Magento_Captcha
-Inventory,Voorraadbeheer,module,Magento_CatalogInventory
+Inventory,Assortimentsbeheer,module,Magento_CatalogInventory
 "Stock Options",Voorraadopties,module,Magento_CatalogInventory
 "Decrease Stock When Order is Placed","Verminder voorraad wanneer bestelling is geplaatst",module,Magento_CatalogInventory
 "Set Items' Status to be In Stock When Order is Cancelled","Status wijzigen naar 'Op Voorraad' bij annuleren van order.",module,Magento_CatalogInventory
