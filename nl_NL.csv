@@ -593,7 +593,7 @@ Always,Altijd,module,Magento_Captcha
 "Decimal qty increments is not allowed.","Het is niet toegestaan om het aantal met decimalen te verhogen.",module,Magento_CatalogInventory
 "Stock Status",Voorraadstatus,module,Magento_CatalogInventory
 Quantity,Aantal,module,Magento_CatalogInventory
-"Advanced Inventory","Geavanceerd voorraadbeheer",module,Magento_CatalogInventory
+"Advanced Inventory","Geavanceerd assortimentsbeheer",module,Magento_CatalogInventory
 "%1 is available to buy in increments of %2","%1 is beschikbaar om te kopen in stappen van %2",module,Magento_CatalogInventory
 "Only %1 left","Nog %1 beschikbaar",module,Magento_CatalogInventory
 "Product availability",Productbeschikbaarheid,module,Magento_CatalogInventory
@@ -786,7 +786,7 @@ Empty,Leeg,module,Magento_Catalog
 "Save & Close","Opslaan en sluiten",module,Magento_Catalog
 Attributes,Attributen,module,Magento_Catalog
 Change,Verander,module,Magento_Catalog
-"Advanced Inventory","Geavanceerd voorraadbeheer",module,Magento_Catalog
+"Advanced Inventory","Geavanceerd assortimentsbeheer",module,Magento_Catalog
 "Products Information","Gegevens producten",module,Magento_Catalog
 "Create Category","Categorie Aanmaken",module,Magento_Catalog
 "Category Name","Categorie naam",module,Magento_Catalog
@@ -6195,7 +6195,7 @@ Forms,Formulieren,module,Magento_Captcha
 "Enable CAPTCHA on Storefront","CAPTCHA op Storefront inschakelen",module,Magento_Captcha
 "CAPTCHA for ""Create user"" and ""Forgot password"" forms is always enabled if chosen.","CAPTCHA voor ""Account aanmaken"" en ""Wachtwoord vergeten"" altijd ingeschakeld indien gekozen.",module,Magento_Captcha
 "Inventory Section",Voorraadsectie,module,Magento_CatalogInventory
-Inventory,Voorraadbeheer,module,Magento_CatalogInventory
+Inventory,Assortimentsbeheer,module,Magento_CatalogInventory
 "Stock Options",Voorraadopties,module,Magento_CatalogInventory
 "Decrease Stock When Order is Placed","Verminder voorraad wanneer bestelling is geplaatst",module,Magento_CatalogInventory
 "Set Items' Status to be In Stock When Order is Cancelled","Status wijzigen naar 'Op Voorraad' bij annuleren van order.",module,Magento_CatalogInventory
