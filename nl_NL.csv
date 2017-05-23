@@ -939,7 +939,7 @@ Checkout,Afrekenen,module,Magento_Checkout
 "Invalid data","Ongeldige data",module,Magento_Checkout
 "The customer address is not valid.","Het adres van de klant is niet geldig.",module,Magento_Checkout
 "Invalid shipping method","Ongeldige verzendmethode",module,Magento_Checkout
-"Load customer quote error","Fout bij laden van klant-quote",module,Magento_Checkout
+"Load customer quote error","Fout bij laden van klant-offerte",module,Magento_Checkout
 "Cancel Coupon","Kortingscode annuleren",module,Magento_Checkout
 "Shopping Cart Items","Producten in winkelwagen",module,Magento_Checkout
 Item,Product,module,Magento_Checkout
