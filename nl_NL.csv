@@ -5141,7 +5141,7 @@ Roles,Rollen,module,Magento_User
 "Role Information","Rol informatie",module,Magento_User
 "Role Users","Rol gebruikers",module,Magento_User
 "User ID",Gebruiker-ID,module,Magento_User
-"User Name",Gebruiker-naam,module,Magento_User
+"User Name",Gebruikersnaam,module,Magento_User
 "First Name",Voornaam,module,Magento_User
 "Last Name",Achternaam,module,Magento_User
 Email,E-mailadres,module,Magento_User
@@ -5599,7 +5599,7 @@ Password:,Wachtwoord:,module,Magento_Customer
 "View past orders","Orderhistorie bekijken",module,Magento_Customer
 "Store alternative addresses (for shipping to multiple family members and friends)","Meerdere adressen opslaan (om bijvoorbeeld bestellingen naar vrienden en familie te sturen)",module,Magento_Customer
 "Please confirm your %store_name account","Bevestig uw %store_name account",module,Magento_Customer
-"You must confirm your %customer_email email before you can sign in (link is only valid once):","Bevestig uw e-mailadres (%customer_email) om in te kunnen loggen (u kunt de link één keer gebruiken):",module,Magento_Customer
+"You must confirm your %customer_email email before you can sign in (link is only valid once):","Bevestig uw e-mailadres %customer_email om in te kunnen loggen (u kan deze link slecht één keer gebruiken):",module,Magento_Customer
 "Confirm Your Account","Uw account bevestigen",module,Magento_Customer
 "Thank you for confirming your %store_name account.","Bedankt voor het bevestigen van uw %store_name account.",module,Magento_Customer
 "To sign in to our site and set a password, click on the <a href=""%create_password_url"">link</a>:","Om in te loggen op onze website en een wachtwoord in te stellen, klik op deze <a href=""%create_password_url"">link</a>:",module,Magento_Customer
