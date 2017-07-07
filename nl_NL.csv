@@ -3482,7 +3482,7 @@ Roles,Rollen,module,Magento_User
 "Role Information","Rol informatie",module,Magento_User
 "Role Users","Rol gebruikers",module,Magento_User
 "User ID",Gebruiker-ID,module,Magento_User
-"User Name",Gebruiker-naam,module,Magento_User
+"User Name",Gebruikersnaam,module,Magento_User
 "First Name",Voornaam,module,Magento_User
 "Last Name",Achternaam,module,Magento_User
 Email,E-mailadres,module,Magento_User
