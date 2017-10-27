@@ -4780,7 +4780,6 @@ Save,Opslaan,module,Magento_Shipping
 "Add Selected Product(s) to Package","Voeg geselecteerde product(en) toe aan pakket",module,Magento_Shipping
 "Add Products to Package","Producten toevoegen aan pakket",module,Magento_Shipping
 "USPS domestic shipments don't use package types.","USPS binnenlandse verzendingen gebruikt geen pakket types.",module,Magento_Shipping
-in,inch,module,Magento_Shipping
 "Delete Package","Verwijder pakket",module,Magento_Shipping
 Explanation,Uitleg,module,Magento_Shipping
 Carrier,Vervoerder,module,Magento_Shipping
